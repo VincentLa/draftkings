@@ -42,3 +42,4 @@ As of 2020-08-05, the scoring rules are:
 ## Potentially Useful Links
 1. https://realpython.com/linear-programming-python/?fbclid=IwAR0WL4TShqaOHSJTcZFQZZ7QCfe1JmgAewu9V8RrvDOlPipQ7eAZ6FuohZA
 2. https://github.com/jaebradley/draftkings_client
+3. [Python Package for Scraping Basketball Reference for Box Scores](https://github.com/jaebradley/basketball_reference_web_scraper)
