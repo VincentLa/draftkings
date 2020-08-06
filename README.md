@@ -29,3 +29,7 @@ s1 + ... + s8 = 50000
 ```
 
 In addition, for basketball there are position constraints as well.
+
+## Potentially Useful Links
+1. https://realpython.com/linear-programming-python/?fbclid=IwAR0WL4TShqaOHSJTcZFQZZ7QCfe1JmgAewu9V8RrvDOlPipQ7eAZ6FuohZA
+2. https://github.com/jaebradley/draftkings_client
