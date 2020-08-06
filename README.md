@@ -2,6 +2,38 @@
 
 A project to optimize lineups for Daily Fantasy Sports (DraftKings) starting with the NBA
 
+## Development Environment Setup
+Some quick instructions for getting dev environment setup for Python parts of the pipeline (assuming Mac)
+
+Install pyenv virtual env
+```
+$ brew install pyenv-virtualenv
+```
+
+Add the following lines to your `~/.bash_profile` file
+```
+if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi                                       
+ if which pyenv-virtualenv-init > /dev/null; then
+     eval "$(pyenv virtualenv-init -)";
+fi
+```
+
+Install python
+```
+$ pyenv install 3.7.4
+```
+
+Create a new virtual environment and activate
+```
+pyenv virtualenv 3.7.4 draftkings
+pyenv activate draftkings
+```
+
+Install python packages
+```
+pip install -r requirements.txt
+```
+
 ## The Problem
 We can frame this as a linear programming optimization problem. That is we are trying to pick 8 players let's call it:
 

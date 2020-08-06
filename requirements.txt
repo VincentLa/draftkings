@@ -1,3 +1,5 @@
+basketball_reference_web_scraper
+jupyter
 numpy
 pandas
 pulp
