@@ -33,6 +33,10 @@ In addition, for basketball there are position constraints as well.
 ## Planned Work
 1. Figure out how to (pref automatically) download DraftKings to get salary data. For now, we will manually download it by going to the context and exporting to CSV. Data is stored in [data/raw](./data/raw)
 2. Figure out how to (pref automatically) download player stats per game. We really only need the stats that matter for draft kings, so Points, steals, blocks, assists, TO, 3 points made, and from there we can derive double-double, triple double, etc. After downloading the data, we'll need to use DraftKing's formula to convert to DraftKings Points.
+
+As of 2020-08-05, the scoring rules are:
+
+
 3. Figure out how to (pref automatically) submit lineups to DraftKings.
 
 ## Potentially Useful Links
