@@ -30,6 +30,11 @@ s1 + ... + s8 = 50000
 
 In addition, for basketball there are position constraints as well.
 
+## Planned Work
+1. Figure out how to (pref automatically) download DraftKings to get salary data. For now, we will manually download it by going to the context and exporting to CSV. Data is stored in [data/raw](./data/raw)
+2. Figure out how to (pref automatically) download player stats per game. We really only need the stats that matter for draft kings, so Points, steals, blocks, assists, TO, 3 points made, and from there we can derive double-double, triple double, etc. After downloading the data, we'll need to use DraftKing's formula to convert to DraftKings Points.
+3. Figure out how to (pref automatically) submit lineups to DraftKings.
+
 ## Potentially Useful Links
 1. https://realpython.com/linear-programming-python/?fbclid=IwAR0WL4TShqaOHSJTcZFQZZ7QCfe1JmgAewu9V8RrvDOlPipQ7eAZ6FuohZA
 2. https://github.com/jaebradley/draftkings_client
