@@ -35,7 +35,17 @@ In addition, for basketball there are position constraints as well.
 2. Figure out how to (pref automatically) download player stats per game. We really only need the stats that matter for draft kings, so Points, steals, blocks, assists, TO, 3 points made, and from there we can derive double-double, triple double, etc. After downloading the data, we'll need to use DraftKing's formula to convert to DraftKings Points.
 
 As of 2020-08-05, the scoring rules are:
-
+|Stat   | DraftKings Points   |
+|---|---|
+|Point   | +1  |
+|Made 3 pt Shot   | +0.5  |
+|Rebound   | +1.25  |
+|Assist   | +1.5  |
+|Steal   | +2  |
+|Block   | +2  |
+|Turnover   | -0.5  |
+|Double-Double   | +1.5  |
+|Triple-Double   | +3  |
 
 3. Figure out how to (pref automatically) submit lineups to DraftKings.
 
