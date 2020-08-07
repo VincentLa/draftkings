@@ -68,5 +68,4 @@ for var in model.variables():
 for name, constraint in model.constraints.items():
     print(f"{name}: {constraint.value()}")
 
-# solver info
-model.solver
+model.to_json('data/problem_history/20200806_problem.json')
