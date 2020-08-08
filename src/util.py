@@ -1,7 +1,7 @@
+import os
 import uuid
 
 import pandas as pd
-import os
 import fuzzywuzzy
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process

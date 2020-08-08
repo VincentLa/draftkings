@@ -1,8 +1,9 @@
-import requests
-import re
 import datetime
-import pandas as pd
 import os
+import re
+import requests
+
+import pandas as pd
 import pdfreader
 from pdfreader import SimplePDFViewer
 from tabula import read_pdf, convert_into

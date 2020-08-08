@@ -1,7 +1,9 @@
+import os
+
 import pandas as pd
 import numpy
 from pulp import LpMaximize, LpProblem, LpStatus, lpSum, LpVariable
-import os
+
 
 # import dfs stats and set up variable universe:
 df = pd.read_csv(r'data\raw\draftkings_salaries\DKNBASalaries_Classic_20200806.csv')
