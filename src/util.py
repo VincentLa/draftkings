@@ -1,3 +1,5 @@
+import uuid
+
 import pandas as pd
 import os
 import fuzzywuzzy
@@ -51,10 +53,6 @@ mappingtable = fuzzy_merge(dkmap2, dkmap, key1='Name', key2='name')
 mappingtable.drop('ID', axis=1, inplace=True)
 mappingtable = mappingtable.drop_duplicates()
 test = mappingtable.merge(dkmap, left_on='matches', right_on='name', how='left')
-
-
-
-import uuid
 
 for i in test.Name:
     test.loc[test.Name==i, 'Player_ID'] = uuid.uuid3(uuid.NAMESPACE_DNS, i)
