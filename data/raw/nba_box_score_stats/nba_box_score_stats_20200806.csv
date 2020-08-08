@@ -1,10 +1,10 @@
 slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
 lillada01,Damian Lillard,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.DENVER_NUGGETS,2020-08-06,Outcome.WIN,2444,13,21,11,18,8,10,45,4,12,3,0,2,1,0,80.0
 hardeja01,James Harden,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_LAKERS,2020-08-06,Outcome.WIN,2138,11,19,5,10,12,12,39,8,12,3,1,10,1,0,74.0
-bogdabo01,Bogdan Bogdanovi?,Team.SACRAMENTO_KINGS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2020-08-06,Outcome.WIN,2249,13,20,6,9,3,3,35,4,3,1,0,0,0,0,49.5
+bogdabo01,Bogdan Bogdanović,Team.SACRAMENTO_KINGS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2020-08-06,Outcome.WIN,2249,13,20,6,9,3,3,35,4,3,1,0,0,0,0,49.5
 middlkh01,Khris Middleton,Team.MILWAUKEE_BUCKS,Location.HOME,Team.MIAMI_HEAT,2020-08-06,Outcome.WIN,2065,9,14,5,6,10,10,33,6,8,0,0,3,0,0,53.5
 foxde01,De'Aaron Fox,Team.SACRAMENTO_KINGS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2020-08-06,Outcome.WIN,2238,12,21,1,4,5,8,30,3,10,3,1,3,1,0,57.25
-porzikr01,Kristaps Porzi??is,Team.DALLAS_MAVERICKS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2020-08-06,Outcome.LOSS,2300,9,19,3,7,9,9,30,9,5,0,1,1,0,0,51.75
+porzikr01,Kristaps Porziņģis,Team.DALLAS_MAVERICKS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2020-08-06,Outcome.LOSS,2300,9,19,3,7,9,9,30,9,5,0,1,1,0,0,51.75
 portemi01,Michael Porter,Team.DENVER_NUGGETS,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2020-08-06,Outcome.LOSS,2069,10,18,4,7,3,3,27,12,2,2,1,0,1,0,54.5
 trentga02,Gary Trent,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.DENVER_NUGGETS,2020-08-06,Outcome.WIN,2161,10,15,7,10,0,0,27,3,4,2,0,1,0,0,43.75
 zubaciv01,Ivica Zubac,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.DALLAS_MAVERICKS,2020-08-06,Outcome.WIN,1458,10,10,0,0,1,2,21,15,1,0,1,0,1,0,44.75
@@ -16,10 +16,10 @@ aytonde01,Deandre Ayton,Team.PHOENIX_SUNS,Location.HOME,Team.INDIANA_PACERS,2020
 barneha02,Harrison Barnes,Team.SACRAMENTO_KINGS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2020-08-06,Outcome.WIN,2016,9,18,2,4,2,2,22,6,2,1,0,0,0,0,35.5
 georgpa01,Paul George,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.DALLAS_MAVERICKS,2020-08-06,Outcome.WIN,2205,10,21,2,4,2,2,24,7,6,0,0,1,0,0,42.25
 ingrabr01,Brandon Ingram,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.SACRAMENTO_KINGS,2020-08-06,Outcome.LOSS,2011,8,14,3,4,5,6,24,3,3,1,0,2,0,0,34.75
-doncilu01,Luka Don?i?,Team.DALLAS_MAVERICKS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2020-08-06,Outcome.LOSS,2101,10,21,6,13,3,6,29,3,6,0,0,4,0,0,42.75
+doncilu01,Luka Dončić,Team.DALLAS_MAVERICKS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2020-08-06,Outcome.LOSS,2101,10,21,6,13,3,6,29,3,6,0,0,4,0,0,42.75
 kuzmaky01,Kyle Kuzma,Team.LOS_ANGELES_LAKERS,Location.AWAY,Team.HOUSTON_ROCKETS,2020-08-06,Outcome.LOSS,1778,8,16,1,4,4,7,21,5,3,2,2,1,0,0,39.75
 bookede01,Devin Booker,Team.PHOENIX_SUNS,Location.HOME,Team.INDIANA_PACERS,2020-08-06,Outcome.WIN,1758,6,12,1,5,7,7,20,3,10,0,0,3,1,0,39.25
-nurkiju01,Jusuf Nurki?,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.DENVER_NUGGETS,2020-08-06,Outcome.WIN,2095,9,20,0,2,4,5,22,7,4,1,2,3,0,0,41.25
+nurkiju01,Jusuf Nurkić,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.DENVER_NUGGETS,2020-08-06,Outcome.WIN,2095,9,20,0,2,4,5,22,7,4,1,2,3,0,0,41.25
 mclembe01,Ben McLemore,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_LAKERS,2020-08-06,Outcome.WIN,1817,7,13,5,10,1,1,20,4,1,1,1,0,0,0,33.0
 lopezbr01,Brook Lopez,Team.MILWAUKEE_BUCKS,Location.HOME,Team.MIAMI_HEAT,2020-08-06,Outcome.WIN,1898,4,9,2,4,7,7,17,4,0,2,2,1,0,0,30.5
 morrima03,Marcus Morris,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.DALLAS_MAVERICKS,2020-08-06,Outcome.WIN,2155,5,7,2,4,4,4,16,5,1,2,0,1,0,0,28.25
@@ -45,11 +45,11 @@ klebima01,Maxi Kleber,Team.DALLAS_MAVERICKS,Location.HOME,Team.LOS_ANGELES_CLIPP
 bledser01,Eric Bledsoe,Team.MILWAUKEE_BUCKS,Location.HOME,Team.MIAMI_HEAT,2020-08-06,Outcome.WIN,1386,3,8,2,3,1,2,9,8,5,2,0,1,0,0,31.0
 oladivi01,Victor Oladipo,Team.INDIANA_PACERS,Location.AWAY,Team.PHOENIX_SUNS,2020-08-06,Outcome.LOSS,1887,4,11,2,4,6,7,16,4,2,0,0,0,0,0,25.0
 plumlma01,Mason Plumlee,Team.DENVER_NUGGETS,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2020-08-06,Outcome.LOSS,1616,5,9,0,1,3,4,13,7,5,1,0,3,0,0,29.75
-saricda01,Dario �ari?,Team.PHOENIX_SUNS,Location.HOME,Team.INDIANA_PACERS,2020-08-06,Outcome.WIN,1200,4,9,1,2,7,8,16,8,1,0,0,3,0,0,26.5
+saricda01,Dario Šarić,Team.PHOENIX_SUNS,Location.HOME,Team.INDIANA_PACERS,2020-08-06,Outcome.WIN,1200,4,9,1,2,7,8,16,8,1,0,0,3,0,0,26.5
 greenda02,Danny Green,Team.LOS_ANGELES_LAKERS,Location.AWAY,Team.HOUSTON_ROCKETS,2020-08-06,Outcome.LOSS,1488,5,7,0,0,0,0,10,3,1,2,1,1,0,0,20.75
 mccolcj01,CJ McCollum,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.DENVER_NUGGETS,2020-08-06,Outcome.WIN,2401,4,15,3,5,2,2,13,6,6,0,1,0,0,0,33.0
 greenja01,JaMychal Green,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.DALLAS_MAVERICKS,2020-08-06,Outcome.WIN,1084,4,4,2,2,0,0,10,5,1,0,1,0,0,0,20.75
-jokicni01,Nikola Joki?,Team.DENVER_NUGGETS,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2020-08-06,Outcome.LOSS,1422,3,8,0,2,2,2,8,5,13,0,0,5,0,0,31.25
+jokicni01,Nikola Jokić,Team.DENVER_NUGGETS,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2020-08-06,Outcome.LOSS,1422,3,8,0,2,2,2,8,5,13,0,0,5,0,0,31.25
 crowdja01,Jae Crowder,Team.MIAMI_HEAT,Location.AWAY,Team.MILWAUKEE_BUCKS,2020-08-06,Outcome.LOSS,1537,5,8,4,6,1,2,15,4,1,1,0,2,0,0,24.5
 olynyke01,Kelly Olynyk,Team.MIAMI_HEAT,Location.AWAY,Team.MILWAUKEE_BUCKS,2020-08-06,Outcome.LOSS,2065,2,8,1,4,8,8,13,6,2,1,0,1,0,0,25.5
 bridgmi01,Mikal Bridges,Team.PHOENIX_SUNS,Location.HOME,Team.INDIANA_PACERS,2020-08-06,Outcome.WIN,2093,5,9,0,2,0,0,10,4,2,1,0,0,0,0,20.0
@@ -89,7 +89,7 @@ mccontj01,T.J. McConnell,Team.INDIANA_PACERS,Location.AWAY,Team.PHOENIX_SUNS,202
 bateske01,Keita Bates-Diop,Team.DENVER_NUGGETS,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2020-08-06,Outcome.LOSS,1424,1,3,1,1,0,0,3,3,0,0,0,0,0,0,7.25
 willilo02,Lou Williams,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.DALLAS_MAVERICKS,2020-08-06,Outcome.WIN,1218,3,9,0,3,0,0,6,2,3,0,0,1,0,0,12.5
 jeffrda01,DaQuan Jeffries,Team.SACRAMENTO_KINGS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2020-08-06,Outcome.WIN,489,1,2,0,1,0,0,2,2,2,0,1,0,0,0,9.5
-marjabo01,Boban Marjanovi?,Team.DALLAS_MAVERICKS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2020-08-06,Outcome.LOSS,330,1,2,0,0,0,0,2,4,0,0,1,0,0,0,9.0
+marjabo01,Boban Marjanović,Team.DALLAS_MAVERICKS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2020-08-06,Outcome.LOSS,330,1,2,0,0,0,0,2,4,0,0,1,0,0,0,9.0
 bazemke01,Kent Bazemore,Team.SACRAMENTO_KINGS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2020-08-06,Outcome.WIN,1147,3,8,1,3,1,2,8,3,0,0,0,1,0,0,11.75
 ferreyo01,Yogi Ferrell,Team.SACRAMENTO_KINGS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2020-08-06,Outcome.WIN,76,1,1,1,1,0,0,3,0,0,0,0,0,0,0,3.5
 holidju01,Justin Holiday,Team.INDIANA_PACERS,Location.AWAY,Team.PHOENIX_SUNS,2020-08-06,Outcome.LOSS,1623,1,7,1,6,0,0,3,1,3,3,0,0,0,0,15.25
@@ -102,7 +102,7 @@ bitadgo01,Goga Bitadze,Team.INDIANA_PACERS,Location.AWAY,Team.PHOENIX_SUNS,2020-
 divindo01,Donte DiVincenzo,Team.MILWAUKEE_BUCKS,Location.HOME,Team.MIAMI_HEAT,2020-08-06,Outcome.WIN,976,1,4,0,1,0,0,2,1,3,1,0,1,0,0,9.25
 mcgruro01,Rodney McGruder,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.DALLAS_MAVERICKS,2020-08-06,Outcome.WIN,424,1,2,0,1,0,0,2,1,1,0,0,0,0,0,4.75
 leaftj01,T.J. Leaf,Team.INDIANA_PACERS,Location.AWAY,Team.PHOENIX_SUNS,2020-08-06,Outcome.LOSS,124,1,1,0,0,0,1,2,0,0,0,0,0,0,0,2.0
-mellini01,Nicol� Melli,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.SACRAMENTO_KINGS,2020-08-06,Outcome.LOSS,929,2,7,0,4,0,0,4,4,2,0,0,0,0,0,12.0
+mellini01,Nicolò Melli,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.SACRAMENTO_KINGS,2020-08-06,Outcome.LOSS,929,2,7,0,4,0,0,4,4,2,0,0,0,0,0,12.0
 waitedi01,Dion Waiters,Team.LOS_ANGELES_LAKERS,Location.AWAY,Team.HOUSTON_ROCKETS,2020-08-06,Outcome.LOSS,1495,2,10,0,4,4,4,8,2,0,1,1,2,0,0,13.5
 cookqu01,Quinn Cook,Team.LOS_ANGELES_LAKERS,Location.AWAY,Team.HOUSTON_ROCKETS,2020-08-06,Outcome.LOSS,1757,2,12,0,3,2,2,6,4,4,0,0,2,0,0,16.0
 hieldbu01,Buddy Hield,Team.SACRAMENTO_KINGS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2020-08-06,Outcome.WIN,643,1,5,1,4,0,0,3,1,0,1,0,0,0,0,6.75
@@ -123,7 +123,7 @@ willike04,Kenrich Williams,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.SACRAMEN
 jeromty01,Ty Jerome,Team.PHOENIX_SUNS,Location.HOME,Team.INDIANA_PACERS,2020-08-06,Outcome.WIN,124,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1.25
 mitrona01,Naz Mitrou-Long,Team.INDIANA_PACERS,Location.AWAY,Team.PHOENIX_SUNS,2020-08-06,Outcome.LOSS,124,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1.25
 gilesha01,Harry Giles,Team.SACRAMENTO_KINGS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2020-08-06,Outcome.WIN,58,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-0.5
-ilyaser01,Ersan ?lyasova,Team.MILWAUKEE_BUCKS,Location.HOME,Team.MIAMI_HEAT,2020-08-06,Outcome.WIN,385,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0
+ilyaser01,Ersan İlyasova,Team.MILWAUKEE_BUCKS,Location.HOME,Team.MIAMI_HEAT,2020-08-06,Outcome.WIN,385,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0
 kaminfr01,Frank Kaminsky,Team.PHOENIX_SUNS,Location.HOME,Team.INDIANA_PACERS,2020-08-06,Outcome.WIN,683,0,3,0,1,0,0,0,4,1,0,0,1,0,0,6.0
 sampsja02,JaKarr Sampson,Team.INDIANA_PACERS,Location.AWAY,Team.PHOENIX_SUNS,2020-08-06,Outcome.LOSS,729,0,0,0,0,0,0,0,1,1,0,0,1,0,0,2.25
 alexani01,Nickeil Alexander-Walker,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.SACRAMENTO_KINGS,2020-08-06,Outcome.LOSS,289,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0.75
