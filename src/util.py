@@ -8,7 +8,7 @@ from fuzzywuzzy import process
 # save misc tools/functions here that are useful to have
 
 # fuzzy merge for building mapping tables
-def fuzzy_merge(df_1, df_2, key1, key2, threshold=90, limit=2):
+def fuzzy_merge(df_1, df_2, key1, key2, threshold=80, limit=1):
     """
     :param df_1: the left table to join
     :param df_2: the right table to join
@@ -50,5 +50,16 @@ dkmap2 = sal_df[['ID', 'Name']].drop_duplicates()
 mappingtable = fuzzy_merge(dkmap2, dkmap, key1='Name', key2='name')
 mappingtable.drop('ID', axis=1, inplace=True)
 mappingtable = mappingtable.drop_duplicates()
+test = mappingtable.merge(dkmap, left_on='matches', right_on='name', how='left')
 
-current_map = pd.read_csv(r'data\processed\mappingtable.csv')
+
+
+import uuid
+
+for i in test.Name:
+    test.loc[test.Name==i, 'Player_ID'] = uuid.uuid3(uuid.NAMESPACE_DNS, i)
+
+test.drop('matches', axis=1, inplace=True)
+test.columns = ['DK_Name', 'BBR_slug', 'BBR_name', 'Player_ID']
+
+test.to_csv(r'data\processed\mappingtable.csv')

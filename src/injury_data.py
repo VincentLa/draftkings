@@ -23,25 +23,27 @@ def download_nba_injuryreports(date):
     path = ROOT_DIR + '\\data\\raw\\injury_reports'
 
     if (r1.status_code == 200) and (os.path.exists(path + '\\' + 'Injury-Report_' + date + '_11AM.pdf') is False):
-        open('Injury-Report_' + date + '_11AM.pdf', 'wb').write(r1.content)
+        open(path + "\\" + 'Injury-Report_' + date + '_11AM.pdf', 'wb').write(r1.content)
     if (r2.status_code == 200) and (os.path.exists(path + '\\' + 'Injury-Report_' + date + '_02PM.pdf') is False):
-        open('Injury-Report_' + date + '_02PM.pdf', 'wb').write(r2.content)
+        open(path + "\\" + 'Injury-Report_' + date + '_02PM.pdf', 'wb').write(r2.content)
     if (r3.status_code == 200) and (os.path.exists(path + '\\' + 'Injury-Report_' + date + '_05PM.pdf') is False):
-        open('Injury-Report_' + date + '_05PM.pdf', 'wb').write(r3.content)
-
-# download_nba_injuryreports(today)
+        open(path + "\\" + 'Injury-Report_' + date + '_05PM.pdf', 'wb').write(r3.content)
 
 # converts pdf injury reports into csv files
 def parse_injuryreports():
     path = ROOT_DIR + '\\data\\raw\\injury_reports'
     for file in os.listdir(path):
-        df = read_pdf(
-            path + "\\" + file,
-            pages='all', stream=True, area=[49.99375, 13.15625, 563.61375, 832.00125])
-        final_report = pd.DataFrame()
-        for i in range(0, len(df)):
-            page = pd.DataFrame(df[i])
-            final_report = final_report.append(page)
-        if(os.path.exists(ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + file[:-3] + "csv") is False):
+        if (os.path.exists(ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + file[:-3] + "csv") is False):
+            df = read_pdf(
+                path + "\\" + file,
+                pages='all', stream=True, area=[49.99375, 13.15625, 563.61375, 832.00125])
+            final_report = pd.DataFrame()
+            for i in range(0, len(df)):
+                page = pd.DataFrame(df[i])
+                final_report = final_report.append(page)
+
             final_report.to_csv(ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + file[:-3] + "csv")
 
+
+download_nba_injuryreports(today)
+parse_injuryreports()
