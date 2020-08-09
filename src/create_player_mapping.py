@@ -50,7 +50,7 @@ def create_player_mapping():
     player_map_df.rename(columns={'name_x': 'dk_name', 'slug': 'bbr_slug', 'name_y': 'bbr_name'}, inplace=True)
     player_map_df['player_id'] = [uuid.uuid3(uuid.NAMESPACE_DNS, name) for name in player_map_df['dk_name']]
     player_map_df.drop('matches', axis=1, inplace=True)
-    player_map_df.to_csv(os.path.join(PROCESSED_DATA_DIR, 'mappingtable.csv'), index=False)
+    player_map_df.to_csv(os.path.join(PROCESSED_DATA_DIR, 'player_map.csv'), index=False)
 
 
 def main():

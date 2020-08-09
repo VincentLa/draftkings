@@ -12,7 +12,7 @@ DATA_DIR = os.path.join(GIT_ROOT_DIR, 'data')
 DRAFTKINGS_SALARIES_DIR = os.path.join(DATA_DIR, 'raw', 'draftkings_salaries')
 NBA_BOX_SCORE_DIR = os.path.join(DATA_DIR, 'raw', 'nba_box_score_stats')
 PROBLEM_HISTORY_DIR = os.path.join(DATA_DIR, 'problem_history')
-MAPPING_TABLE_FN = os.path.join(DATA_DIR, 'processed', 'mappingtable.csv')
+MAPPING_TABLE_FN = os.path.join(DATA_DIR, 'processed', 'player_map.csv')
 
 
 def main():
@@ -45,31 +45,31 @@ def main():
     # mappingtable = dkmap2.merge(dkmap, left_on='Name', right_on='name', how='outer')
     # mappingtable.to_csv('mappingtable.csv')
 
-    mapping_df = pd.read_csv(MAPPING_TABLE_FN, index_col=0)[['ID', 'slug', 'name']]
-    test = df.merge(mapping_df, on='ID', how='left')
-    test = test.merge(dkpts_df_avg, on='name', how='left')
-    test = test.drop('AvgPointsPerGame', axis=1)
+    mapping_df = pd.read_csv(MAPPING_TABLE_FN)
+    test = df.merge(mapping_df, how='left', left_on='name', right_on='dk_name')
+    test = test.merge(dkpts_df_avg, how='left', left_on='bbr_name', right_on='name')
+    # test = test.drop('AvgPointsPerGame', axis=1)
     test = test.rename(columns={'draftkings_points':'AvgPointsPerGame'})
     test.AvgPointsPerGame = test.AvgPointsPerGame.fillna(0)
 
     df = test
 
     model = LpProblem(name='dfs-nba', sense=LpMaximize)
-    player_wgts = LpVariable.dicts("Player",df.Name,lowBound=0,upBound=1,cat='Integer')
+    player_wgts = LpVariable.dicts('Player', df.name, lowBound=0, upBound=1, cat='Integer')
 
     # Add obj function
-    model += lpSum(df[df.Name == i].AvgPointsPerGame*player_wgts[i] for i in df.Name)
+    model += lpSum(df[df.name == i].AvgPointsPerGame*player_wgts[i] for i in df.name)
 
     # set up model constraints
-    model += (lpSum(df[df.Name == i].Salary*player_wgts[i] for i in df.Name) <= 50000, 'Salary constraint')
-    model += (lpSum(player_wgts[i] for i in df.Name) == 8, 'Player constraint')
-    model += (lpSum(df[df.Name == i].PG*player_wgts[i] for i in df.Name) >= 1, 'PG constraint')
-    model += (lpSum(df[df.Name == i].SG*player_wgts[i] for i in df.Name) >= 1, 'SG constraint')
-    model += (lpSum(df[df.Name == i].SF*player_wgts[i] for i in df.Name) >= 1, 'SF constraint')
-    model += (lpSum(df[df.Name == i].PF*player_wgts[i] for i in df.Name) >= 1, 'PF constraint')
-    model += (lpSum(df[df.Name == i].C*player_wgts[i] for i in df.Name) >= 1, 'C constraint')
-    model += (lpSum(df[df.Name == i].G*player_wgts[i] for i in df.Name) >= 3, 'G constraint')
-    model += (lpSum(df[df.Name == i].F*player_wgts[i] for i in df.Name) >= 3, 'F constraint')
+    model += (lpSum(df[df.name == i].salary * player_wgts[i] for i in df.name) <= 50000, 'Salary constraint')
+    model += (lpSum(player_wgts[i] for i in df.name) == 8, 'Player constraint')
+    model += (lpSum(df[df.name == i].PG * player_wgts[i] for i in df.name) >= 1, 'PG constraint')
+    model += (lpSum(df[df.name == i].SG * player_wgts[i] for i in df.name) >= 1, 'SG constraint')
+    model += (lpSum(df[df.name == i].SF * player_wgts[i] for i in df.name) >= 1, 'SF constraint')
+    model += (lpSum(df[df.name == i].PF * player_wgts[i] for i in df.name) >= 1, 'PF constraint')
+    model += (lpSum(df[df.name == i].C * player_wgts[i] for i in df.name) >= 1, 'C constraint')
+    model += (lpSum(df[df.name == i].G * player_wgts[i] for i in df.name) >= 3, 'G constraint')
+    model += (lpSum(df[df.name == i].F * player_wgts[i] for i in df.name) >= 3, 'F constraint')
 
     status = model.solve()
 
