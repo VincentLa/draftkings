@@ -21,9 +21,7 @@ DRAFTKINGS_SALARIES_DIR = os.path.join(DATA_DIR, 'raw', 'draftkings_salaries')
 
 def create_player_mapping():
     """
-    Get Mapping
-
-    @Kevin -- if you can clean this up
+    Creates Player Map
     """
     # Pulling All Box Scores
     print('Reading All Box Scores')
