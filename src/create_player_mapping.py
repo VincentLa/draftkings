@@ -54,7 +54,7 @@ def create_player_mapping():
     player_map_df.drop('matches', axis=1, inplace=True)
     player_map_df.columns = ['DK_Name', 'BBR_slug', 'BBR_name', 'Player_ID']
 
-    player_map_df.to_csv(os.path.join(PROCESSED_DATA_DIR, 'mappingtable.csv'))
+    player_map_df.to_csv(os.path.join(PROCESSED_DATA_DIR, 'mappingtable.csv'), index=False)
 
 
 def main():
