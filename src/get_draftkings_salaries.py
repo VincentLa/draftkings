@@ -122,6 +122,11 @@ def get_fantasy_salary(game_year, game_month, game_day):
 
     soup_rows = soup_table.find_all('tr')
 
+    if len(soup_rows) == 0:
+        print('There were no games played on date: {}-{}-{}'.format(
+            game_year, str(game_month).rjust(2, '0'), str(game_day).rjust(2, '0')))
+        return None
+
     for row in soup_rows:
         if row.find('td').has_attr('colspan') == False:
             if row.find('a').get_text() != '':

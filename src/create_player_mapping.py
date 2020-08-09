@@ -40,9 +40,8 @@ def create_player_mapping():
     # mapping table
     print('Creating Mapping Table')
     dkmap = dkpts_df[['slug', 'name']].drop_duplicates()
-    dkmap2 = sal_df[['ID', 'Name']].drop_duplicates()
-    mappingtable = ut.fuzzy_merge(dkmap2, dkmap, key1='Name', key2='name')
-    mappingtable.drop('ID', axis=1, inplace=True)
+    dkmap2 = sal_df[['name']].drop_duplicates()
+    mappingtable = ut.fuzzy_merge(dkmap2, dkmap, key1='name', key2='name')
     mappingtable = mappingtable.drop_duplicates()
     player_map_df = mappingtable.merge(dkmap, left_on='matches', right_on='name', how='left')
 
@@ -50,7 +49,7 @@ def create_player_mapping():
         player_map_df.loc[player_map_df.Name==i, 'Player_ID'] = uuid.uuid3(uuid.NAMESPACE_DNS, i)
 
     player_map_df.drop('matches', axis=1, inplace=True)
-    player_map_df.columns = ['DK_Name', 'BBR_slug', 'BBR_name', 'Player_ID']
+    player_map_df.columns = ['dk_name', 'bbr_slug', 'bbr_name', 'player_id']
 
     player_map_df.to_csv(os.path.join(PROCESSED_DATA_DIR, 'mappingtable.csv'), index=False)
 
