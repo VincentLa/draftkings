@@ -1,3 +1,14 @@
+"""
+Script to grab NBA Box Score Data
+
+To run, cd into the root level directory of this repo. For example, run:
+
+python -m src.get_nba_box_scores --start_game_year=2019 --start_game_month=10 --start_game_day=22 --end_game_year=2020 --end_game_month=8 --end_game_day=7
+
+To run a single day, set the start and end dates to be the same
+"""
+
+import argparse
 import datetime as dt
 import os
 from pathlib import Path
@@ -37,8 +48,8 @@ def get_args():
     """Use argparse to parse command line arguments."""
     parser = argparse.ArgumentParser(description=HELP_TEXT)
     parser.add_argument(
-    	'--start_game_year',
-    	help='Start Year Range',
+        '--start_game_year',
+        help='Start Year Range',
         type=int,
         required=True
     )
@@ -56,8 +67,8 @@ def get_args():
         required=True
     )
     parser.add_argument(
-    	'--end_game_year',
-    	help='End Year Range',
+        '--end_game_year',
+        help='End Year Range',
         type=int,
         required=True
     )
@@ -92,7 +103,7 @@ def get_player_box_scores_day(game_year, game_month, game_day):
     
     if len(player_box_scores) == 0:
         print('There were no games played on date: {}-{}-{}'.format(
-        	game_year, str(game_month).rjust(2, '0'), str(game_day).rjust(2, '0')))
+            game_year, str(game_month).rjust(2, '0'), str(game_day).rjust(2, '0')))
         return None
     
     player_box_scores_df = pd.DataFrame(player_box_scores)
@@ -150,16 +161,18 @@ def get_player_box_scores_day(game_year, game_month, game_day):
     
     filename = os.path.join(
         DATA_DIR, 'raw', 'nba_box_score_stats', 'nba_box_score_stats_{}{}{}.csv'.format(
-        	game_year, str(game_month).rjust(2, '0'), str(game_day).rjust(2, '0')))
+            game_year, str(game_month).rjust(2, '0'), str(game_day).rjust(2, '0')))
+    
+    print('Writing file: {}'.format(filename))
     player_box_scores_df.to_csv(filename, index=False, encoding='utf-8')
     
     return player_box_scores_df
     
 
 def main():
-	"""
-	Run Getting NBA Box Scores
-	"""
+    """
+    Run Getting NBA Box Scores
+    """
     args = get_args()
     start_game_year = args.start_game_year
     start_game_month = args.start_game_month
@@ -175,19 +188,20 @@ def main():
 
     day_delta = dt.timedelta(days=1)
 
+    print('Getting and Downloading Box Scores Between {} and {}'.format(start_date, end_date))
     while start_date <= end_date:
-    	"""Get all box scores within the date range"""
-    	game_year = start_date.year
-    	game_month = start_date.month
-    	game_day = start_date.day
+        """Get all box scores within the date range"""
+        game_year = start_date.year
+        game_month = start_date.month
+        game_day = start_date.day
 
-    	player_box_scores_df = get_player_box_scores_day(
-    		game_year=game_year, game_month=game_month, game_day=game_day)
+        player_box_scores_df = get_player_box_scores_day(
+            game_year=game_year, game_month=game_month, game_day=game_day)
 
-    	start_date += day_delta
+        start_date += day_delta
 
 
- if __name__ == '__main__':
+if __name__ == '__main__':
     """See https://stackoverflow.com/questions/419163/what-does-if-name-main-do"""
     main()
 
