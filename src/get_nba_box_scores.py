@@ -22,7 +22,7 @@ import pandas as pd
 import src.util as ut
 
 
-GIT_ROOT_DIR = ut.get_git_root(os.getcwd())
+GIT_ROOT_DIR = ut.get_git_root(os.path.dirname(__file__))
 DATA_DIR = os.path.join(GIT_ROOT_DIR, 'data')
 
 # Constants to translate raw NBA stats to DraftKings Points.

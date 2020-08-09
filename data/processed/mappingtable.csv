@@ -1,368 +1,385 @@
 ,DK_Name,BBR_slug,BBR_name,Player_ID
 0,Luka Doncic,doncilu01,Luka Dončić,f6430771-aa8b-3ca6-9086-9ba42eee9511
 1,Giannis Antetokounmpo,antetgi01,Giannis Antetokounmpo,a238df04-8105-38b2-9051-cc9f44e0cd41
-2,James Harden,hardeja01,James Harden,d24d0f75-4ff6-3dad-9bb1-d4379e401716
-3,LeBron James,jamesle01,LeBron James,23c662f2-2e9c-32fb-bf64-789e9342a794
-4,Anthony Davis,davisan02,Anthony Davis,e889c894-7c22-3d31-922e-d5d17d93c449
-5,Damian Lillard,lillada01,Damian Lillard,b3d79c64-a4e0-3d8e-8671-2b52acd7692e
-6,Nikola Jokic,jokicni01,Nikola Jokić,2a00948e-ecfd-3fd1-953a-8a5ee97f801c
-7,Russell Westbrook,westbru01,Russell Westbrook,438fe57b-82e4-3f08-84fb-553f84ec14ec
-8,Jusuf Nurkic,nurkiju01,Jusuf Nurkić,c78b083a-1a68-35e3-bf07-f780ed52be60
-9,Kawhi Leonard,leonaka01,Kawhi Leonard,36d5ec57-6ef3-31fa-ac1c-461f81903c5a
-10,Domantas Sabonis,,,64201504-db90-37ea-b16b-24816337b1da
-11,Kristaps Porzingis,porzikr01,Kristaps Porziņģis,bdb99c5b-c245-3fe9-8422-13bd94b2b7f9
-12,T.J. Warren,warretj01,T.J. Warren,2d485ad0-508b-398a-88dc-4ec20f64bb19
-13,Devin Booker,bookede01,Devin Booker,1455dfbe-3963-3fb2-953e-20d61e872e18
+2,LeBron James,jamesle01,LeBron James,23c662f2-2e9c-32fb-bf64-789e9342a794
+3,Anthony Davis,davisan02,Anthony Davis,e889c894-7c22-3d31-922e-d5d17d93c449
+4,Damian Lillard,lillada01,Damian Lillard,b3d79c64-a4e0-3d8e-8671-2b52acd7692e
+5,Nikola Jokic,jokicni01,Nikola Jokić,2a00948e-ecfd-3fd1-953a-8a5ee97f801c
+6,Jusuf Nurkic,nurkiju01,Jusuf Nurkić,c78b083a-1a68-35e3-bf07-f780ed52be60
+7,Kawhi Leonard,leonaka01,Kawhi Leonard,36d5ec57-6ef3-31fa-ac1c-461f81903c5a
+8,Kristaps Porzingis,porzikr01,Kristaps Porziņģis,bdb99c5b-c245-3fe9-8422-13bd94b2b7f9
+9,Devin Booker,bookede01,Devin Booker,1455dfbe-3963-3fb2-953e-20d61e872e18
+10,T.J. Warren,warretj01,T.J. Warren,2d485ad0-508b-398a-88dc-4ec20f64bb19
+11,Domantas Sabonis,sabondo01,Domantas Sabonis,64201504-db90-37ea-b16b-24816337b1da
+12,Paul George,georgpa01,Paul George,59cb23e3-2d34-309c-a6be-9c2636ed431e
+13,Donovan Mitchell,mitchdo01,Donovan Mitchell,45ce9323-4f43-30bb-b0f4-dd33a3ec8c27
 14,CJ McCollum,mccolcj01,CJ McCollum,750abea5-27e7-375e-8d1e-c39dfde38fc3
-15,Paul George,georgpa01,Paul George,59cb23e3-2d34-309c-a6be-9c2636ed431e
-16,Bam Adebayo,adebaba01,Bam Adebayo,78e51ae8-293c-3121-95ac-386793efc002
-17,Khris Middleton,middlkh01,Khris Middleton,87ef98ac-6910-3db5-89a3-9fac6b1e26ec
-18,Jamal Murray,,,374753d4-5e92-3dc1-ab73-4d50f6a17f7f
-19,Deandre Ayton,aytonde01,Deandre Ayton,d44a46e8-639e-37be-a242-19f773148c5b
-20,Jimmy Butler,butleji01,Jimmy Butler,b0f77b6c-5366-326a-a86e-6999b1346b63
-21,Malcolm Brogdon,brogdma01,Malcolm Brogdon,6b5e5264-7596-39be-813f-2aa3b40c769e
-22,Will Barton,,,907c02e0-697a-3655-81f6-2e53e162c1d8
-23,Ricky Rubio,rubiori01,Ricky Rubio,36030f78-a0bb-3b01-bbaa-4ac8c3579bc1
-24,Robert Covington,covinro01,Robert Covington,f9f8f101-f90a-34e8-8623-d9354e65a68b
-25,Michael Porter Jr.,portemi01,Michael Porter,894d86ec-62f9-3bf2-88be-c6f6ec82eb30
-26,Myles Turner,turnemy01,Myles Turner,40bc2d6e-cf92-3cf3-bad7-c65e8cf9b1b2
-27,Tim Hardaway Jr.,hardati02,Tim Hardaway,6c97ed7f-3dec-3cde-a884-8e44f87b46f7
-28,Montrezl Harrell,,,30c45bc7-bdea-3238-9ed7-b8a57c17fc41
-29,Reggie Jackson,jacksre01,Reggie Jackson,ddf66c1b-dad6-3d8c-b27f-64db0687f1b3
-30,Carmelo Anthony,anthoca01,Carmelo Anthony,e2c0403a-e5c3-3461-a932-a3ca2452436d
-31,Victor Oladipo,oladivi01,Victor Oladipo,4fe38742-eec7-3db1-8e41-e26007fb2fbd
-32,Brook Lopez,lopezbr01,Brook Lopez,81ec0513-c734-3f95-a8d3-197414ac75ee
-33,Paul Millsap,millspa01,Paul Millsap,35bfc60e-9399-342b-9944-96072a53da66
-34,Eric Bledsoe,bledser01,Eric Bledsoe,94d62a50-628e-3d79-97c7-7619b7992934
-35,Donte DiVincenzo,divindo01,Donte DiVincenzo,36e46816-310e-3fbf-a12e-db7e1f5d567d
-36,Kelly Oubre Jr.,,,c583a7d0-faad-3f75-91a7-9d63d5bf3998
-37,Hassan Whiteside,whiteha01,Hassan Whiteside,bd92a0e1-1f20-39f3-84c8-f0ccc81f883c
-38,Goran Dragic,dragigo01,Goran Dragić,07358c57-65a9-3679-909a-e3121ad5711c
-39,Duncan Robinson,robindu01,Duncan Robinson,1ecac2cd-fb05-31b4-9b41-4e58a8334fa0
-40,Lou Williams,willilo02,Lou Williams,fe8e6f3c-eb69-3418-a2c8-6a187b335a7d
-41,Dario Saric,saricda01,Dario Šarić,d78a8d12-3fc8-3031-979b-371456451608
-42,Cameron Johnson,johnsca02,Cameron Johnson,5967b5ab-ca03-32e5-9824-479f3b700964
-43,Mikal Bridges,bridgmi01,Mikal Bridges,5c2dcf58-eb70-387f-876e-a842d117e87e
-44,Danuel House Jr.,houseda01,Danuel House,7c811265-0eaa-39b0-a754-dab38fc9acf1
-45,Kelly Olynyk,olynyke01,Kelly Olynyk,69fee277-49f2-3605-be55-cc740500009a
-46,Aaron Holiday,holidaa01,Aaron Holiday,5e4d6a72-80d0-3309-9ae9-f9e84290432d
-47,Ivica Zubac,zubaciv01,Ivica Zubac,4218c4c6-2e57-3710-9910-af4c099098bc
-48,Dorian Finney-Smith,finnedo01,Dorian Finney-Smith,acf12beb-463d-3120-8759-56f49032fa5d
-49,Monte Morris,morrimo01,Monte Morris,0901f743-3e40-3a04-a5fa-0815dce6ddbf
-50,Aron Baynes,,,626f79d8-b9ac-3c85-8ea2-d9d980870456
-51,Jeremy Lamb,,,50ffafd3-776d-33a9-a06d-21f672a86db4
-52,Gary Harris,,,4800315b-ad80-3b6b-9065-2c248e9cb19d
-53,Kyle Kuzma,kuzmaky01,Kyle Kuzma,bfcbab09-94ee-3bde-8b76-2733c26710d5
-54,Jae Crowder,crowdja01,Jae Crowder,4a3e65df-9f54-372b-a49c-d411efd66bd3
-55,Seth Curry,curryse01,Seth Curry,fc381e1d-3e6c-3a5e-9546-e35c5d4d3301
-56,Maxi Kleber,klebima01,Maxi Kleber,abd67313-99a4-30c9-be0e-f448981e9850
-57,Gary Trent Jr.,trentga02,Gary Trent,eb413d19-3a79-36ef-88d7-6ed8f54424d5
-58,Jerami Grant,grantje01,Jerami Grant,35154dd9-b806-3811-836f-6b31448bb592
-59,Zach Collins,colliza01,Zach Collins,c79ddeb9-54bc-30f8-8d94-6246b1cd9564
-60,Ersan Ilyasova,ilyaser01,Ersan İlyasova,0f90df6d-130a-36d2-bb40-a8d8a47e8d81
-61,Marcus Morris Sr.,morrima03,Marcus Morris,09ecac1a-57df-3419-a92c-063f7d4ca6c5
-62,P.J. Tucker,tuckepj01,P.J. Tucker,1b0bc5df-4ba8-3bc6-8b0e-efff587d9e09
-63,Kendrick Nunn,nunnke01,Kendrick Nunn,80b8fbfc-496e-353b-b1c3-5d75514dcb1a
-64,Justin Holiday,holidju01,Justin Holiday,db8b4b15-20b8-311c-936e-1421c70f1eed
-65,T.J. McConnell,mccontj01,T.J. McConnell,18dc385f-470d-3236-ba5c-cf5060842a3a
-66,Torrey Craig,craigto01,Torrey Craig,be3a564d-68b2-3f54-b1ce-879913b6bf6f
-67,Jeff Green,greenje02,Jeff Green,86a1f5a0-c79c-34d8-99bc-800a7b148012
-68,George Hill,hillge01,George Hill,6daa04bf-6a57-393a-b877-aa07e4c7abc9
-69,Derrick Jones Jr.,jonesde02,Derrick Jones,c6c606a9-c7fe-3a2f-a344-05342e1c2124
-70,Delon Wright,wrighde01,Delon Wright,4b631277-800e-31d1-b156-5866f992d9a4
-71,Patrick Beverley,beverpa01,Patrick Beverley,c9ca142c-402c-3c9a-aaf5-fe56f2bd723a
-72,JaMychal Green,greenja01,JaMychal Green,d6392f1d-a20a-31a5-8115-a188f41ab8c6
-73,Eric Gordon,,,99100009-2a67-3434-ac53-b412929d0703
-74,Dion Waiters,waitedi01,Dion Waiters,12dbb0b4-0a66-374d-991a-c560665fd521
-75,Kentavious Caldwell-Pope,caldwke01,Kentavious Caldwell-Pope,5afec845-b6f6-3df2-a338-6d582721321d
-76,Marvin Williams,willima02,Marvin Williams,eff16a2e-90d2-3072-bf6d-0fd13a86cc21
-77,Tyler Herro,herroty01,Tyler Herro,f558a1b3-7c50-324f-8498-b99c6df6053f
-78,Mason Plumlee,plumlma01,Mason Plumlee,5203e083-b211-3876-8019-c5a4c0c6342a
-79,Cameron Payne,payneca01,Cameron Payne,a5142956-2399-3082-9d1c-e22379992985
-80,Trey Burke,burketr01,Trey Burke,15d3b0d0-5143-3fef-955c-8fb0048c4cd3
-81,JaVale McGee,mcgeeja01,JaVale McGee,179b055b-ff3e-37ce-abc0-4b6ae8912cc4
-82,Alex Caruso,carusal01,Alex Caruso,83df25d3-4248-3c01-a7a9-29788c012df9
-83,Kyle Korver,korveky01,Kyle Korver,83478adf-729e-3647-ac80-ac139760570f
-84,Sterling Brown,brownst02,Sterling Brown,d72d9207-4e2c-38bf-bd2b-6c2ffe0ef439
-85,Andre Iguodala,iguodan01,Andre Iguodala,19bb9ae5-a0eb-343c-959b-5caa448d355a
-86,Robin Lopez,lopezro01,Robin Lopez,fa6e25f5-65a1-3a77-b38d-900fcf73aba9
-87,Pat Connaughton,connapa01,Pat Connaughton,2446026f-2562-3492-a413-f31928aac224
-88,Doug McDermott,mcderdo01,Doug McDermott,f11a3b37-52bd-30e3-97af-194c11d52732
-89,Danny Green,greenda02,Danny Green,3edba55b-cb16-3bca-88c6-f35e9299a857
-90,Jevon Carter,carteje01,Jevon Carter,5ee9ee9c-537a-39fd-adcd-42219b988a54
-91,Jakarr Sampson,sampsja02,JaKarr Sampson,8daf923b-7312-3223-8b5b-c273f0f1c81e
-92,J.J. Barea,bareajo01,J.J. Barea,cf22b372-e60d-3735-bbbf-fbe98799296a
-93,Courtney Lee,,,9bff2bcd-884a-3b14-b366-a42ad1101ffe
-94,Boban Marjanovic,marjabo01,Boban Marjanović,05ba33aa-0235-3757-8129-8013bdcf016e
-95,Justin Jackson,jacksju01,Justin Jackson,501f62fa-abbc-3e82-b485-8b65d9a1e2a7
-96,Troy Daniels,danietr01,Troy Daniels,18d648e6-d078-3d9b-9d08-66002f48b061
-97,PJ Dozier,doziepj01,PJ Dozier,8d0609c1-4ab3-345e-8c5d-00415b9eefd1
-98,Ben McLemore,mclembe01,Ben McLemore,ed741818-485f-39da-8f13-2e48961908cb
-99,Dwight Howard,howardw01,Dwight Howard,14601ffb-2bfe-313d-8f41-cf16bea2b15c
-100,Wesley Matthews,matthwe02,Wesley Matthews,5b5360c3-523c-36fc-b2ed-ecb03a318aab
-101,Cameron Reynolds,,,484ac73a-34b9-346c-b21b-7486eded8a15
-102,Frank Mason III,masonfr01,Frank Mason,e3b9177d-4693-3a34-894f-d7e3cb87e376
-103,Thanasis Antetokounmpo,antetgi01,Giannis Antetokounmpo,88a01cf6-97e3-3317-9748-7bd14bd9a04c
-104,D.J. Wilson,wilsodj01,D.J. Wilson,932c5bf0-86b5-3c55-a21b-77a8791be95e
-105,Udonis Haslem,,,355cef1e-7b97-3e8b-b9ef-067202c8c9d0
-106,Solomon Hill,hillso01,Solomon Hill,5a35427e-3542-3928-b4d4-fd8132a794d4
-107,Meyers Leonard,,,dbf704d0-8dbd-390e-b853-ecf2c856692a
-108,Gabe Vincent,,,19839d1b-e706-376d-a011-86305f4c3f73
-109,Chris Silva,silvach01,Chris Silva,a6b4e533-1f5e-321a-aa02-3cdd6544a18f
-110,Kyle Alexander,alexaky01,Kyle Alexander,5b6b8a7d-dfdf-322a-881c-d7830c9bb4c0
-111,KZ Okpala,,,051835d3-f5d1-36fb-8a7f-eadd31be8837
-112,Frank Kaminsky,kaminfr01,Frank Kaminsky,12e764eb-f686-3362-8534-a0b2af4575c1
-113,Tariq Owens,,,1bef0d2e-a4ef-38ee-9945-2b31e6d1475b
-114,Cheick Diallo,diallch01,Cheick Diallo,63724f42-7390-3c2a-8ddb-32878a997ec0
-115,Ty Jerome,jeromty01,Ty Jerome,e123b018-d1ed-3126-8f00-b61acc0feb15
-116,Elie Okobo,,,1ecc3c1b-a299-36e8-b1ea-95ba4df64b65
-117,Jalen Lecque,,,65a032ab-0624-3ee1-bd67-13930250b2d1
-118,Naz Mitrou-Long,mitrona01,Naz Mitrou-Long,329d181d-49d4-38a0-be6e-bb0234ebcf7b
-119,Edmond Sumner,sumneed01,Edmond Sumner,f3e68d47-7681-35cb-ae19-4a722bbd89e1
-120,TJ Leaf,leaftj01,T.J. Leaf,a7fcba90-d91c-3666-9fe0-eed1d3bb3f22
-121,Alize Johnson,johnsal02,Alize Johnson,168ddf24-a8c5-39a4-911e-e8871f14753e
-122,Brian Bowen II,,,a98366b1-e555-308b-b49e-6c6b69dc2c6d
-123,Goga Bitadze,bitadgo01,Goga Bitadze,cba1d489-0857-3f4b-9905-f11dcffab01b
-124,Jalen Brunson,,,6a3663d2-abdd-3736-bf2d-b5de22eba689
-125,Dwight Powell,,,bdb5fcb8-77de-37ac-8365-daa846246918
-126,Michael Kidd-Gilchrist,portemi01,Michael Porter,1bb04731-ff11-31bd-93b2-368cb14b648a
-127,Willie Cauley-Stein,,,65e5cdeb-02f4-3cb7-89ac-93bc2e7f5ab8
-128,Antonius Cleveland,clevean01,Antonius Cleveland,5301e705-c9df-368f-aaf9-2134d29e2705
-129,Josh Reaves,,,3a9d662a-ecc8-3729-9fde-101936defc47
-130,Joakim Noah,noahjo01,Joakim Noah,85ca079c-9506-389c-832a-8de0ec62998a
-131,Patrick Patterson,pattepa01,Patrick Patterson,81069db7-6f9e-32e3-b13c-ccff7c44fca9
-132,Rodney McGruder,mcgruro01,Rodney McGruder,571fb876-3f05-39a3-8ee0-6538ae0a59c6
-133,Johnathan Motley,,,79828d21-cac6-3bb5-8874-1fc223c48e94
-134,Terance Mann,mannte01,Terance Mann,45659f06-a9e6-3b89-a4c7-4316175bc265
-135,Landry Shamet,shamela01,Landry Shamet,075cb1d1-b091-343d-9411-c18ad116bf76
-136,Mfiondu Kabengele,,,709b66c2-01e5-38f9-96eb-660c2ffc4de5
-137,Amir Coffey,coffeam01,Amir Coffey,aa318ddc-f044-33dd-9aee-edcce0f234d1
-138,Noah Vonleh,vonleno01,Noah Vonleh,e7531090-8180-387d-bb69-0aec36f4138d
-139,Keita Bates-Diop,bateske01,Keita Bates-Diop,3f0512f3-0140-3a9c-a6aa-bcc03d26ab41
-140,Tyler Cook,cookty01,Tyler Cook,2633f1a9-b1f1-3186-a602-5f8d1c4d393a
-141,Vlatko Cancar,,,805e1e38-270f-3c15-bb3b-01fd17d6d43a
-142,Bol Bol,bolbo01,Bol Bol,04685493-451a-3cb8-887c-d4073e378ef5
-143,Trevor Ariza,,,048e94a4-dc38-3f66-b8a9-789019a8b6f2
-144,Rodney Hood,,,412d2dcc-2f7a-3e9a-af5a-91088517b754
-145,Mario Hezonja,hezonma01,Mario Hezonja,78231af1-8370-31e9-8fdc-82cdcaea0dbf
-146,Jaylen Adams,,,47cc6377-998c-329c-8d80-2eff0c34e240
-147,Caleb Swanigan,,,7b1e397f-196e-31ba-8dac-184e8fe94ead
-148,Wenyen Gabriel,,,bd296bfc-5446-364b-9672-b5b40464d6d5
-149,Anfernee Simons,simonan01,Anfernee Simons,58aa6e79-de05-3226-9d24-7dc2bdf1231c
-150,Jaylen Hoard,,,37c23ef2-2d38-31c7-be91-39cf198a05e8
-151,Moses Brown,,,14653d5f-36b4-3bf1-9aa2-f495b33825af
-152,Nassir Little,,,9ff4d1c4-4203-3fcb-9ec1-9306c58ccdbb
-153,Austin Rivers,riverau01,Austin Rivers,03325ed1-e10c-3dbd-ad08-fbd3c60cb243
-154,Tyson Chandler,,,1927b183-942d-364c-80d9-11df6254dc7c
-155,DeMarre Carroll,,,f98ec1e8-6c1c-36d5-acd2-305a5ca31b50
-156,Luc Richard Mbah a Moute,,,06c99716-2868-3288-a463-d44c6eb1a28a
-157,Thabo Sefolosha,,,f3cf4e9d-5a76-313b-88e6-625e1b181370
-158,Michael Frazier,frazimi01,Michael Frazier,6fb9c889-f31d-3735-b1b6-00ef3533f006
-159,David Nwaba,,,27fcd646-7513-3dfa-8040-0b06a4512a4c
-160,Bruno Caboclo,,,534aa67c-aea4-36f0-b8cf-7b71ee3d0173
-161,Chris Clemons,,,e269808d-a8f4-3b23-89b3-b3704b9ba3b5
-162,William Howard,,,edabacb0-a6fa-3b90-adf5-11910566650d
-163,Jared Dudley,dudleja01,Jared Dudley,b8271005-ee65-3328-96fd-238e8f2caffc
-164,J.R. Smith,smithjr01,J.R. Smith,fc76795a-2085-3727-9c61-5a2bb36e1c65
-165,Rajon Rondo,,,8f05b667-efd5-334e-bef3-294d02279f21
-166,Markieff Morris,morrima02,Markieff Morris,3af1bb16-b6d8-3e62-acb5-711ad336b42e
-167,Avery Bradley,,,3b6f5062-2114-348c-94dd-c0feb139ad57
-168,Quinn Cook,cookqu01,Quinn Cook,8d412ee7-c7b8-3213-a097-90ea22fcab10
-169,Devontae Cacok,,,05552277-bc70-385f-b64a-ffab908e459d
-170,Kostas Antetokounmpo,antetko01,Kostas Antetokounmpo,4457909c-39cb-3227-ab14-f7fde73f4a9f
-171,Talen Horton-Tucker,hortota01,Talen Horton-Tucker,5391b85e-6aa7-3893-9cc0-22115c59d60a
+15,Khris Middleton,middlkh01,Khris Middleton,87ef98ac-6910-3db5-89a3-9fac6b1e26ec
+16,Deandre Ayton,aytonde01,Deandre Ayton,d44a46e8-639e-37be-a242-19f773148c5b
+17,Rudy Gobert,goberru01,Rudy Gobert,1a2c39e5-a74c-3264-b9d3-8218aa797ab2
+18,Bam Adebayo,adebaba01,Bam Adebayo,78e51ae8-293c-3121-95ac-386793efc002
+19,Jamal Murray,murraja01,Jamal Murray,374753d4-5e92-3dc1-ab73-4d50f6a17f7f
+20,Michael Porter Jr.,portemi01,Michael Porter,894d86ec-62f9-3bf2-88be-c6f6ec82eb30
+21,Jimmy Butler,butleji01,Jimmy Butler,b0f77b6c-5366-326a-a86e-6999b1346b63
+22,Malcolm Brogdon,brogdma01,Malcolm Brogdon,6b5e5264-7596-39be-813f-2aa3b40c769e
+23,Will Barton,bartowi01,Will Barton,907c02e0-697a-3655-81f6-2e53e162c1d8
+24,Myles Turner,turnemy01,Myles Turner,40bc2d6e-cf92-3cf3-bad7-c65e8cf9b1b2
+25,Ricky Rubio,rubiori01,Ricky Rubio,36030f78-a0bb-3b01-bbaa-4ac8c3579bc1
+26,Tim Hardaway Jr.,hardati02,Tim Hardaway,6c97ed7f-3dec-3cde-a884-8e44f87b46f7
+27,Montrezl Harrell,harremo01,Montrezl Harrell,30c45bc7-bdea-3238-9ed7-b8a57c17fc41
+28,Mike Conley,conlemi01,Mike Conley,08110c58-3d05-3688-bf01-be90d6bf792c
+29,Victor Oladipo,oladivi01,Victor Oladipo,4fe38742-eec7-3db1-8e41-e26007fb2fbd
+30,Joe Ingles,inglejo01,Joe Ingles,fe9c5621-fea8-3c20-842a-4595b48ca89f
+31,Eric Bledsoe,bledser01,Eric Bledsoe,94d62a50-628e-3d79-97c7-7619b7992934
+32,Carmelo Anthony,anthoca01,Carmelo Anthony,e2c0403a-e5c3-3461-a932-a3ca2452436d
+33,Lou Williams,willilo02,Lou Williams,fe8e6f3c-eb69-3418-a2c8-6a187b335a7d
+34,Bojan Bogdanovic,bogdabo02,Bojan Bogdanović,521e918d-3fb8-3fbf-b887-1b212f4e9758
+35,Reggie Jackson,jacksre01,Reggie Jackson,ddf66c1b-dad6-3d8c-b27f-64db0687f1b3
+36,Kyle Kuzma,kuzmaky01,Kyle Kuzma,bfcbab09-94ee-3bde-8b76-2733c26710d5
+37,Ivica Zubac,zubaciv01,Ivica Zubac,4218c4c6-2e57-3710-9910-af4c099098bc
+38,Paul Millsap,millspa01,Paul Millsap,35bfc60e-9399-342b-9944-96072a53da66
+39,Kendrick Nunn,nunnke01,Kendrick Nunn,80b8fbfc-496e-353b-b1c3-5d75514dcb1a
+40,Jordan Clarkson,clarkjo01,Jordan Clarkson,ae903241-c7b3-3b18-b8dd-436837df0d87
+41,Cameron Johnson,johnsca02,Cameron Johnson,5967b5ab-ca03-32e5-9824-479f3b700964
+42,Tyler Herro,herroty01,Tyler Herro,f558a1b3-7c50-324f-8498-b99c6df6053f
+43,Goran Dragic,dragigo01,Goran Dragić,07358c57-65a9-3679-909a-e3121ad5711c
+44,Kelly Oubre Jr.,oubreke01,Kelly Oubre,c583a7d0-faad-3f75-91a7-9d63d5bf3998
+45,Brook Lopez,lopezbr01,Brook Lopez,81ec0513-c734-3f95-a8d3-197414ac75ee
+46,Royce O'Neale,onealro01,Royce O'Neale,1ce9ba43-4f4a-39b6-9728-e5587e490791
+47,Mikal Bridges,bridgmi01,Mikal Bridges,5c2dcf58-eb70-387f-876e-a842d117e87e
+48,Kelly Olynyk,olynyke01,Kelly Olynyk,69fee277-49f2-3605-be55-cc740500009a
+49,Gary Trent Jr.,trentga02,Gary Trent,eb413d19-3a79-36ef-88d7-6ed8f54424d5
+50,Dario Saric,saricda01,Dario Šarić,d78a8d12-3fc8-3031-979b-371456451608
+51,Duncan Robinson,robindu01,Duncan Robinson,1ecac2cd-fb05-31b4-9b41-4e58a8334fa0
+52,Dorian Finney-Smith,finnedo01,Dorian Finney-Smith,acf12beb-463d-3120-8759-56f49032fa5d
+53,Jerami Grant,grantje01,Jerami Grant,35154dd9-b806-3811-836f-6b31448bb592
+54,Aaron Holiday,holidaa01,Aaron Holiday,5e4d6a72-80d0-3309-9ae9-f9e84290432d
+55,Hassan Whiteside,whiteha01,Hassan Whiteside,bd92a0e1-1f20-39f3-84c8-f0ccc81f883c
+56,Aron Baynes,baynear01,Aron Baynes,626f79d8-b9ac-3c85-8ea2-d9d980870456
+57,Jae Crowder,crowdja01,Jae Crowder,4a3e65df-9f54-372b-a49c-d411efd66bd3
+58,Marcus Morris Sr.,morrima03,Marcus Morris,09ecac1a-57df-3419-a92c-063f7d4ca6c5
+59,Andre Iguodala,iguodan01,Andre Iguodala,19bb9ae5-a0eb-343c-959b-5caa448d355a
+60,Seth Curry,curryse01,Seth Curry,fc381e1d-3e6c-3a5e-9546-e35c5d4d3301
+61,Monte Morris,morrimo01,Monte Morris,0901f743-3e40-3a04-a5fa-0815dce6ddbf
+62,Zach Collins,colliza01,Zach Collins,c79ddeb9-54bc-30f8-8d94-6246b1cd9564
+63,Gary Harris,harriga01,Gary Harris,4800315b-ad80-3b6b-9065-2c248e9cb19d
+64,Jeremy Lamb,lambje01,Jeremy Lamb,50ffafd3-776d-33a9-a06d-21f672a86db4
+65,Maxi Kleber,klebima01,Maxi Kleber,abd67313-99a4-30c9-be0e-f448981e9850
+66,Donte DiVincenzo,divindo01,Donte DiVincenzo,36e46816-310e-3fbf-a12e-db7e1f5d567d
+67,Torrey Craig,craigto01,Torrey Craig,be3a564d-68b2-3f54-b1ce-879913b6bf6f
+68,Justin Holiday,holidju01,Justin Holiday,db8b4b15-20b8-311c-936e-1421c70f1eed
+69,Dion Waiters,waitedi01,Dion Waiters,12dbb0b4-0a66-374d-991a-c560665fd521
+70,Mason Plumlee,plumlma01,Mason Plumlee,5203e083-b211-3876-8019-c5a4c0c6342a
+71,JaMychal Green,greenja01,JaMychal Green,d6392f1d-a20a-31a5-8115-a188f41ab8c6
+72,Ersan Ilyasova,ilyaser01,Ersan İlyasova,0f90df6d-130a-36d2-bb40-a8d8a47e8d81
+73,Trey Burke,burketr01,Trey Burke,15d3b0d0-5143-3fef-955c-8fb0048c4cd3
+74,Derrick Jones Jr.,jonesde02,Derrick Jones,c6c606a9-c7fe-3a2f-a344-05342e1c2124
+75,Patrick Beverley,beverpa01,Patrick Beverley,c9ca142c-402c-3c9a-aaf5-fe56f2bd723a
+76,T.J. McConnell,mccontj01,T.J. McConnell,18dc385f-470d-3236-ba5c-cf5060842a3a
+77,Cameron Payne,payneca01,Cameron Payne,a5142956-2399-3082-9d1c-e22379992985
+78,George Hill,hillge01,George Hill,6daa04bf-6a57-393a-b877-aa07e4c7abc9
+79,Tony Bradley,bradlto01,Tony Bradley,f2cd591f-f8b7-3aa6-87ad-fcee0b0b355a
+80,Kentavious Caldwell-Pope,caldwke01,Kentavious Caldwell-Pope,5afec845-b6f6-3df2-a338-6d582721321d
+81,Dwight Howard,howardw01,Dwight Howard,14601ffb-2bfe-313d-8f41-cf16bea2b15c
+82,Danny Green,greenda02,Danny Green,3edba55b-cb16-3bca-88c6-f35e9299a857
+83,Delon Wright,wrighde01,Delon Wright,4b631277-800e-31d1-b156-5866f992d9a4
+84,Marvin Williams,willima02,Marvin Williams,eff16a2e-90d2-3072-bf6d-0fd13a86cc21
+85,Landry Shamet,shamela01,Landry Shamet,075cb1d1-b091-343d-9411-c18ad116bf76
+86,PJ Dozier,doziepj01,PJ Dozier,8d0609c1-4ab3-345e-8c5d-00415b9eefd1
+87,Emmanuel Mudiay,mudiaem01,Emmanuel Mudiay,5b8f4f75-962b-3d28-ad6d-065e7d7c3f7c
+88,Juwan Morgan,morgaju01,Juwan Morgan,e3b54738-1dae-3404-afd1-74d5f6a78700
+89,Alex Caruso,carusal01,Alex Caruso,83df25d3-4248-3c01-a7a9-29788c012df9
+90,Kyle Korver,korveky01,Kyle Korver,83478adf-729e-3647-ac80-ac139760570f
+91,JaVale McGee,mcgeeja01,JaVale McGee,179b055b-ff3e-37ce-abc0-4b6ae8912cc4
+92,Quinn Cook,cookqu01,Quinn Cook,8d412ee7-c7b8-3213-a097-90ea22fcab10
+93,Doug McDermott,mcderdo01,Doug McDermott,f11a3b37-52bd-30e3-97af-194c11d52732
+94,Sterling Brown,brownst02,Sterling Brown,d72d9207-4e2c-38bf-bd2b-6c2ffe0ef439
+95,Patrick Patterson,pattepa01,Patrick Patterson,81069db7-6f9e-32e3-b13c-ccff7c44fca9
+96,Bol Bol,bolbo01,Bol Bol,04685493-451a-3cb8-887c-d4073e378ef5
+97,Georges Niang,niangge01,Georges Niang,d5db383b-767f-36a5-b00e-88eae64da0ea
+98,Markieff Morris,morrima02,Markieff Morris,3af1bb16-b6d8-3e62-acb5-711ad336b42e
+99,Talen Horton-Tucker,hortota01,Talen Horton-Tucker,5391b85e-6aa7-3893-9cc0-22115c59d60a
+100,Jevon Carter,carteje01,Jevon Carter,5ee9ee9c-537a-39fd-adcd-42219b988a54
+101,Pat Connaughton,connapa01,Pat Connaughton,2446026f-2562-3492-a413-f31928aac224
+102,Wesley Matthews,matthwe02,Wesley Matthews,5b5360c3-523c-36fc-b2ed-ecb03a318aab
+103,Trevor Ariza,arizatr01,Trevor Ariza,048e94a4-dc38-3f66-b8a9-789019a8b6f2
+104,Rodney Hood,hoodro01,Rodney Hood,412d2dcc-2f7a-3e9a-af5a-91088517b754
+105,Mario Hezonja,hezonma01,Mario Hezonja,78231af1-8370-31e9-8fdc-82cdcaea0dbf
+106,Jaylen Adams,,,47cc6377-998c-329c-8d80-2eff0c34e240
+107,Caleb Swanigan,swanica01,Caleb Swanigan,7b1e397f-196e-31ba-8dac-184e8fe94ead
+108,Wenyen Gabriel,gabriwe01,Wenyen Gabriel,bd296bfc-5446-364b-9672-b5b40464d6d5
+109,Anfernee Simons,simonan01,Anfernee Simons,58aa6e79-de05-3226-9d24-7dc2bdf1231c
+110,Jaylen Hoard,hoardja01,Jaylen Hoard,37c23ef2-2d38-31c7-be91-39cf198a05e8
+111,Moses Brown,brownmo01,Moses Brown,14653d5f-36b4-3bf1-9aa2-f495b33825af
+112,Nassir Little,littlna01,Nassir Little,9ff4d1c4-4203-3fcb-9ec1-9306c58ccdbb
+113,Joakim Noah,noahjo01,Joakim Noah,85ca079c-9506-389c-832a-8de0ec62998a
+114,Rodney McGruder,mcgruro01,Rodney McGruder,571fb876-3f05-39a3-8ee0-6538ae0a59c6
+115,Johnathan Motley,motlejo01,Johnathan Motley,79828d21-cac6-3bb5-8874-1fc223c48e94
+116,Terance Mann,mannte01,Terance Mann,45659f06-a9e6-3b89-a4c7-4316175bc265
+117,Mfiondu Kabengele,kabenmf01,Mfiondu Kabengele,709b66c2-01e5-38f9-96eb-660c2ffc4de5
+118,Amir Coffey,coffeam01,Amir Coffey,aa318ddc-f044-33dd-9aee-edcce0f234d1
+119,Troy Daniels,danietr01,Troy Daniels,18d648e6-d078-3d9b-9d08-66002f48b061
+120,Noah Vonleh,vonleno01,Noah Vonleh,e7531090-8180-387d-bb69-0aec36f4138d
+121,Keita Bates-Diop,bateske01,Keita Bates-Diop,3f0512f3-0140-3a9c-a6aa-bcc03d26ab41
+122,Tyler Cook,cookty01,Tyler Cook,2633f1a9-b1f1-3186-a602-5f8d1c4d393a
+123,Vlatko Cancar,cancavl01,Vlatko Čančar,805e1e38-270f-3c15-bb3b-01fd17d6d43a
+124,Ed Davis,davised01,Ed Davis,7bec64f3-6b84-310d-b1dd-9657dbf4fc3e
+125,Nigel Williams-Goss,willini01,Nigel Williams-Goss,72ae1e50-0f38-395a-aa99-730675fbdd42
+126,Rayjon Tucker,tuckera01,Rayjon Tucker,581b029c-79a5-30fe-a506-989ad4f06585
+127,Jarrell Brantley,brantja01,Jarrell Brantley,35268a8f-cc39-3836-aba8-ff6b518cc142
+128,Justin Wright-Foreman,wrighju02,Justin Wright-Foreman,b49d38cd-f004-3d09-9014-af064270f883
+129,Miye Oni,onimi01,Miye Oni,2af36602-c493-3374-8ef8-6b7180016d49
+130,Jakarr Sampson,sampsja02,JaKarr Sampson,8daf923b-7312-3223-8b5b-c273f0f1c81e
+131,Naz Mitrou-Long,mitrona01,Naz Mitrou-Long,329d181d-49d4-38a0-be6e-bb0234ebcf7b
+132,Edmond Sumner,sumneed01,Edmond Sumner,f3e68d47-7681-35cb-ae19-4a722bbd89e1
+133,TJ Leaf,leaftj01,T.J. Leaf,a7fcba90-d91c-3666-9fe0-eed1d3bb3f22
+134,Alize Johnson,johnsal02,Alize Johnson,168ddf24-a8c5-39a4-911e-e8871f14753e
+135,Brian Bowen II,bowenbr02,Brian Bowen,a98366b1-e555-308b-b49e-6c6b69dc2c6d
+136,Goga Bitadze,bitadgo01,Goga Bitadze,cba1d489-0857-3f4b-9905-f11dcffab01b
+137,Jared Dudley,dudleja01,Jared Dudley,b8271005-ee65-3328-96fd-238e8f2caffc
+138,J.R. Smith,smithjr01,J.R. Smith,fc76795a-2085-3727-9c61-5a2bb36e1c65
+139,Rajon Rondo,rondora01,Rajon Rondo,8f05b667-efd5-334e-bef3-294d02279f21
+140,Avery Bradley,bradlav01,Avery Bradley,3b6f5062-2114-348c-94dd-c0feb139ad57
+141,Devontae Cacok,,,05552277-bc70-385f-b64a-ffab908e459d
+142,Kostas Antetokounmpo,antetko01,Kostas Antetokounmpo,4457909c-39cb-3227-ab14-f7fde73f4a9f
+143,Udonis Haslem,hasleud01,Udonis Haslem,355cef1e-7b97-3e8b-b9ef-067202c8c9d0
+144,Solomon Hill,hillso01,Solomon Hill,5a35427e-3542-3928-b4d4-fd8132a794d4
+145,Meyers Leonard,leoname01,Meyers Leonard,dbf704d0-8dbd-390e-b853-ecf2c856692a
+146,Gabe Vincent,vincega01,Gabe Vincent,19839d1b-e706-376d-a011-86305f4c3f73
+147,Chris Silva,silvach01,Chris Silva,a6b4e533-1f5e-321a-aa02-3cdd6544a18f
+148,Kyle Alexander,alexaky01,Kyle Alexander,5b6b8a7d-dfdf-322a-881c-d7830c9bb4c0
+149,KZ Okpala,okpalkz01,KZ Okpala,051835d3-f5d1-36fb-8a7f-eadd31be8837
+150,Frank Kaminsky,kaminfr01,Frank Kaminsky,12e764eb-f686-3362-8534-a0b2af4575c1
+151,Tariq Owens,owensta01,Tariq Owens,1bef0d2e-a4ef-38ee-9945-2b31e6d1475b
+152,Cheick Diallo,diallch01,Cheick Diallo,63724f42-7390-3c2a-8ddb-32878a997ec0
+153,Ty Jerome,jeromty01,Ty Jerome,e123b018-d1ed-3126-8f00-b61acc0feb15
+154,Elie Okobo,okoboel01,Elie Okobo,1ecc3c1b-a299-36e8-b1ea-95ba4df64b65
+155,Jalen Lecque,lecquja01,Jalen Lecque,65a032ab-0624-3ee1-bd67-13930250b2d1
+156,J.J. Barea,bareajo01,J.J. Barea,cf22b372-e60d-3735-bbbf-fbe98799296a
+157,Courtney Lee,leeco01,Courtney Lee,9bff2bcd-884a-3b14-b366-a42ad1101ffe
+158,Dwight Powell,poweldw01,Dwight Powell,bdb5fcb8-77de-37ac-8365-daa846246918
+159,Boban Marjanovic,marjabo01,Boban Marjanović,05ba33aa-0235-3757-8129-8013bdcf016e
+160,Michael Kidd-Gilchrist,kiddgmi01,Michael Kidd-Gilchrist,1bb04731-ff11-31bd-93b2-368cb14b648a
+161,Willie Cauley-Stein,caulewi01,Willie Cauley-Stein,65e5cdeb-02f4-3cb7-89ac-93bc2e7f5ab8
+162,Antonius Cleveland,clevean01,Antonius Cleveland,5301e705-c9df-368f-aaf9-2134d29e2705
+163,Justin Jackson,jacksju01,Justin Jackson,501f62fa-abbc-3e82-b485-8b65d9a1e2a7
+164,Josh Reaves,reavejo02,Josh Reaves,3a9d662a-ecc8-3729-9fde-101936defc47
+165,Jalen Brunson,brunsja01,Jalen Brunson,6a3663d2-abdd-3736-bf2d-b5de22eba689
+166,Robin Lopez,lopezro01,Robin Lopez,fa6e25f5-65a1-3a77-b38d-900fcf73aba9
+167,Cameron Reynolds,,,484ac73a-34b9-346c-b21b-7486eded8a15
+168,Frank Mason III,masonfr01,Frank Mason,e3b9177d-4693-3a34-894f-d7e3cb87e376
+169,Thanasis Antetokounmpo,antetth01,Thanasis Antetokounmpo,88a01cf6-97e3-3317-9748-7bd14bd9a04c
+170,D.J. Wilson,wilsodj01,D.J. Wilson,932c5bf0-86b5-3c55-a21b-77a8791be95e
+171,James Harden,hardeja01,James Harden,d24d0f75-4ff6-3dad-9bb1-d4379e401716
 172,Joel Embiid,embiijo01,Joel Embiid,004be66c-496b-3874-85f5-84f770f97ec5
-173,Jrue Holiday,holidjr01,Jrue Holiday,09b841b3-d920-37ac-8caf-bcbc35fab625
-174,Ben Simmons,simmobe01,Ben Simmons,b0139375-63a0-34bf-8879-310eb2945b24
-175,Kyle Lowry,lowryky01,Kyle Lowry,e491c806-0994-3645-8a91-1235a3ef6a7e
-176,Ja Morant,moranja01,Ja Morant,643aa5e6-e547-3686-9c61-465401b18cae
-177,Brandon Ingram,ingrabr01,Brandon Ingram,5d533c94-071d-3fa1-b64e-b541acab7713
-178,Tobias Harris,harrito02,Tobias Harris,cdd84f29-a2e1-383b-a9a9-0fa65ce2127b
-179,Pascal Siakam,siakapa01,Pascal Siakam,ff4e20b3-ec1e-398d-b210-d2f210404026
+173,Russell Westbrook,westbru01,Russell Westbrook,438fe57b-82e4-3f08-84fb-553f84ec14ec
+174,Jrue Holiday,holidjr01,Jrue Holiday,09b841b3-d920-37ac-8caf-bcbc35fab625
+175,Ben Simmons,simmobe01,Ben Simmons,b0139375-63a0-34bf-8879-310eb2945b24
+176,Kyle Lowry,lowryky01,Kyle Lowry,e491c806-0994-3645-8a91-1235a3ef6a7e
+177,Tobias Harris,harrito02,Tobias Harris,cdd84f29-a2e1-383b-a9a9-0fa65ce2127b
+178,Ja Morant,moranja01,Ja Morant,643aa5e6-e547-3686-9c61-465401b18cae
+179,Brandon Ingram,ingrabr01,Brandon Ingram,5d533c94-071d-3fa1-b64e-b541acab7713
 180,Chris Paul,paulch01,Chris Paul,5d5b114e-2a08-3c23-a184-9d7e6dcff81b
-181,Zion Williamson,willizi01,Zion Williamson,27d05fe8-4f78-3b5d-96bc-6de4eb4eda44
-182,Jayson Tatum,tatumja01,Jayson Tatum,cf279637-c035-3609-9770-e25cb08e4ca2
-183,Nikola Vucevic,vucevni01,Nikola Vučević,e286a035-517e-32f2-9e2b-2b81c6fd03f4
-184,Fred VanVleet,vanvlfr01,Fred VanVleet,34253475-91e0-3cb2-83e7-9bf6dbaaa300
-185,De'Aaron Fox,foxde01,De'Aaron Fox,0f3d80ae-144e-3fca-a001-f2265e01477d
-186,Lonzo Ball,balllo01,Lonzo Ball,49ea3ea1-d8ee-37ea-a19c-e05523433fbf
-187,Jonas Valanciunas,valanjo01,Jonas Valančiūnas,6da28883-232f-35cf-954e-19b2339ea581
+181,Nikola Vucevic,vucevni01,Nikola Vučević,e286a035-517e-32f2-9e2b-2b81c6fd03f4
+182,Pascal Siakam,siakapa01,Pascal Siakam,ff4e20b3-ec1e-398d-b210-d2f210404026
+183,DeMar DeRozan,derozde01,DeMar DeRozan,f2396234-684a-3358-ba30-fdb0b4384fa9
+184,Jayson Tatum,tatumja01,Jayson Tatum,cf279637-c035-3609-9770-e25cb08e4ca2
+185,Zion Williamson,willizi01,Zion Williamson,27d05fe8-4f78-3b5d-96bc-6de4eb4eda44
+186,De'Aaron Fox,foxde01,De'Aaron Fox,0f3d80ae-144e-3fca-a001-f2265e01477d
+187,Fred VanVleet,vanvlfr01,Fred VanVleet,34253475-91e0-3cb2-83e7-9bf6dbaaa300
 188,Thomas Bryant,bryanth01,Thomas Bryant,065b0748-40cc-3ecc-b036-87301d2e5cdf
 189,Caris LeVert,leverca01,Caris LeVert,dec772b6-f6bf-31d0-b3ac-d5d6613d2913
-190,Gordon Hayward,haywago01,Gordon Hayward,65a3cdd3-3d35-3b88-92c6-49b4660e61fc
-191,Jaylen Brown,brownja02,Jaylen Brown,b2137fbd-436b-3ed4-9033-5d76b9bac9e5
-192,Shai Gilgeous-Alexander,gilgesh01,Shai Gilgeous-Alexander,58543606-8440-3f0e-8de3-30a368542fb1
-193,Aaron Gordon,gordoaa01,Aaron Gordon,eb1ac978-adf1-3b4e-b1d4-6e3a4a022dd3
-194,Al Horford,horfoal01,Al Horford,0c87e258-869a-39a7-805e-35d7b6ae9cc7
-195,Marcus Smart,smartma01,Marcus Smart,25305094-2484-317c-86e4-b4ad536903a5
-196,Jaren Jackson Jr.,jacksja02,Jaren Jackson,db7345fc-bd81-3ad8-8365-d817a6b27bad
-197,Jarrett Allen,allenja01,Jarrett Allen,d960c5ea-0c69-3df9-a5f4-2c247ef747f4
-198,Dennis Schroder,schrode01,Dennis Schröder,96092a24-59c1-319e-bad0-ac71f5f7e8ad
-199,Steven Adams,adamsst01,Steven Adams,5080c7f9-578a-35cb-a094-5bb0e41e91c4
-200,Kemba Walker,walkeke02,Kemba Walker,0b651ddb-abd2-384c-a2f6-d5d3276818f9
-201,Rui Hachimura,hachiru01,Rui Hachimura,59d8bf22-483d-33d0-8ba1-41f55e2651ca
-202,Shake Milton,miltosh01,Shake Milton,bf81ab0a-5748-322b-88bf-5b208a3b87ec
-203,Serge Ibaka,ibakase01,Serge Ibaka,ae1f0478-db09-3c8a-837c-1750e4c80171
-204,Danilo Gallinari,gallida01,Danilo Gallinari,551f2039-f937-3688-8911-caf918eece16
-205,Tyler Johnson,johnsty01,Tyler Johnson,539f0c4c-99a6-3dae-99f7-f12c459b6648
-206,Troy Brown Jr.,browntr01,Troy Brown,2b8af042-a266-367d-b767-a9d6dbfef722
-207,Dillon Brooks,brookdi01,Dillon Brooks,10f8b529-ee7c-3702-a036-ee35d5aa15a7
-208,Jonathan Isaac,isaacjo01,Jonathan Isaac,40083b67-2ead-3978-b1b7-ed2ac4adca8f
-209,Daniel Theis,theisda01,Daniel Theis,7f4a0a0a-19f6-3abb-92dd-39ad1439fcad
-210,Joe Harris,harrijo01,Joe Harris,22c8aff7-fc87-3ad0-ad6a-3fe198edb6c2
-211,Evan Fournier,fournev01,Evan Fournier,d2dbc672-154f-3994-baf6-ab2cf1269f26
-212,Garrett Temple,templga01,Garrett Temple,4ba62cda-184a-36a5-99c2-ca8a757d673e
-213,Derrick Favors,favorde01,Derrick Favors,86743774-f5a7-3b25-890c-db0ba253d0f9
-214,OG Anunoby,anunoog01,OG Anunoby,79237f6a-d625-3aa9-8967-aa0af3d8a9e9
-215,Buddy Hield,hieldbu01,Buddy Hield,e1c8987c-16aa-3781-8b8f-c6c830b24633
-216,Bogdan Bogdanovic,bogdabo01,Bogdan Bogdanović,898366b1-b37a-380f-890b-71643fce3968
-217,Nemanja Bjelica,bjeline01,Nemanja Bjelica,6561156b-5624-3228-bcb3-fd63dc8f938a
-218,Josh Richardson,richajo01,Josh Richardson,33193488-03c2-3e51-9be0-282ae1bc3f8f
+190,Shai Gilgeous-Alexander,gilgesh01,Shai Gilgeous-Alexander,58543606-8440-3f0e-8de3-30a368542fb1
+191,Jonas Valanciunas,valanjo01,Jonas Valančiūnas,6da28883-232f-35cf-954e-19b2339ea581
+192,Lonzo Ball,balllo01,Lonzo Ball,49ea3ea1-d8ee-37ea-a19c-e05523433fbf
+193,Jaylen Brown,brownja02,Jaylen Brown,b2137fbd-436b-3ed4-9033-5d76b9bac9e5
+194,Gordon Hayward,haywago01,Gordon Hayward,65a3cdd3-3d35-3b88-92c6-49b4660e61fc
+195,Aaron Gordon,gordoaa01,Aaron Gordon,eb1ac978-adf1-3b4e-b1d4-6e3a4a022dd3
+196,Jarrett Allen,allenja01,Jarrett Allen,d960c5ea-0c69-3df9-a5f4-2c247ef747f4
+197,Al Horford,horfoal01,Al Horford,0c87e258-869a-39a7-805e-35d7b6ae9cc7
+198,Robert Covington,covinro01,Robert Covington,f9f8f101-f90a-34e8-8623-d9354e65a68b
+199,Jaren Jackson Jr.,jacksja02,Jaren Jackson,db7345fc-bd81-3ad8-8365-d817a6b27bad
+200,Steven Adams,adamsst01,Steven Adams,5080c7f9-578a-35cb-a094-5bb0e41e91c4
+201,Derrick White,whitede01,Derrick White,425171f4-0bf0-3090-8088-05e11660d38d
+202,Kemba Walker,walkeke02,Kemba Walker,0b651ddb-abd2-384c-a2f6-d5d3276818f9
+203,Dennis Schroder,schrode01,Dennis Schröder,96092a24-59c1-319e-bad0-ac71f5f7e8ad
+204,Dejounte Murray,murrade01,Dejounte Murray,85da245b-f139-34b6-af53-e6f6ba4c4f7e
+205,Marcus Smart,smartma01,Marcus Smart,25305094-2484-317c-86e4-b4ad536903a5
+206,Danilo Gallinari,gallida01,Danilo Gallinari,551f2039-f937-3688-8911-caf918eece16
+207,Rui Hachimura,hachiru01,Rui Hachimura,59d8bf22-483d-33d0-8ba1-41f55e2651ca
+208,Troy Brown Jr.,browntr01,Troy Brown,2b8af042-a266-367d-b767-a9d6dbfef722
+209,Rudy Gay,gayru01,Rudy Gay,bdd4eb58-9072-3ed1-92c6-c791ccc2d494
+210,Evan Fournier,fournev01,Evan Fournier,d2dbc672-154f-3994-baf6-ab2cf1269f26
+211,Dillon Brooks,brookdi01,Dillon Brooks,10f8b529-ee7c-3702-a036-ee35d5aa15a7
+212,Daniel Theis,theisda01,Daniel Theis,7f4a0a0a-19f6-3abb-92dd-39ad1439fcad
+213,Serge Ibaka,ibakase01,Serge Ibaka,ae1f0478-db09-3c8a-837c-1750e4c80171
+214,Jakob Poeltl,poeltja01,Jakob Poeltl,7e0bd975-9ce1-3d88-a33b-e56c81463e5b
+215,Shake Milton,miltosh01,Shake Milton,bf81ab0a-5748-322b-88bf-5b208a3b87ec
+216,Tyler Johnson,johnsty01,Tyler Johnson,539f0c4c-99a6-3dae-99f7-f12c459b6648
+217,Jonathan Isaac,isaacjo01,Jonathan Isaac,40083b67-2ead-3978-b1b7-ed2ac4adca8f
+218,Bogdan Bogdanovic,bogdabo01,Bogdan Bogdanović,898366b1-b37a-380f-890b-71643fce3968
 219,Terrence Ross,rosste01,Terrence Ross,05361c02-bea9-32d9-86eb-54c5c0f850c2
 220,Ish Smith,smithis01,Ish Smith,cabe3c78-d3c9-3790-beba-307cceeda491
-221,Shabazz Napier,napiesh01,Shabazz Napier,cf70d1a3-bb74-321b-b581-5480d2cfff5f
-222,Brandon Clarke,clarkbr01,Brandon Clarke,eeb4fce0-7b87-3131-b915-5a1d1e2bb173
-223,Richaun Holmes,holmeri01,Richaun Holmes,8120d81c-d822-3b0c-95cd-8934bf2ab2c7
-224,Jerome Robinson,robinje01,Jerome Robinson,a5a7aef8-4ba2-381d-b333-a4a028d4d023
-225,Norman Powell,powelno01,Norman Powell,5e60d0aa-69a8-3205-a65d-fe7fded67650
-226,Harrison Barnes,barneha02,Harrison Barnes,93333fdb-89b1-35f6-9985-56122f525208
-227,Jamal Crawford,crawfja01,Jamal Crawford,8bb0f21a-3afb-3375-8cc5-9dea99c243ef
-228,Markelle Fultz,fultzma01,Markelle Fultz,419a8c31-4e1c-318a-b7fc-c303814aee5c
-229,Chris Chiozza,chiozch01,Chris Chiozza,0d4f7124-bd02-35a2-964e-7857120f2eb8
-230,Mike Scott,scottmi01,Mike Scott,b2f1ba9d-5ecf-3d0b-98cb-fe4e27d18afa
-231,Kyle Anderson,anderky01,Kyle Anderson,c8a6033e-5aa4-3f03-8f91-30b54c16f825
-232,Grayson Allen,allengr01,Grayson Allen,03678527-e248-384a-8a97-eedf582a07c0
-233,D.J. Augustin,augusdj01,D.J. Augustin,5da94eae-0d55-3114-9f60-f1044bf14ac1
-234,Timothe Luwawu-Cabarrot,luwawti01,Timothé Luwawu-Cabarrot,300db85e-9483-3bad-b709-7089489d76ce
-235,Cory Joseph,josepco01,Cory Joseph,3ad54df6-20e6-3e5f-a089-b274cc48709c
-236,Michael Carter-Williams,cartemi01,Michael Carter-Williams,e1ceec7f-6cdc-322c-a8c1-c669df43a827
-237,Josh Jackson,jacksjo02,Josh Jackson,08b73a8e-fadc-35f5-83f0-e8cccac6f64e
-238,Kent Bazemore,bazemke01,Kent Bazemore,e1cc64e7-a470-317d-9839-025202e0d3af
-239,Glenn Robinson III,,,3e6f2e0c-ba63-3464-8d37-f0b699210a02
-240,JJ Redick,redicjj01,J.J. Redick,6e54b565-a7dc-3667-81cd-6d0adfb36ac8
-241,Josh Hart,hartjo01,Josh Hart,7ec73858-446c-36c9-8c63-669a3c5db5c8
-242,De'Anthony Melton,meltode01,De'Anthony Melton,99b49e4c-e3c2-37e7-a3d0-c7ef5e00eb4c
-243,Marc Gasol,gasolma01,Marc Gasol,7d2b1975-e023-390b-bfb1-f8efffca880b
-244,Robert Williams,williro04,Robert Williams,af9b7c66-c228-3008-b940-2e771c117ba6
-245,Rodions Kurucs,kurucro01,Rodions Kurucs,9c513d9a-54b6-34d2-af04-e0c6d5b9a7a6
-246,Brad Wanamaker,wanambr01,Brad Wanamaker,da169286-f15b-37cb-87fc-dedd295d7b7f
-247,Tyus Jones,,,4dcae325-e207-3b8b-ae08-d9765e78cb1f
-248,Jeremiah Martin,martije02,Jeremiah Martin,6d9a10c0-1143-33d7-837a-8bc94d8ec924
-249,Nicolo Melli,mellini01,Nicolò Melli,243d12d5-78cd-3398-ab7f-a37f178c6848
-250,Isaac Bonga,bongais01,Isaac Bonga,869fc693-533c-3834-9f91-bf04323934c3
-251,Gorgui Dieng,dienggo01,Gorgui Dieng,e0fbd114-7cf5-3d84-bc54-936e3b974bf3
-252,Donta Hall,halldo01,Donta Hall,575612cc-96d2-36fc-8a24-a10957531d5d
-253,Alec Burks,burksal01,Alec Burks,8142c639-ed79-3ca8-97de-c4c8d89ab0df
-254,James Ennis III,ennisja01,James Ennis,699e7010-090b-329f-9955-d93b3663f7de
-255,Harry Giles III,gilesha01,Harry Giles,109bc45c-52ce-30dc-9a31-ab28b2892f94
-256,Nerlens Noel,noelne01,Nerlens Noel,71bd49c4-8d32-3b0a-bdfb-691b5663a449
-257,Luguentz Dort,dortlu01,Luguentz Dort,a4f5317c-afc5-3cb1-adbd-0eb79f5d7b81
-258,Lance Thomas,thomala01,Lance Thomas,c547dca8-2ac9-39b4-b602-529e16a8f7db
-259,Moritz Wagner,wagnemo01,Moritz Wagner,dd2a1fda-6558-371a-8460-6f40621b11f4
-260,Enes Kanter,kanteen01,Enes Kanter,df1f4002-f4b5-385c-acb8-69120294a466
-261,Furkan Korkmaz,korkmfu01,Furkan Korkmaz,be8c2764-39ad-3afe-92fb-3ee56f102ff9
-262,Garrison Mathews,,,875cb99a-6a6d-3ff3-903f-6072a9219c43
-263,Hamidou Diallo,diallha01,Hamidou Diallo,c73aa650-2088-39b2-a896-fd266022234d
-264,Nicolas Claxton,,,e29fc67b-a0f2-342d-97be-af7ab17e67b8
-265,Matisse Thybulle,thybuma01,Matisse Thybulle,a859eaca-d536-3e55-9ffd-fb4adfde500a
-266,Admiral Schofield,schofad01,Admiral Schofield,be14ea20-f96f-3204-9005-fbf0a81b01af
-267,Dzanan Musa,musadz01,Džanan Musa,064115b8-9d5c-3e9b-a9b4-1426ba5d2135
-268,Rondae Hollis-Jefferson,holliro01,Rondae Hollis-Jefferson,d744f921-86db-3a93-8ed1-610c7ecd2f70
-269,Anthony Tolliver,tollian01,Anthony Tolliver,c237b1f9-615c-3d28-842b-df28480ad988
-270,Justise Winslow,,,471b28cb-be30-3521-b660-f6e3eb66f301
-271,Yuta Watanabe,watanyu01,Yuta Watanabe,bc878663-7246-37cf-b87a-1e8f2d7c31a5
-272,John Konchar,konchjo01,John Konchar,4f06019d-15ba-3223-b149-a981e247cbe4
-273,Jontay Porter,,,bdfb6bd0-6279-3c34-a344-57eae2302a22
-274,Marko Guduric,gudurma01,Marko Guduric,9274e649-3361-3c2b-aecf-228fc38234be
-275,Mike Muscala,muscami01,Mike Muscala,5b9cf5d1-667d-3032-ae3c-4a563d0d2675
-276,Andre Roberson,roberan03,Andre Roberson,f47903cc-8f08-36bf-9862-d98f27df6ed9
-277,Abdel Nader,naderab01,Abdel Nader,0e62cdef-8a42-3ac1-89d8-7c2dd36d3568
-278,Devon Hall,hallde01,Devon Hall,7db94f35-2381-3e6e-a48a-48c11c77baa6
-279,Deonte Burton,burtode02,Deonte Burton,4e82e275-226e-3271-ab22-263f827b549d
-280,Kevin Hervey,herveke01,Kevin Hervey,b0c38f3b-e79d-35ca-af71-04d4ff247a88
-281,Isaiah Roby,,,491b0f43-18de-3d57-9334-e86711323af7
-282,Terrance Ferguson,fergute01,Terrance Ferguson,29fa53f4-9d57-324b-a01e-65a09dcbeae0
-283,Darius Bazley,bazleda01,Darius Bazley,fda31c5c-baab-3f88-82f2-745cba8d7034
-284,Wilson Chandler,,,27b2cd6a-056a-3366-b788-f18d15a383d4
-285,Kevin Durant,,,fa002694-9b04-34e6-b4b4-67a6c2560d7b
-286,DeAndre Jordan,,,cc438f5a-2014-302a-b260-2ae576be8073
-287,Michael Beasley,cartemi01,Michael Carter-Williams,42e93e5d-7fe0-33d5-8964-e40bfccd481d
-288,Kyrie Irving,,,eeeaecfd-040d-3bb8-8bd0-ee04291ac66a
-289,Spencer Dinwiddie,,,d0427197-03e1-36fc-9e74-6261d5e47db7
-290,Taurean Prince,,,69609d5d-7b2a-3c7f-9eae-1347b89a5659
-291,Justin Anderson,anderju01,Justin Anderson,7a81c64f-6f2b-35d6-bfe7-a6fa8e7ab8f1
-292,Corey Brewer,breweco01,Corey Brewer,fcb4f87b-e7ff-34bd-a535-d5551da163cd
-293,Alex Len,lenal01,Alex Len,d22a7f49-f846-3867-8555-640a43c2ade9
-294,Yogi Ferrell,ferreyo01,Yogi Ferrell,07dea53b-31bb-35f9-80a8-ab6cc936b733
-295,Jabari Parker,parkeja01,Jabari Parker,9998d91d-c3c0-3f33-a289-a3493bbb53ea
-296,Justin James,wrighju02,Justin Wright-Foreman,d433f5ac-c39a-3f80-8844-a86092ec4bca
-297,DaQuan Jeffries,jeffrda01,DaQuan Jeffries,fd3b36a9-0d8f-328d-baf7-31ccb4e56a85
-298,Kyle Guy,anderky01,Kyle Anderson,fd2c5824-84d7-31ea-89c9-6d2830cd7d58
-299,Marvin Bagley III,,,0bfc1b39-26f6-30c7-91ae-6e4d11b2c8ba
-300,Kyle O'Quinn,,,20da6218-5bfa-3be8-b3a7-f2c753bd56de
-301,Ryan Broekhoff,,,a4d98171-e952-3f29-b1d4-74377ed01696
-302,Norvel Pelle,,,9ea8cd1e-b8b1-3669-bd1b-b7100070d8ef
-303,Raul Neto,netora01,Raul Neto,23eae8c8-c770-37be-b5f6-9ec99d0bdc1d
-304,Marial Shayok,,,0517fa6d-9d9e-3054-88e5-5cafed9c2350
-305,Zhaire Smith,finnedo01,Dorian Finney-Smith,afe31f08-0d61-3334-97b8-0037619d153a
-306,Al-Farouq Aminu,horfoal01,Al Horford,ce936a53-fd84-3bf6-bf21-8d9d44a77317
-307,Khem Birch,birchkh01,Khem Birch,88018fde-d75b-3bb2-973c-e5f3ea12af7e
-308,B.J. Johnson,,,af0c710c-cc85-348f-ae0c-8472d931a0b7
-309,Wes Iwundu,iwundwe01,Wesley Iwundu,4b0305af-f72e-320c-8e8a-4074154ae067
-310,Gary Clark,clarkga01,Gary Clark,a74ae8e2-816a-368d-98c9-f4bf679c990a
-311,Vic Law,,,3512dfc5-416d-3e57-b0b7-bda78fa6facd
-312,Melvin Frazier Jr.,frazime01,Melvin Frazier,12c031b6-b792-3846-b15c-d81207e3ef85
-313,Mo Bamba,bambamo01,Mohamed Bamba,383c408a-a3cc-307f-8a50-0d6a09e7c11f
-314,E'Twaun Moore,mooreet01,E'Twaun Moore,8fbb9965-d2f5-3b22-b777-b990555573fc
-315,Darius Miller,,,ce76118e-3ea7-33c5-9fc1-fb0dff2450a6
-316,Josh Gray,richajo01,Josh Richardson,4b78b03c-138f-3b00-8482-a1644df9b00b
-317,Sindarius Thornwell,,,1bcf8160-4cfe-3185-96dd-b027ba4f8d49
-318,Jahlil Okafor,,,06d932d0-55fe-3ee9-aafc-f2d7de8b8b45
-319,Kenrich Williams,willike04,Kenrich Williams,b83e2fe2-8302-34fa-bb4d-10df1e1d7761
-320,Zylan Cheatham,,,f69865e1-227a-3675-8a84-8c7dc430b8d5
-321,Frank Jackson,jacksfr01,Frank Jackson,3c9f3a02-687e-3c5a-b4b4-dfefb56813e3
-322,Nickeil Alexander-Walker,alexani01,Nickeil Alexander-Walker,b8a88d3d-3918-3586-affb-73f1b3e10de2
-323,Jaxson Hayes,hayesja02,Jaxson Hayes,49abf7ee-e013-3fb6-8481-ba31d3217993
-324,Ian Mahinmi,,,4d43f234-2c48-3827-b160-de09ff5720a9
-325,John Wall,,,9ad46983-65f2-3488-aeb0-357d7420b41e
-326,Jerian Grant,grantje02,Jerian Grant,8dd75569-96a4-3116-9719-67a6ef72054f
-327,Davis Bertans,davised01,Ed Davis,c2e511fa-faf3-3467-8f93-f20c4eb5a087
-328,Jarrod Uthoff,,,1e8aa748-b505-3fd9-badd-be0cb19d324d
-329,Bradley Beal,,,1508eab4-2391-3900-8c62-cab5cbbd4b83
-330,Johnathan Williams,willijo04,Johnathan Williams,eeef76e6-ac7a-33a4-8816-75f5fc7a1706
-331,Gary Payton II,,,8e950e89-fca2-35e6-82e1-292ab84fd614
-332,Anzejs Pasecniks,pasecan01,Anžejs Pasečņiks,907ad492-5739-3f55-99b3-5161d3886ed7
-333,Malcolm Miller,millema01,Malcolm Miller,31269d7e-c5c1-384e-9f55-494a26cf5f17
-334,Matt Thomas,thomama02,Matt Thomas,3984e2a8-d488-3970-a8b2-e5f60a2509ad
-335,Paul Watson,watsopa01,Paul Watson,8354baf6-1d86-3b93-9108-071d03f89ffa
-336,Stanley Johnson,johnsst04,Stanley Johnson,8bd858f1-a62d-39d5-bb3c-b0987aeb1325
-337,Patrick McCaw,,,a4c015d8-49a4-39ca-9051-dccd0825bf19
-338,Terence Davis,daviste02,Terence Davis,9057a8d6-e968-3683-babb-d2f8d6dc7d2d
-339,Chris Boucher,bouchch01,Chris Boucher,02a77da9-c1da-305d-8470-c1a7b3666433
-340,Dewan Hernandez,,,3754fa7c-4a70-38e3-86f4-64ce9738abd3
-341,Oshae Brissett,,,ca8124a9-16bc-3467-afe7-c78388f6e395
-342,Javonte Green,greenja02,Javonte Green,ce2136d5-9551-3c8a-bb9b-0739a97b9b00
-343,Semi Ojeleye,ojelese01,Semi Ojeleye,11b4b324-4be0-3e32-b5f9-ffb7607c81b1
-344,Tacko Fall,,,ed8bf0b2-4ec1-3f01-bde8-8635d80a731f
-345,Carsen Edwards,edwarca01,Carsen Edwards,acd28a1a-7a45-3e3a-873c-5d3a56aa2193
-346,Grant Williams,willigr01,Grant Williams,5481496e-6600-3e3d-9743-5acc6c3e6fc9
-347,Tremont Waters,,,a235fbdd-b375-3d44-9645-3e39a8518d10
-348,Romeo Langford,langfro01,Romeo Langford,c74d3435-9662-3be6-accf-bb3aa17f6cb4
-349,Vincent Poirier,,,3db001bf-79ce-3261-83c8-0adbf6940e79
-350,Donovan Mitchell,mitchdo01,Donovan Mitchell,45ce9323-4f43-30bb-b0f4-dd33a3ec8c27
-351,Rudy Gobert,goberru01,Rudy Gobert,1a2c39e5-a74c-3264-b9d3-8218aa797ab2
-352,Mike Conley,conlemi01,Mike Conley,08110c58-3d05-3688-bf01-be90d6bf792c
-353,Joe Ingles,inglejo01,Joe Ingles,fe9c5621-fea8-3c20-842a-4595b48ca89f
-354,Bojan Bogdanovic,bogdabo01,Bogdan Bogdanović,521e918d-3fb8-3fbf-b887-1b212f4e9758
-355,Jordan Clarkson,clarkjo01,Jordan Clarkson,ae903241-c7b3-3b18-b8dd-436837df0d87
-356,Royce O'Neale,onealro01,Royce O'Neale,1ce9ba43-4f4a-39b6-9728-e5587e490791
-357,Tony Bradley,bradlto01,Tony Bradley,f2cd591f-f8b7-3aa6-87ad-fcee0b0b355a
-358,Emmanuel Mudiay,mudiaem01,Emmanuel Mudiay,5b8f4f75-962b-3d28-ad6d-065e7d7c3f7c
-359,Juwan Morgan,morgaju01,Juwan Morgan,e3b54738-1dae-3404-afd1-74d5f6a78700
-360,Georges Niang,niangge01,Georges Niang,d5db383b-767f-36a5-b00e-88eae64da0ea
-361,Ed Davis,davised01,Ed Davis,7bec64f3-6b84-310d-b1dd-9657dbf4fc3e
-362,Nigel Williams-Goss,willilo02,Lou Williams,72ae1e50-0f38-395a-aa99-730675fbdd42
-363,Rayjon Tucker,tuckera01,Rayjon Tucker,581b029c-79a5-30fe-a506-989ad4f06585
-364,Jarrell Brantley,brantja01,Jarrell Brantley,35268a8f-cc39-3836-aba8-ff6b518cc142
-365,Justin Wright-Foreman,wrighju02,Justin Wright-Foreman,b49d38cd-f004-3d09-9014-af064270f883
-366,Miye Oni,onimi01,Miye Oni,2af36602-c493-3374-8ef8-6b7180016d49
+221,Derrick Favors,favorde01,Derrick Favors,86743774-f5a7-3b25-890c-db0ba253d0f9
+222,Joe Harris,harrijo01,Joe Harris,22c8aff7-fc87-3ad0-ad6a-3fe198edb6c2
+223,Danuel House Jr.,houseda01,Danuel House,7c811265-0eaa-39b0-a754-dab38fc9acf1
+224,OG Anunoby,anunoog01,OG Anunoby,79237f6a-d625-3aa9-8967-aa0af3d8a9e9
+225,Garrett Temple,templga01,Garrett Temple,4ba62cda-184a-36a5-99c2-ca8a757d673e
+226,Brandon Clarke,clarkbr01,Brandon Clarke,eeb4fce0-7b87-3131-b915-5a1d1e2bb173
+227,Josh Richardson,richajo01,Josh Richardson,33193488-03c2-3e51-9be0-282ae1bc3f8f
+228,Nemanja Bjelica,bjeline01,Nemanja Bjelica,6561156b-5624-3228-bcb3-fd63dc8f938a
+229,Buddy Hield,hieldbu01,Buddy Hield,e1c8987c-16aa-3781-8b8f-c6c830b24633
+230,Jerome Robinson,robinje01,Jerome Robinson,a5a7aef8-4ba2-381d-b333-a4a028d4d023
+231,Harrison Barnes,barneha02,Harrison Barnes,93333fdb-89b1-35f6-9985-56122f525208
+232,Shabazz Napier,napiesh01,Shabazz Napier,cf70d1a3-bb74-321b-b581-5480d2cfff5f
+233,Norman Powell,powelno01,Norman Powell,5e60d0aa-69a8-3205-a65d-fe7fded67650
+234,Richaun Holmes,holmeri01,Richaun Holmes,8120d81c-d822-3b0c-95cd-8934bf2ab2c7
+235,Chris Chiozza,chiozch01,Chris Chiozza,0d4f7124-bd02-35a2-964e-7857120f2eb8
+236,Kyle Anderson,anderky01,Kyle Anderson,c8a6033e-5aa4-3f03-8f91-30b54c16f825
+237,Jamal Crawford,crawfja01,Jamal Crawford,8bb0f21a-3afb-3375-8cc5-9dea99c243ef
+238,D.J. Augustin,augusdj01,D.J. Augustin,5da94eae-0d55-3114-9f60-f1044bf14ac1
+239,Markelle Fultz,fultzma01,Markelle Fultz,419a8c31-4e1c-318a-b7fc-c303814aee5c
+240,Grayson Allen,allengr01,Grayson Allen,03678527-e248-384a-8a97-eedf582a07c0
+241,Lonnie Walker IV,walkelo01,Lonnie Walker,15462727-63d8-3299-b8e2-534aaf2b4ad1
+242,Marc Gasol,gasolma01,Marc Gasol,7d2b1975-e023-390b-bfb1-f8efffca880b
+243,Alec Burks,burksal01,Alec Burks,8142c639-ed79-3ca8-97de-c4c8d89ab0df
+244,P.J. Tucker,tuckepj01,P.J. Tucker,1b0bc5df-4ba8-3bc6-8b0e-efff587d9e09
+245,JJ Redick,redicjj01,J.J. Redick,6e54b565-a7dc-3667-81cd-6d0adfb36ac8
+246,Glenn Robinson III,robingl02,Glenn Robinson,3e6f2e0c-ba63-3464-8d37-f0b699210a02
+247,James Ennis III,ennisja01,James Ennis,699e7010-090b-329f-9955-d93b3663f7de
+248,Josh Hart,hartjo01,Josh Hart,7ec73858-446c-36c9-8c63-669a3c5db5c8
+249,Keldon Johnson,johnske04,Keldon Johnson,3790e787-fcbd-31ec-84bc-18e3d26b4fb4
+250,Kent Bazemore,bazemke01,Kent Bazemore,e1cc64e7-a470-317d-9839-025202e0d3af
+251,Jeff Green,greenje02,Jeff Green,86a1f5a0-c79c-34d8-99bc-800a7b148012
+252,Rodions Kurucs,kurucro01,Rodions Kurucs,9c513d9a-54b6-34d2-af04-e0c6d5b9a7a6
+253,Michael Carter-Williams,cartemi01,Michael Carter-Williams,e1ceec7f-6cdc-322c-a8c1-c669df43a827
+254,Nerlens Noel,noelne01,Nerlens Noel,71bd49c4-8d32-3b0a-bdfb-691b5663a449
+255,Tyus Jones,jonesty01,Tyus Jones,4dcae325-e207-3b8b-ae08-d9765e78cb1f
+256,Nicolo Melli,mellini01,Nicolò Melli,243d12d5-78cd-3398-ab7f-a37f178c6848
+257,Mike Scott,scottmi01,Mike Scott,b2f1ba9d-5ecf-3d0b-98cb-fe4e27d18afa
+258,Cory Joseph,josepco01,Cory Joseph,3ad54df6-20e6-3e5f-a089-b274cc48709c
+259,Timothe Luwawu-Cabarrot,luwawti01,Timothé Luwawu-Cabarrot,300db85e-9483-3bad-b709-7089489d76ce
+260,Brad Wanamaker,wanambr01,Brad Wanamaker,da169286-f15b-37cb-87fc-dedd295d7b7f
+261,Luguentz Dort,dortlu01,Luguentz Dort,a4f5317c-afc5-3cb1-adbd-0eb79f5d7b81
+262,De'Anthony Melton,meltode01,De'Anthony Melton,99b49e4c-e3c2-37e7-a3d0-c7ef5e00eb4c
+263,Ben McLemore,mclembe01,Ben McLemore,ed741818-485f-39da-8f13-2e48961908cb
+264,Gorgui Dieng,dienggo01,Gorgui Dieng,e0fbd114-7cf5-3d84-bc54-936e3b974bf3
+265,Drew Eubanks,eubandr01,Drew Eubanks,c6fb4c93-d5a4-3e53-a9b7-b6b228ee6c40
+266,Isaac Bonga,bongais01,Isaac Bonga,869fc693-533c-3834-9f91-bf04323934c3
+267,Josh Jackson,jacksjo02,Josh Jackson,08b73a8e-fadc-35f5-83f0-e8cccac6f64e
+268,Eric Gordon,gordoer01,Eric Gordon,99100009-2a67-3434-ac53-b412929d0703
+269,Jeremiah Martin,martije02,Jeremiah Martin,6d9a10c0-1143-33d7-837a-8bc94d8ec924
+270,Hamidou Diallo,diallha01,Hamidou Diallo,c73aa650-2088-39b2-a896-fd266022234d
+271,Robert Williams,williro04,Robert Williams,af9b7c66-c228-3008-b940-2e771c117ba6
+272,Darius Bazley,bazleda01,Darius Bazley,fda31c5c-baab-3f88-82f2-745cba8d7034
+273,Patty Mills,millspa02,Patty Mills,867c8731-7bb4-3139-8007-9c822651799a
+274,Alex Len,lenal01,Alex Len,d22a7f49-f846-3867-8555-640a43c2ade9
+275,Austin Rivers,riverau01,Austin Rivers,03325ed1-e10c-3dbd-ad08-fbd3c60cb243
+276,Donta Hall,halldo01,Donta Hall,575612cc-96d2-36fc-8a24-a10957531d5d
+277,Moritz Wagner,wagnemo01,Moritz Wagner,dd2a1fda-6558-371a-8460-6f40621b11f4
+278,Rondae Hollis-Jefferson,holliro01,Rondae Hollis-Jefferson,d744f921-86db-3a93-8ed1-610c7ecd2f70
+279,Marco Belinelli,belinma01,Marco Belinelli,c3445594-eedd-35ba-9c49-c870be359697
+280,Lance Thomas,thomala01,Lance Thomas,c547dca8-2ac9-39b4-b602-529e16a8f7db
+281,Enes Kanter,kanteen01,Enes Kanter,df1f4002-f4b5-385c-acb8-69120294a466
+282,Khem Birch,birchkh01,Khem Birch,88018fde-d75b-3bb2-973c-e5f3ea12af7e
+283,Garrison Mathews,mathega01,Garrison Mathews,875cb99a-6a6d-3ff3-903f-6072a9219c43
+284,Terence Davis,daviste02,Terence Davis,9057a8d6-e968-3683-babb-d2f8d6dc7d2d
+285,Bryn Forbes,forbebr01,Bryn Forbes,1e680b5b-e6ea-34a4-b274-05f1c40c74e4
+286,Furkan Korkmaz,korkmfu01,Furkan Korkmaz,be8c2764-39ad-3afe-92fb-3ee56f102ff9
+287,Harry Giles III,gilesha01,Harry Giles,109bc45c-52ce-30dc-9a31-ab28b2892f94
+288,Admiral Schofield,schofad01,Admiral Schofield,be14ea20-f96f-3204-9005-fbf0a81b01af
+289,Chris Boucher,bouchch01,Chris Boucher,02a77da9-c1da-305d-8470-c1a7b3666433
+290,Anthony Tolliver,tollian01,Anthony Tolliver,c237b1f9-615c-3d28-842b-df28480ad988
+291,Quinndary Weatherspoon,weathqu01,Quinndary Weatherspoon,6d4fd35f-ae59-3ce2-87ef-d5cdca7f48c1
+292,Frank Jackson,jacksfr01,Frank Jackson,3c9f3a02-687e-3c5a-b4b4-dfefb56813e3
+293,Matisse Thybulle,thybuma01,Matisse Thybulle,a859eaca-d536-3e55-9ffd-fb4adfde500a
+294,Gary Clark,clarkga01,Gary Clark,a74ae8e2-816a-368d-98c9-f4bf679c990a
+295,Wes Iwundu,iwundwe01,Wesley Iwundu,4b0305af-f72e-320c-8e8a-4074154ae067
+296,Mike Muscala,muscami01,Mike Muscala,5b9cf5d1-667d-3032-ae3c-4a563d0d2675
+297,Andre Roberson,roberan03,Andre Roberson,f47903cc-8f08-36bf-9862-d98f27df6ed9
+298,Abdel Nader,naderab01,Abdel Nader,0e62cdef-8a42-3ac1-89d8-7c2dd36d3568
+299,Devon Hall,hallde01,Devon Hall,7db94f35-2381-3e6e-a48a-48c11c77baa6
+300,Deonte Burton,burtode02,Deonte Burton,4e82e275-226e-3271-ab22-263f827b549d
+301,Kevin Hervey,herveke01,Kevin Hervey,b0c38f3b-e79d-35ca-af71-04d4ff247a88
+302,Isaiah Roby,robyis01,Isaiah Roby,491b0f43-18de-3d57-9334-e86711323af7
+303,Terrance Ferguson,fergute01,Terrance Ferguson,29fa53f4-9d57-324b-a01e-65a09dcbeae0
+304,Ian Mahinmi,mahinia01,Ian Mahinmi,4d43f234-2c48-3827-b160-de09ff5720a9
+305,John Wall,,,9ad46983-65f2-3488-aeb0-357d7420b41e
+306,Jerian Grant,grantje02,Jerian Grant,8dd75569-96a4-3116-9719-67a6ef72054f
+307,Davis Bertans,davised01,Ed Davis,c2e511fa-faf3-3467-8f93-f20c4eb5a087
+308,Jarrod Uthoff,uthofja01,Jarrod Uthoff,1e8aa748-b505-3fd9-badd-be0cb19d324d
+309,Bradley Beal,bealbr01,Bradley Beal,1508eab4-2391-3900-8c62-cab5cbbd4b83
+310,Johnathan Williams,willijo04,Johnathan Williams,eeef76e6-ac7a-33a4-8816-75f5fc7a1706
+311,Gary Payton II,paytoga02,Gary Payton,8e950e89-fca2-35e6-82e1-292ab84fd614
+312,Anzejs Pasecniks,pasecan01,Anžejs Pasečņiks,907ad492-5739-3f55-99b3-5161d3886ed7
+313,Malcolm Miller,millema01,Malcolm Miller,31269d7e-c5c1-384e-9f55-494a26cf5f17
+314,Matt Thomas,thomama02,Matt Thomas,3984e2a8-d488-3970-a8b2-e5f60a2509ad
+315,Paul Watson,watsopa01,Paul Watson,8354baf6-1d86-3b93-9108-071d03f89ffa
+316,Stanley Johnson,johnsst04,Stanley Johnson,8bd858f1-a62d-39d5-bb3c-b0987aeb1325
+317,Patrick McCaw,mccawpa01,Patrick McCaw,a4c015d8-49a4-39ca-9051-dccd0825bf19
+318,Dewan Hernandez,hernade01,Dewan Hernandez,3754fa7c-4a70-38e3-86f4-64ce9738abd3
+319,Oshae Brissett,brissos01,Oshae Brissett,ca8124a9-16bc-3467-afe7-c78388f6e395
+320,Justise Winslow,winslju01,Justise Winslow,471b28cb-be30-3521-b660-f6e3eb66f301
+321,Yuta Watanabe,watanyu01,Yuta Watanabe,bc878663-7246-37cf-b87a-1e8f2d7c31a5
+322,John Konchar,konchjo01,John Konchar,4f06019d-15ba-3223-b149-a981e247cbe4
+323,Jontay Porter,,,bdfb6bd0-6279-3c34-a344-57eae2302a22
+324,Marko Guduric,gudurma01,Marko Guduric,9274e649-3361-3c2b-aecf-228fc38234be
+325,E'Twaun Moore,mooreet01,E'Twaun Moore,8fbb9965-d2f5-3b22-b777-b990555573fc
+326,Darius Miller,,,ce76118e-3ea7-33c5-9fc1-fb0dff2450a6
+327,Josh Gray,grayjo01,Josh Gray,4b78b03c-138f-3b00-8482-a1644df9b00b
+328,Sindarius Thornwell,,,1bcf8160-4cfe-3185-96dd-b027ba4f8d49
+329,Jahlil Okafor,okafoja01,Jahlil Okafor,06d932d0-55fe-3ee9-aafc-f2d7de8b8b45
+330,Kenrich Williams,willike04,Kenrich Williams,b83e2fe2-8302-34fa-bb4d-10df1e1d7761
+331,Zylan Cheatham,cheatzy01,Zylan Cheatham,f69865e1-227a-3675-8a84-8c7dc430b8d5
+332,Nickeil Alexander-Walker,alexani01,Nickeil Alexander-Walker,b8a88d3d-3918-3586-affb-73f1b3e10de2
+333,Jaxson Hayes,hayesja02,Jaxson Hayes,49abf7ee-e013-3fb6-8481-ba31d3217993
+334,LaMarcus Aldridge,aldrila01,LaMarcus Aldridge,5cbca0ae-da75-3ba5-a07f-15086c1d8f2b
+335,Tyler Zeller,zellety01,Tyler Zeller,4c8aeab2-9e72-3efd-bcff-b0c9ae85f153
+336,Trey Lyles,lylestr01,Trey Lyles,b0f9aa07-6a8c-3802-b289-6d886e48f310
+337,Chimezie Metu,metuch01,Chimezie Metu,01cf52af-c64f-3134-8d54-b1caa49f7d64
+338,Luka Samanic,samanlu01,Luka Šamanić,a4f5df23-0a76-31bf-a7dd-12a2a5618e99
+339,Kyle O'Quinn,oquinky01,Kyle O'Quinn,20da6218-5bfa-3be8-b3a7-f2c753bd56de
+340,Ryan Broekhoff,broekry01,Ryan Broekhoff,a4d98171-e952-3f29-b1d4-74377ed01696
+341,Norvel Pelle,pelleno01,Norvel Pelle,9ea8cd1e-b8b1-3669-bd1b-b7100070d8ef
+342,Raul Neto,netora01,Raul Neto,23eae8c8-c770-37be-b5f6-9ec99d0bdc1d
+343,Marial Shayok,shayoma01,Marial Shayok,0517fa6d-9d9e-3054-88e5-5cafed9c2350
+344,Zhaire Smith,smithzh01,Zhaire Smith,afe31f08-0d61-3334-97b8-0037619d153a
+345,Corey Brewer,breweco01,Corey Brewer,fcb4f87b-e7ff-34bd-a535-d5551da163cd
+346,Yogi Ferrell,ferreyo01,Yogi Ferrell,07dea53b-31bb-35f9-80a8-ab6cc936b733
+347,Jabari Parker,parkeja01,Jabari Parker,9998d91d-c3c0-3f33-a289-a3493bbb53ea
+348,Justin James,jamesju01,Justin James,d433f5ac-c39a-3f80-8844-a86092ec4bca
+349,DaQuan Jeffries,jeffrda01,DaQuan Jeffries,fd3b36a9-0d8f-328d-baf7-31ccb4e56a85
+350,Kyle Guy,guyky01,Kyle Guy,fd2c5824-84d7-31ea-89c9-6d2830cd7d58
+351,Marvin Bagley III,baglema01,Marvin Bagley,0bfc1b39-26f6-30c7-91ae-6e4d11b2c8ba
+352,Tyson Chandler,chandty01,Tyson Chandler,1927b183-942d-364c-80d9-11df6254dc7c
+353,DeMarre Carroll,carrode01,DeMarre Carroll,f98ec1e8-6c1c-36d5-acd2-305a5ca31b50
+354,Luc Richard Mbah a Moute,,,06c99716-2868-3288-a463-d44c6eb1a28a
+355,Thabo Sefolosha,sefolth01,Thabo Sefolosha,f3cf4e9d-5a76-313b-88e6-625e1b181370
+356,Michael Frazier,frazimi01,Michael Frazier,6fb9c889-f31d-3735-b1b6-00ef3533f006
+357,David Nwaba,nwabada01,David Nwaba,27fcd646-7513-3dfa-8040-0b06a4512a4c
+358,Bruno Caboclo,cabocbr01,Bruno Caboclo,534aa67c-aea4-36f0-b8cf-7b71ee3d0173
+359,Chris Clemons,clemoch01,Chris Clemons,e269808d-a8f4-3b23-89b3-b3704b9ba3b5
+360,William Howard,howarwi01,William Howard,edabacb0-a6fa-3b90-adf5-11910566650d
+361,Wilson Chandler,chandwi01,Wilson Chandler,27b2cd6a-056a-3366-b788-f18d15a383d4
+362,Kevin Durant,,,fa002694-9b04-34e6-b4b4-67a6c2560d7b
+363,DeAndre Jordan,jordade01,DeAndre Jordan,cc438f5a-2014-302a-b260-2ae576be8073
+364,Michael Beasley,cartemi01,Michael Carter-Williams,42e93e5d-7fe0-33d5-8964-e40bfccd481d
+365,Kyrie Irving,irvinky01,Kyrie Irving,eeeaecfd-040d-3bb8-8bd0-ee04291ac66a
+366,Spencer Dinwiddie,dinwisp01,Spencer Dinwiddie,d0427197-03e1-36fc-9e74-6261d5e47db7
+367,Taurean Prince,princta02,Taurean Waller-Prince,69609d5d-7b2a-3c7f-9eae-1347b89a5659
+368,Justin Anderson,anderju01,Justin Anderson,7a81c64f-6f2b-35d6-bfe7-a6fa8e7ab8f1
+369,Nicolas Claxton,claxtni01,Nicolas Claxton,e29fc67b-a0f2-342d-97be-af7ab17e67b8
+370,Dzanan Musa,musadz01,Džanan Musa,064115b8-9d5c-3e9b-a9b4-1426ba5d2135
+371,Javonte Green,greenja02,Javonte Green,ce2136d5-9551-3c8a-bb9b-0739a97b9b00
+372,Semi Ojeleye,ojelese01,Semi Ojeleye,11b4b324-4be0-3e32-b5f9-ffb7607c81b1
+373,Tacko Fall,fallta01,Tacko Fall,ed8bf0b2-4ec1-3f01-bde8-8635d80a731f
+374,Carsen Edwards,edwarca01,Carsen Edwards,acd28a1a-7a45-3e3a-873c-5d3a56aa2193
+375,Grant Williams,willigr01,Grant Williams,5481496e-6600-3e3d-9743-5acc6c3e6fc9
+376,Tremont Waters,watertr01,Tremont Waters,a235fbdd-b375-3d44-9645-3e39a8518d10
+377,Romeo Langford,langfro01,Romeo Langford,c74d3435-9662-3be6-accf-bb3aa17f6cb4
+378,Vincent Poirier,poirivi01,Vincent Poirier,3db001bf-79ce-3261-83c8-0adbf6940e79
+379,Al-Farouq Aminu,aminual01,Al-Farouq Aminu,ce936a53-fd84-3bf6-bf21-8d9d44a77317
+380,B.J. Johnson,johnsbj01,B.J. Johnson,af0c710c-cc85-348f-ae0c-8472d931a0b7
+381,Vic Law,lawvi01,Vic Law,3512dfc5-416d-3e57-b0b7-bda78fa6facd
+382,Melvin Frazier Jr.,frazime01,Melvin Frazier,12c031b6-b792-3846-b15c-d81207e3ef85
+383,Mo Bamba,bambamo01,Mohamed Bamba,383c408a-a3cc-307f-8a50-0d6a09e7c11f
