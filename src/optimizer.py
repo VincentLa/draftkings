@@ -5,6 +5,7 @@ import numpy
 from pulp import LpMaximize, LpProblem, LpStatus, lpSum, LpVariable
 
 import src.util as ut
+import src.prediction_models as pm
 
 # __file__ = r'C:\Users\Kevin\Documents\GitHub\draftkings\src\optimizer.py'
 GIT_ROOT_DIR = ut.get_git_root(os.path.dirname(__file__))
@@ -19,8 +20,10 @@ def main():
     """
     Run Optimizer
     """
+    date = '20200806'
+
     # import dfs stats and set up variable universe:
-    df = pd.read_csv(os.path.join(DRAFTKINGS_SALARIES_DIR, 'dk_nba_salaries_classic_20200806.csv'))
+    df = pd.read_csv(os.path.join(DRAFTKINGS_SALARIES_DIR, 'dk_nba_salaries_classic_' + date + '.csv'))
     df['PG'] = df['position'].str.contains('PG')
     df['SG'] = df['position'].str.contains('SG')
     df['SF'] = df['position'].str.contains('SF')
@@ -30,31 +33,14 @@ def main():
     df['F'] = df['position'].str.contains('F')
     df['UTIL'] = df['position'].str.contains('UTIL')
 
-    ### Testing with boxscores
-    # import nba_box_scores and avg
-    dkpts_df = pd.DataFrame()
-    for file in os.listdir(NBA_BOX_SCORE_DIR):
-        df_box = pd.read_csv(os.path.join(NBA_BOX_SCORE_DIR, file))[['slug', 'name', 'date_played', 'draftkings_points']]
-        dkpts_df = dkpts_df.append(df_box)
-
-    dkpts_df_avg = dkpts_df[['name', 'draftkings_points']].groupby('name').mean()
-
-
-    mapping_df = pd.read_csv(MAPPING_TABLE_FN)
-    test = df.merge(mapping_df, how='left', left_on='name', right_on='dk_name')
-    test = test.merge(dkpts_df_avg, how='left', left_on='bbr_name', right_on='name')
-    #test = test.drop('AvgPointsPerGame', axis=1)
-    test = test.rename(columns={'draftkings_points':'AvgPointsPerGame'})
-    test.AvgPointsPerGame = test.AvgPointsPerGame.fillna(0)
-
-    df = test
+    df = pm.recent_mean(df, optdate=date)
     df = df[~df.salary.isna()]
 
     model = LpProblem(name='dfs-nba', sense=LpMaximize)
     player_wgts = LpVariable.dicts('Player', df.name, lowBound=0, upBound=1, cat='Integer')
 
     # Add obj function
-    model += lpSum(df[df.name == i].AvgPointsPerGame*player_wgts[i] for i in df.name)
+    model += lpSum(df[df.name == i].EV*player_wgts[i] for i in df.name)
 
     # set up model constraints
     model += (lpSum(df[df.name == i].salary * player_wgts[i] for i in df.name) <= 50000, 'Salary constraint')

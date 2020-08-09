@@ -24,6 +24,8 @@ DATA_DIR = os.path.join(GIT_ROOT_DIR, 'data')
 PROCESSED_DATA_DIR = os.path.join(GIT_ROOT_DIR, 'data', 'processed')
 NBA_BOX_SCORE_DIR = os.path.join(DATA_DIR, 'raw', 'nba_box_score_stats')
 DRAFTKINGS_SALARIES_DIR = os.path.join(DATA_DIR, 'raw', 'draftkings_salaries')
+MAPPING_TABLE_FN = os.path.join(DATA_DIR, 'processed', 'player_map.csv')
+
 
 
 def check_missing_values(data):
