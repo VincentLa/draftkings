@@ -6,7 +6,7 @@ from pulp import LpMaximize, LpProblem, LpStatus, lpSum, LpVariable
 
 import src.util as ut
 
-
+# __file__ = r'C:\Users\Kevin\Documents\GitHub\draftkings\src\optimizer.py'
 GIT_ROOT_DIR = ut.get_git_root(os.path.dirname(__file__))
 DATA_DIR = os.path.join(GIT_ROOT_DIR, 'data')
 DRAFTKINGS_SALARIES_DIR = os.path.join(DATA_DIR, 'raw', 'draftkings_salaries')
@@ -39,20 +39,16 @@ def main():
 
     dkpts_df_avg = dkpts_df[['name', 'draftkings_points']].groupby('name').mean()
 
-    # # mapping table
-    # dkmap = dkpts_df[['slug', 'name']].drop_duplicates()
-    # dkmap2 = df[['ID', 'Name']].drop_duplicates()
-    # mappingtable = dkmap2.merge(dkmap, left_on='Name', right_on='name', how='outer')
-    # mappingtable.to_csv('mappingtable.csv')
 
     mapping_df = pd.read_csv(MAPPING_TABLE_FN)
     test = df.merge(mapping_df, how='left', left_on='name', right_on='dk_name')
     test = test.merge(dkpts_df_avg, how='left', left_on='bbr_name', right_on='name')
-    # test = test.drop('AvgPointsPerGame', axis=1)
+    #test = test.drop('AvgPointsPerGame', axis=1)
     test = test.rename(columns={'draftkings_points':'AvgPointsPerGame'})
     test.AvgPointsPerGame = test.AvgPointsPerGame.fillna(0)
 
     df = test
+    df = df[~df.salary.isna()]
 
     model = LpProblem(name='dfs-nba', sense=LpMaximize)
     player_wgts = LpVariable.dicts('Player', df.name, lowBound=0, upBound=1, cat='Integer')
@@ -84,7 +80,7 @@ def main():
     for name, constraint in model.constraints.items():
         print(f"{name}: {constraint.value()}")
 
-    model.to_json(os.path.join(PROBLEM_HISTORY_DIR, '20200806_problem.json'))
+    model.to_json(os.path.join(PROBLEM_HISTORY_DIR, 'test_problem.json'))
 
 if __name__ == '__main__':
     """See https://stackoverflow.com/questions/419163/what-does-if-name-main-do"""
