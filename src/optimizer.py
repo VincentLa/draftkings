@@ -39,39 +39,10 @@ def main():
 
     df.loc[6, 'name'] = 'Michael Porter'
     df = remove_injured_players(df, date)
-
-
-    df['PG'] = df['position'].str.contains('PG')
-    df['SG'] = df['position'].str.contains('SG')
-    df['SF'] = df['position'].str.contains('SF')
-    df['PF'] = df['position'].str.contains('PF')
-    df['C'] = df['position'].str.contains('C')
-    df['G'] = df['position'].str.contains('G')
-    df['F'] = df['position'].str.contains('F')
-    df['UTIL'] = df['position'].str.contains('UTIL')
-
     df = pm.recent_mean(df, optdate=date, games=1)
     df = df[~df.salary.isna()]
 
-
-    model = LpProblem(name='dfs-nba', sense=LpMaximize)
-    player_wgts = LpVariable.dicts('Player', df.name, lowBound=0, upBound=1, cat='Integer')
-
-    # Add obj function
-    model += lpSum(df[df.name == i].EV*player_wgts[i] for i in df.name)
-
-    # set up model constraints
-    model += (lpSum(df[df.name == i].salary * player_wgts[i] for i in df.name) <= 50000, 'Salary constraint')
-    model += (lpSum(player_wgts[i] for i in df.name) == 8, 'Player constraint')
-    model += (lpSum(df[df.name == i].PG * player_wgts[i] for i in df.name) >= 1, 'PG constraint')
-    model += (lpSum(df[df.name == i].SG * player_wgts[i] for i in df.name) >= 1, 'SG constraint')
-    model += (lpSum(df[df.name == i].SF * player_wgts[i] for i in df.name) >= 1, 'SF constraint')
-    model += (lpSum(df[df.name == i].PF * player_wgts[i] for i in df.name) >= 1, 'PF constraint')
-    model += (lpSum(df[df.name == i].C * player_wgts[i] for i in df.name) >= 1, 'C constraint')
-    model += (lpSum(df[df.name == i].G * player_wgts[i] for i in df.name) >= 3, 'G constraint')
-    model += (lpSum(df[df.name == i].F * player_wgts[i] for i in df.name) >= 3, 'F constraint')
-
-    status = model.solve()
+    model = optimize(df)
 
     print(f"status: {model.status}, {LpStatus[model.status]}")
 
@@ -157,7 +128,38 @@ def best_lineup_history():
         df = pd.concat([df,best_possible_lineup(file[24:32])], axis=1)
     #df.to_csv(os.path.join(DATA_DIR, 'processed', 'best_lineup_history.csv'))
 
+def optimize(df):
+    # optimize function - requires inputs in df, containing 'salary','position','EV' columns
 
+    df['PG'] = df['position'].str.contains('PG')
+    df['SG'] = df['position'].str.contains('SG')
+    df['SF'] = df['position'].str.contains('SF')
+    df['PF'] = df['position'].str.contains('PF')
+    df['C'] = df['position'].str.contains('C')
+    df['G'] = df['position'].str.contains('G')
+    df['F'] = df['position'].str.contains('F')
+    df['UTIL'] = df['position'].str.contains('UTIL')
+
+    model = LpProblem(name='dfs-nba', sense=LpMaximize)
+    player_wgts = LpVariable.dicts('Player', df.name, lowBound=0, upBound=1, cat='Integer')
+
+    # Add obj function
+    model += lpSum(df[df.name == i].EV*player_wgts[i] for i in df.name)
+
+    # set up model constraints
+    model += (lpSum(df[df.name == i].salary * player_wgts[i] for i in df.name) <= 50000, 'Salary constraint')
+    model += (lpSum(player_wgts[i] for i in df.name) == 8, 'Player constraint')
+    model += (lpSum(df[df.name == i].PG * player_wgts[i] for i in df.name) >= 1, 'PG constraint')
+    model += (lpSum(df[df.name == i].SG * player_wgts[i] for i in df.name) >= 1, 'SG constraint')
+    model += (lpSum(df[df.name == i].SF * player_wgts[i] for i in df.name) >= 1, 'SF constraint')
+    model += (lpSum(df[df.name == i].PF * player_wgts[i] for i in df.name) >= 1, 'PF constraint')
+    model += (lpSum(df[df.name == i].C * player_wgts[i] for i in df.name) >= 1, 'C constraint')
+    model += (lpSum(df[df.name == i].G * player_wgts[i] for i in df.name) >= 3, 'G constraint')
+    model += (lpSum(df[df.name == i].F * player_wgts[i] for i in df.name) >= 3, 'F constraint')
+
+    status = model.solve()
+
+    return status
 
 if __name__ == '__main__':
     """See https://stackoverflow.com/questions/419163/what-does-if-name-main-do"""
