@@ -11,6 +11,7 @@ import src.prediction_models as pm
 GIT_ROOT_DIR = ut.get_git_root(os.path.dirname(__file__))
 DATA_DIR = os.path.join(GIT_ROOT_DIR, 'data')
 DRAFTKINGS_SALARIES_DIR = os.path.join(DATA_DIR, 'raw', 'draftkings_salaries')
+DRAFTKINGS_SALARIES_LIVE_DIR = os.path.join(DATA_DIR, 'raw', 'draftkings_salaries_live')
 NBA_BOX_SCORE_DIR = os.path.join(DATA_DIR, 'raw', 'nba_box_score_stats')
 PROBLEM_HISTORY_DIR = os.path.join(DATA_DIR, 'problem_history')
 MAPPING_TABLE_FN = os.path.join(DATA_DIR, 'processed', 'player_map.csv')
@@ -20,10 +21,21 @@ def main():
     """
     Run Optimizer
     """
-    date = '20200806'
+    date = '20200810'
 
     # import dfs stats and set up variable universe:
-    df = pd.read_csv(os.path.join(DRAFTKINGS_SALARIES_DIR, 'dk_nba_salaries_classic_' + date + '.csv'))
+    try:
+        df = pd.read_csv(os.path.join(DRAFTKINGS_SALARIES_LIVE_DIR, 'dk_nba_salaries_classic_' + date + '.csv'))
+    except:
+        df = pd.read_csv(os.path.join(DRAFTKINGS_SALARIES_DIR, 'dk_nba_salaries_classic_' + date + '.csv'))
+
+    if 'Roster Position' in df.columns:
+        df.rename(columns={'Roster Position':'position'}, inplace=True)
+    if 'Name' in df.columns:
+        df.rename(columns={'Name':'name'}, inplace=True)
+    if 'Salary' in df.columns:
+        df.rename(columns={'Salary':'salary'}, inplace=True)
+
     df['PG'] = df['position'].str.contains('PG')
     df['SG'] = df['position'].str.contains('SG')
     df['SF'] = df['position'].str.contains('SF')
@@ -66,7 +78,7 @@ def main():
     for name, constraint in model.constraints.items():
         print(f"{name}: {constraint.value()}")
 
-    model.to_json(os.path.join(PROBLEM_HISTORY_DIR, 'test_problem.json'))
+    model.to_json(os.path.join(PROBLEM_HISTORY_DIR, '20200810_live_test1.json'))
 
 def best_possible_lineup(date):
 
