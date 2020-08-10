@@ -6,6 +6,7 @@ from pulp import LpMaximize, LpProblem, LpStatus, lpSum, LpVariable
 
 import src.util as ut
 import src.prediction_models as pm
+from src.injury_data import remove_injured_players
 
 # __file__ = r'C:\Users\Kevin\Documents\GitHub\draftkings\src\optimizer.py'
 GIT_ROOT_DIR = ut.get_git_root(os.path.dirname(__file__))
@@ -36,6 +37,10 @@ def main():
     if 'Salary' in df.columns:
         df.rename(columns={'Salary':'salary'}, inplace=True)
 
+    df.loc[6, 'name'] = 'Michael Porter'
+    df = remove_injured_players(df, date)
+
+
     df['PG'] = df['position'].str.contains('PG')
     df['SG'] = df['position'].str.contains('SG')
     df['SF'] = df['position'].str.contains('SF')
@@ -45,8 +50,9 @@ def main():
     df['F'] = df['position'].str.contains('F')
     df['UTIL'] = df['position'].str.contains('UTIL')
 
-    df = pm.recent_mean(df, optdate=date)
+    df = pm.recent_mean(df, optdate=date, games=1)
     df = df[~df.salary.isna()]
+
 
     model = LpProblem(name='dfs-nba', sense=LpMaximize)
     player_wgts = LpVariable.dicts('Player', df.name, lowBound=0, upBound=1, cat='Integer')
@@ -78,7 +84,7 @@ def main():
     for name, constraint in model.constraints.items():
         print(f"{name}: {constraint.value()}")
 
-    model.to_json(os.path.join(PROBLEM_HISTORY_DIR, '20200810_live_test1.json'))
+    model.to_json(os.path.join(PROBLEM_HISTORY_DIR, '20200810_live_test3.json'))
 
 def best_possible_lineup(date):
 

@@ -7,6 +7,7 @@ import pandas as pd
 import pdfreader
 from pdfreader import SimplePDFViewer
 from tabula import read_pdf, convert_into
+import src.util as ut
 
 today = datetime.datetime.today()
 today = today.strftime('%Y-%m-%d')
@@ -45,6 +46,18 @@ def parse_injuryreports():
 
             final_report.to_csv(ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + file[:-3] + "csv")
 
+# remove players from df in on injury report - based on current status
+def remove_injured_players(df, date):
+    dt = datetime.datetime.strptime(date, '%Y%m%d').strftime('%Y-%m-%d')
+    inj_df = pd.read_csv(ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + "Injury-Report_" + dt + "_02PM.csv")
+    inj_df['Game Date'] = inj_df['Game Date'].ffill()
+    inj_df['Team'] = inj_df['Team'].ffill()
+    inj_df = inj_df[['Game Date', 'Team', 'Player Name', 'Current Status']]
+    inj_df = inj_df[inj_df['Current Status'].isin(['Out','Doubtful'])]
+    inj_df = inj_df[inj_df['Game Date'] == datetime.datetime.strptime(date, '%Y%m%d').strftime('%m/%d/%Y')]
+    inj_df['Player Name'] = [" ".join(n.split(", ")[::-1]) for n in inj_df['Player Name']]
+    df = df[~df.name.isin(inj_df['Player Name'])]
+    return df
 
 download_nba_injuryreports(today)
 parse_injuryreports()
