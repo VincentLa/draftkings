@@ -1,0 +1,4 @@
+lineup_id,date,method,problem_json,config_file,objective,actual
+1,20200810,mean1,20200810_live_test3.json,,356,
+2,20200810,mean3,20200810_live_test2.json,,320.875,
+3,20200810,mean5,20200810_live_test1.json,,315.042,

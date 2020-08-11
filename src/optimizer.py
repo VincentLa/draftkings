@@ -37,9 +37,9 @@ def main():
     if 'Salary' in df.columns:
         df.rename(columns={'Salary':'salary'}, inplace=True)
 
-    df.loc[6, 'name'] = 'Michael Porter'
+    #df.loc[6, 'name'] = 'Michael Porter'
     df = remove_injured_players(df, date)
-    df = pm.recent_mean(df, optdate=date, games=1)
+    df = pm.recent_mean(df, optdate=date, games=5)
     df = df[~df.salary.isna()]
 
     model = optimize(df)
@@ -55,7 +55,7 @@ def main():
     for name, constraint in model.constraints.items():
         print(f"{name}: {constraint.value()}")
 
-    model.to_json(os.path.join(PROBLEM_HISTORY_DIR, '20200810_live_test3.json'))
+    #model.to_json(os.path.join(PROBLEM_HISTORY_DIR, '20200810_live_test3.json'))
 
 def best_possible_lineup(date):
 
@@ -159,7 +159,7 @@ def optimize(df):
 
     status = model.solve()
 
-    return status
+    return model
 
 if __name__ == '__main__':
     """See https://stackoverflow.com/questions/419163/what-does-if-name-main-do"""
