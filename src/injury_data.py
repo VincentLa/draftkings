@@ -49,7 +49,16 @@ def parse_injuryreports():
 # remove players from df in on injury report - based on current status
 def remove_injured_players(df, date):
     dt = datetime.datetime.strptime(date, '%Y%m%d').strftime('%Y-%m-%d')
-    inj_df = pd.read_csv(ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + "Injury-Report_" + dt + "_02PM.csv")
+    if os.path.exists(ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + "Injury-Report_" + dt + "_05PM.csv"):
+        inj_df = pd.read_csv(
+            ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + "Injury-Report_" + dt + "_05PM.csv")
+    elif os.path.exists(ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + "Injury-Report_" + dt + "_02PM.csv"):
+        inj_df = pd.read_csv(
+            ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + "Injury-Report_" + dt + "_02PM.csv")
+    else:
+        inj_df = pd.read_csv(
+            ROOT_DIR + '\\data\\processed\\injury_reports' + "\\" + "Injury-Report_" + dt + "_11AM.csv")
+
     inj_df['Game Date'] = inj_df['Game Date'].ffill()
     inj_df['Team'] = inj_df['Team'].ffill()
     inj_df = inj_df[['Game Date', 'Team', 'Player Name', 'Current Status']]

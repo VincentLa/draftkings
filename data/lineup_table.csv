@@ -1,4 +1,15 @@
-lineup_id,date,method,problem_json,config_file,objective,actual
-1,20200810,mean1,20200810_live_test3.json,,356,
-2,20200810,mean3,20200810_live_test2.json,,320.875,
-3,20200810,mean5,20200810_live_test1.json,,315.042,
+lineup_id,date,method,problem_json,config_file,objective,actual,top,top10,top100,top250,cash,notes
+1,20200810,mean1,20200810_live_test3.json,,356,221.25,307.5,298.25,285.75,280.25,239.25,2 game slate
+2,20200810,mean3,20200810_live_test2.json,,320.875,190.5,,,,,,
+3,20200810,mean5,20200810_live_test1.json,,315.042,162.75,,,,,,
+,,,,,,,,,,,,
+4,20200811,mean5,,,314.1,,,,,,,
+,objective: 314.1,,,,,,,,,,,
+,Player_Bogdan_Bogdanovic: 1.0,,,,,,,,,,,
+,Player_Brook_Lopez: 1.0,,,,,,,,,,,
+,Player_Cameron_Johnson: 1.0,,,,,,,,,,,
+,Player_Cameron_Payne: 1.0,,,,,,,,,,,
+,Player_Dorian_Finney_Smith: 1.0,,,,,,,,,,,
+,Player_Kristaps_Porzingis: 1.0,,,,,,,,,,,
+,Player_Luka_Doncic: 1.0,,,,,,,,,,,
+,Player_Troy_Brown_Jr.: 1.0,,,,,,,,,,,
