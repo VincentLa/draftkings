@@ -1,0 +1,39 @@
+
+user: Kevin Ge
+testing_mode: backtest # can also be backtest, optimal_run
+test_date: 20200811
+model_name: mean5
+output_dir: output
+
+#-------------------------------------------------
+predict_run:
+  salary_date: 20200810
+  draftkings_salaries_live: True
+  prediction_model: recent_mean
+  prediction_model_params:
+    - games: 5
+  risk_model: None
+  drop_injured_players: True
+  output_label: live_test1
+  save_to_db: False
+
+optimal_run:
+  salary_date: 20200810
+  prediction_model: recent_mean
+  prediction_model_params:
+    - games: 5
+  risk_model: None
+  drop_injured_players: True
+  output_label: live_test1
+  save_to_db: False
+
+backtest:
+  start_date: 20200803
+  end_date: 20200811
+  prediction_model: recent_mean
+  prediction_model_params:
+    - games: 5
+  risk_model: None
+  drop_injured_players: True
+  output_label: backtest1
+  save_to_db: False

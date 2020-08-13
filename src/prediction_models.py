@@ -5,7 +5,7 @@ import datetime
 
 # Prediction based on most recent mean scores, defined by number of recent games. if < than that #, use all that is available
 # modify date format coming in for boxscore filtering
-def recent_mean(df, optdate, games=5, min_date='2020-07-30'):
+def recent_mean(df, optdate, games=5, min_date='2020-07-25'):
     optdate = datetime.datetime.strptime(optdate, '%Y%m%d').strftime('%Y-%m-%d')
     dkpts_df = pd.DataFrame()
     for file in os.listdir(ut.NBA_BOX_SCORE_DIR):

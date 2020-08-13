@@ -8,6 +8,7 @@ import src.util as ut
 import src.prediction_models as pm
 from src.injury_data import remove_injured_players
 from src.dataclass import Player, Lineup
+import datetime
 import yaml
 
 
@@ -25,19 +26,21 @@ def main():
     """
     Run Optimizer
     """
-    config_path = os.path.join(PROBLEM_HISTORY_DIR, 'test.yaml')
+    config_path = os.path.join(PROBLEM_HISTORY_DIR, 'test_btest.yaml')
     global config
     with open(config_path) as file:
         config = yaml.load(file)
 
-    date = str(config.get('test_date'))
     testing_mode = config.get('testing_mode')
 
     # run mode
     if testing_mode == 'predict_run':
-        predict_run(config, testing_mode, date, config_path)
+        predict_run(config, testing_mode, config_path)
 
     if testing_mode == 'backtest':
+        backtest(config, testing_mode, config_path)
+
+    if testing_mode == 'optimal_run':
         None
 
 
@@ -126,32 +129,60 @@ def setup_opt_data(date, live_run, prediction_model, prediction_model_params, dr
 
     return df
 
-def get_model_lineup(df, model, config_path):
+def get_model_lineup(df, model, config_path, date):
     # convert model to lineup object
     playerlist = []
     for var in model.variables():
         if var.value() > 0:
             name = var.name[7:].replace("_", ' ')
-            player_df = df[df.name == name]
+            player_df = df[df.name == ut.closest_name(name, df.name)]
             p = Player(name=name, position=player_df.position.values[0], player_id=player_df.player_id.values[0],
                        salary=player_df.salary.values[0], EV=player_df.EV.values[0], risk=None)
             print(var.name)
             playerlist.append(p)
-    lineup = Lineup(mode=config.get('testing_mode'), date=str(config.get('test_date')), players=playerlist,
+    lineup = Lineup(mode=config.get('testing_mode'), date=date, players=playerlist,
                     predict_model=config.get(config.get('testing_mode')).get('prediction_model'),
                     predict_model_params=config.get(config.get('testing_mode')).get('prediction_model_params'),
                     risk_model=None, risk_model_params=None, config=config_path)
     return lineup
 
 
-def predict_run(config, testing_mode, date, config_path):
+def backtest(config, testing_mode, config_path):
+    start_date = str(config.get(testing_mode).get('start_date'))
+    end_date = str(config.get(testing_mode).get('end_date'))
+    date_range = pd.date_range(start=start_date, end=end_date, freq='D')
+
+    for i in range(0,len(date_range)):
+        date = date_range[i]
+        date = date.strftime('%Y%m%d')
+        print(date)
+        if os.path.exists(os.path.join(DRAFTKINGS_SALARIES_DIR, 'dk_nba_salaries_classic_' + date + '.csv')):
+            df = setup_opt_data(date, live_run=False,
+                                prediction_model=config.get(testing_mode).get('prediction_model'),
+                                prediction_model_params=config.get(testing_mode).get('prediction_model_params'),
+                                drop_inj=config.get(testing_mode).get('drop_injured_players'))
+            model = optimize(df)
+
+            lineup_obj = get_model_lineup(df, model, config_path, date)
+            lineup_obj.calc_actual()
+
+            # convert lineups to tables -
+            lineup_obj.save(os.path.join(DATA_DIR, config.get('output_dir'),
+                                         config.get(testing_mode).get('output_label') + '.xlsx'))
+
+    return
+
+
+
+def predict_run(config, testing_mode, config_path):
+    date = str(config.get(testing_mode).get('salary_date'))
     df = setup_opt_data(date, live_run=config.get(testing_mode).get('draftkings_salaries_live'),
                         prediction_model=config.get(testing_mode).get('prediction_model'),
                         prediction_model_params=config.get(testing_mode).get('prediction_model_params'),
                         drop_inj=config.get(testing_mode).get('drop_injured_players'))
     model = optimize(df)
 
-    lineup_obj = get_model_lineup(df, model, config_path)
+    lineup_obj = get_model_lineup(df, model, config_path, date=str(config.get('test_date')))
     lineup_obj.calc_actual()
 
     # convert lineups to tables -

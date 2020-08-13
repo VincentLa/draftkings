@@ -54,8 +54,10 @@ class Lineup:
             box_df = box_df.merge(mapping_df[['bbr_slug', 'player_id']], left_on='slug', right_on='bbr_slug')
             pts = 0
             for p in self.players:
-                player_fp = box_df[box_df.player_id == p.player_id]['draftkings_points'].values[0]
-                pts = pts + player_fp
+                player_fp=0
+                if len(box_df[box_df.player_id == p.player_id]['draftkings_points']) > 0:
+                    player_fp = box_df[box_df.player_id == p.player_id]['draftkings_points'].values[0]
+                    pts = pts + player_fp
                 p.actual = player_fp
             self.lineup_actual = pts
         return
@@ -78,6 +80,13 @@ class Lineup:
 
         with open(self.config) as file:
             config = yaml.load(file)
+
+
+        if os.path.exists(path):
+            temp_df = pd.read_excel(path, sheet_name='lineup', index_col=0)
+            lineup_df = temp_df.append(lineup_df)
+            temp_df = pd.read_excel(path, sheet_name='players', index_col=0)
+            players_df = temp_df.append(players_df)
 
         writer = pd.ExcelWriter(path)
         lineup_df.to_excel(writer, sheet_name='lineup')

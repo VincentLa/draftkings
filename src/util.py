@@ -58,3 +58,12 @@ def fuzzy_merge(df_1, df_2, key1, key2, threshold=80, limit=1):
     df_1['matches'] = m2
 
     return df_1
+
+def closest_name(string, series):
+    match = ''
+    score = 0
+    for item in series:
+        if(fuzz.ratio(string, item) > score):
+            score = fuzz.ratio(string, item)
+            match = item
+    return match
