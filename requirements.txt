@@ -6,6 +6,7 @@ backcall==0.2.0
 basketball-reference-web-scraper==4.10.0
 beautifulsoup4==4.9.1
 bleach==3.1.5
+cachetools==4.1.1
 certifi==2018.10.15
 cffi==1.14.1
 chardet==3.0.4
@@ -17,6 +18,13 @@ fuzzywuzzy==0.18.0
 git-python==1.0.3
 gitdb==4.0.5
 GitPython==3.1.7
+google-api-core==1.22.1
+google-auth==1.20.1
+google-cloud-bigquery==1.27.2
+google-cloud-core==1.4.1
+google-crc32c==0.1.0
+google-resumable-media==0.7.1
+googleapis-common-protos==1.52.0
 idna==2.7
 importlib-metadata==1.7.0
 ipykernel==5.3.4
@@ -46,8 +54,11 @@ pexpect==4.8.0
 pickleshare==0.7.5
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
+protobuf==3.13.0
 ptyprocess==0.6.0
 PuLP==2.3
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
 pycparser==2.20
 Pygments==2.6.1
 pyparsing==2.4.7
@@ -59,6 +70,7 @@ pyzmq==19.0.2
 qtconsole==4.7.5
 QtPy==1.9.0
 requests==2.24.0
+rsa==4.6
 Send2Trash==1.5.0
 six==1.15.0
 smmap==3.0.4
