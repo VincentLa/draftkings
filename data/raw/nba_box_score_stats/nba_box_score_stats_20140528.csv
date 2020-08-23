@@ -1,0 +1,21 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+georgpa01,Paul George,Team.INDIANA_PACERS,Location.HOME,Team.MIAMI_HEAT,2014-05-28,Outcome.WIN,2704,15,28,5,14,2,3,37,6,2,6,0,3,0,0,60.5
+boshch01,Chris Bosh,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,2467,9,21,2,7,0,0,20,10,2,2,1,2,1,0,43.0
+wadedw01,Dwyane Wade,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,2400,7,14,2,3,2,2,18,8,7,2,0,6,0,0,40.5
+westda01,David West,Team.INDIANA_PACERS,Location.HOME,Team.MIAMI_HEAT,2014-05-28,Outcome.WIN,2470,7,11,0,0,5,8,19,9,2,2,1,2,0,0,38.25
+hibbero01,Roy Hibbert,Team.INDIANA_PACERS,Location.HOME,Team.MIAMI_HEAT,2014-05-28,Outcome.WIN,2272,4,11,0,0,2,3,10,13,2,0,1,3,1,0,31.25
+stephla01,Lance Stephenson,Team.INDIANA_PACERS,Location.HOME,Team.MIAMI_HEAT,2014-05-28,Outcome.WIN,2581,4,11,0,3,4,4,12,5,5,2,0,2,0,0,28.75
+chalmma01,Mario Chalmers,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,2123,3,4,1,2,1,1,8,8,5,1,0,0,0,0,28.0
+lewisra02,Rashard Lewis,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,1880,6,10,6,9,0,0,18,4,0,0,0,2,0,0,25.0
+hillge01,George Hill,Team.INDIANA_PACERS,Location.HOME,Team.MIAMI_HEAT,2014-05-28,Outcome.WIN,2273,4,9,1,2,0,2,9,7,1,2,0,0,0,0,23.75
+allenra02,Ray Allen,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,1369,5,11,3,6,2,2,15,2,1,0,1,1,0,0,22.0
+jamesle01,LeBron James,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,1461,2,10,1,3,2,3,7,2,4,0,1,3,0,0,16.5
+scolalu01,Luis Scola,Team.INDIANA_PACERS,Location.HOME,Team.MIAMI_HEAT,2014-05-28,Outcome.WIN,1006,3,6,0,0,0,2,6,4,1,0,0,1,0,0,12.0
+hasleud01,Udonis Haslem,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,429,2,2,0,0,0,0,4,2,0,0,0,0,0,0,6.5
+coleno01,Norris Cole,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,1100,0,2,0,1,0,0,0,1,3,0,0,3,0,0,4.25
+battish01,Shane Battier,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,710,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3.25
+watsocj01,C.J. Watson,Team.INDIANA_PACERS,Location.HOME,Team.MIAMI_HEAT,2014-05-28,Outcome.WIN,795,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1.25
+mahinia01,Ian Mahinmi,Team.INDIANA_PACERS,Location.HOME,Team.MIAMI_HEAT,2014-05-28,Outcome.WIN,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+douglto01,Toney Douglas,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+beaslmi01,Michael Beasley,Team.MIAMI_HEAT,Location.AWAY,Team.INDIANA_PACERS,2014-05-28,Outcome.LOSS,191,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+butlera01,Rasual Butler,Team.INDIANA_PACERS,Location.HOME,Team.MIAMI_HEAT,2014-05-28,Outcome.WIN,287,0,1,0,1,0,0,0,0,0,0,0,1,0,0,-0.5

@@ -1,0 +1,20 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+wadedw01,Dwyane Wade,Team.MIAMI_HEAT,Location.HOME,Team.TORONTO_RAPTORS,2016-05-13,Outcome.WIN,2204,8,21,1,4,5,6,22,6,5,2,3,1,0,0,47.0
+lowryky01,Kyle Lowry,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,2214,12,27,3,5,9,10,36,4,3,0,0,2,0,0,46.0
+dragigo01,Goran Dragić,Team.MIAMI_HEAT,Location.HOME,Team.TORONTO_RAPTORS,2016-05-13,Outcome.WIN,2272,12,21,2,5,4,4,30,7,4,0,0,2,0,0,44.75
+derozde01,DeMar DeRozan,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,2558,8,21,0,1,7,7,23,4,2,1,0,2,0,0,32.0
+biyombi01,Bismack Biyombo,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,1980,1,4,0,0,2,4,4,13,2,0,2,2,0,0,26.25
+richajo01,Josh Richardson,Team.MIAMI_HEAT,Location.HOME,Team.TORONTO_RAPTORS,2016-05-13,Outcome.WIN,1993,4,9,1,3,0,0,9,5,2,0,2,0,0,0,22.75
+pattepa01,Patrick Patterson,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,2000,4,7,0,2,0,0,8,8,0,0,1,0,0,0,20.0
+johnsjo02,Joe Johnson,Team.MIAMI_HEAT,Location.HOME,Team.TORONTO_RAPTORS,2016-05-13,Outcome.WIN,1858,5,10,1,3,2,2,13,4,1,0,0,2,0,0,19.0
+winslju01,Justise Winslow,Team.MIAMI_HEAT,Location.HOME,Team.TORONTO_RAPTORS,2016-05-13,Outcome.WIN,1615,4,9,1,1,3,4,12,3,1,0,0,0,0,0,17.75
+mcrobjo01,Josh McRoberts,Team.MIAMI_HEAT,Location.HOME,Team.TORONTO_RAPTORS,2016-05-13,Outcome.WIN,1099,5,8,0,1,0,0,10,5,0,0,0,0,0,0,16.25
+denglu01,Luol Deng,Team.MIAMI_HEAT,Location.HOME,Team.TORONTO_RAPTORS,2016-05-13,Outcome.WIN,2434,1,5,0,3,0,0,2,8,2,0,1,2,0,0,16.0
+carrode01,DeMarre Carroll,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,1500,2,4,1,3,0,2,5,6,0,0,1,1,0,0,14.5
+josepco01,Cory Joseph,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,1534,3,9,0,0,1,2,7,3,1,1,0,0,0,0,14.25
+rosste01,Terrence Ross,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,1425,3,8,0,4,0,0,6,2,1,0,0,0,0,0,10.0
+johnsty01,Tyler Johnson,Team.MIAMI_HEAT,Location.HOME,Team.TORONTO_RAPTORS,2016-05-13,Outcome.WIN,926,1,1,1,1,2,4,5,3,0,0,0,0,0,0,9.25
+powelno01,Norman Powell,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,154,0,0,0,0,0,0,0,1,1,1,0,0,0,0,4.75
+noguelu01,Lucas Nogueira,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,388,1,1,0,0,0,0,2,1,0,0,0,0,0,0,3.25
+johnsja01,James Johnson,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,383,0,1,0,1,0,0,0,1,0,1,0,1,0,0,2.75
+thompja02,Jason Thompson,Team.TORONTO_RAPTORS,Location.AWAY,Team.MIAMI_HEAT,2016-05-13,Outcome.LOSS,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

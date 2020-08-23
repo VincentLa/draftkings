@@ -1,0 +1,27 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+duranke01,Kevin Durant,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,2442,13,22,4,8,3,3,33,13,6,3,5,3,1,0,76.25
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,2362,12,18,1,3,4,5,29,11,14,3,1,4,0,1,73.25
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,2175,7,17,4,11,14,14,32,10,11,1,0,8,0,1,64.0
+loveke01,Kevin Love,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,1811,12,23,2,7,1,1,27,7,0,2,0,1,0,0,40.25
+irvinky01,Kyrie Irving,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,2402,8,23,2,6,1,2,19,2,7,2,0,3,0,0,35.5
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,2227,8,12,4,7,2,3,22,7,1,0,0,2,0,0,33.25
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,1479,4,8,3,6,1,2,12,6,6,1,0,3,0,0,30.5
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,1700,2,6,1,4,0,0,5,4,5,0,1,1,0,0,19.5
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,1274,4,7,0,0,0,0,8,4,1,2,0,0,0,0,18.5
+shumpim01,Iman Shumpert,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,1301,1,6,0,2,4,4,6,4,0,3,0,0,0,0,17.0
+clarkia01,Ian Clark,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,753,4,8,2,5,0,0,10,2,2,0,0,1,0,0,16.0
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,1148,4,7,0,0,2,2,10,1,1,0,0,0,0,0,12.75
+korveky01,Kyle Korver,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,1401,2,4,1,3,3,3,8,0,1,1,0,0,0,0,12.0
+westda01,David West,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,680,1,2,0,1,0,0,2,3,2,0,1,0,0,0,10.75
+jefferi01,Richard Jefferson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,789,2,3,1,2,2,4,7,1,0,1,0,0,0,0,10.75
+willide01,Deron Williams,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,851,0,5,0,2,0,0,0,3,3,1,0,0,0,0,10.25
+fryech01,Channing Frye,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,671,1,5,0,1,0,0,2,3,1,0,0,0,0,0,7.25
+jonesda02,Dahntay Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,245,1,1,0,0,0,0,2,3,0,0,0,0,0,0,5.75
+mcgeeja01,JaVale McGee,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,166,1,2,0,0,0,0,2,3,0,0,0,0,0,0,5.75
+willide02,Derrick Williams,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,227,2,3,1,1,0,0,5,0,0,0,0,0,0,0,5.5
+pachuza01,Zaza Pachulia,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,763,1,2,0,0,0,0,2,2,0,0,0,2,0,0,3.5
+mcadoja01,James Michael McAdoo,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,246,1,2,0,0,0,0,2,1,0,0,0,0,0,0,3.25
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,839,0,2,0,2,0,0,0,2,0,0,0,1,0,0,2.0
+jonesja02,James Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-04,Outcome.LOSS,227,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+mccawpa01,Patrick McCaw,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,433,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+barnema02,Matt Barnes,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-04,Outcome.WIN,189,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0

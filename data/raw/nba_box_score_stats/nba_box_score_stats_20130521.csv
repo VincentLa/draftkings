@@ -1,0 +1,22 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+parketo01,Tony Parker,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,2514,6,20,1,4,2,4,15,5,18,3,0,2,1,0,55.25
+randoza01,Zach Randolph,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,2726,6,18,0,0,3,8,15,18,3,1,2,4,1,0,47.5
+duncati01,Tim Duncan,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,1868,6,14,0,0,5,7,17,9,3,2,4,3,0,0,43.25
+gasolma01,Marc Gasol,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,2571,4,12,0,0,4,4,12,14,4,0,2,1,1,0,40.5
+conlemi01,Mike Conley,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,2116,6,14,2,5,4,6,18,4,4,2,1,1,0,0,35.5
+bayleje01,Jerryd Bayless,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,2017,7,18,1,5,3,4,18,3,3,2,1,1,0,0,32.25
+allento01,Tony Allen,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,1576,2,11,0,1,4,4,8,8,3,2,0,2,0,0,25.5
+leonaka01,Kawhi Leonard,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,2411,5,9,2,5,0,0,12,9,0,0,1,2,0,0,25.25
+splitti01,Tiago Splitter,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,2020,6,8,0,0,2,2,14,4,2,0,2,2,0,0,25.0
+greenda02,Danny Green,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,1633,4,8,3,4,0,0,11,4,1,0,3,1,0,0,24.5
+pondequ01,Quincy Pondexter,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,2242,3,6,1,4,0,0,7,9,1,1,0,0,0,0,22.25
+ginobma01,Manu Ginóbili,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,1751,3,6,1,3,0,0,7,3,4,0,1,2,0,0,18.25
+bonnema01,Matt Bonner,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,1636,2,5,1,4,0,0,5,2,0,0,1,0,0,0,10.0
+nealga01,Gary Neal,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,769,1,4,1,3,2,2,5,3,0,0,0,0,0,0,9.25
+josepco01,Cory Joseph,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,585,1,4,0,1,1,2,3,5,0,0,0,0,0,0,9.25
+diawbo01,Boris Diaw,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MEMPHIS_GRIZZLIES,2013-05-21,Outcome.WIN,712,2,5,0,1,0,0,4,2,1,0,0,1,0,0,7.5
+doolike01,Keyon Dooling,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,768,2,3,1,1,0,0,5,1,0,0,0,0,0,0,6.75
+arthuda01,Darrell Arthur,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,724,2,6,0,0,0,0,4,0,0,1,0,0,0,0,6.0
+princta01,Tayshaun Prince,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,976,1,5,0,0,0,0,2,2,1,0,0,1,0,0,5.5
+wroteto01,Tony Wroten,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,169,0,4,0,1,0,0,0,1,0,0,0,0,0,0,1.25
+leuerjo01,Jon Leuer,Team.MEMPHIS_GRIZZLIES,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-05-21,Outcome.LOSS,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

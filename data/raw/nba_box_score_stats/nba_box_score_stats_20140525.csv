@@ -1,0 +1,25 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+westbru01,Russell Westbrook,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,2163,8,19,2,6,8,8,26,8,7,3,1,5,0,0,53.0
+duranke01,Kevin Durant,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,2164,8,19,1,4,8,8,25,10,3,1,1,4,1,0,46.0
+ginobma01,Manu Ginóbili,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,1426,8,13,6,9,1,1,23,1,4,2,0,2,0,0,36.25
+ibakase01,Serge Ibaka,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,1776,6,7,0,0,3,4,15,7,0,1,4,1,0,0,33.25
+jacksre01,Reggie Jackson,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,2216,6,13,1,6,2,2,15,4,5,1,0,3,0,0,28.5
+duncati01,Tim Duncan,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,1776,7,17,0,0,2,2,16,8,0,0,1,2,0,0,27.0
+adamsst01,Steven Adams,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,1651,2,3,0,0,3,7,7,9,0,0,4,1,0,0,25.75
+diawbo01,Boris Diaw,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,1263,3,10,0,3,0,0,6,6,6,1,0,2,0,0,23.5
+leonaka01,Kawhi Leonard,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,1881,4,11,0,3,2,2,10,3,2,2,0,1,0,0,20.25
+parketo01,Tony Parker,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,1698,4,13,1,1,0,0,9,1,4,0,1,4,0,0,16.75
+splitti01,Tiago Splitter,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,1101,2,3,0,0,0,0,4,8,2,0,0,1,0,0,16.5
+fishede01,Derek Fisher,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,1076,1,7,1,3,0,0,3,5,1,1,0,1,0,0,12.75
+greenda02,Danny Green,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,1576,3,12,2,6,0,0,8,2,0,0,0,0,0,0,11.5
+butleca01,Caron Butler,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,1171,2,6,1,2,0,0,5,3,1,0,0,0,0,0,10.75
+lambje01,Jeremy Lamb,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,992,3,5,0,1,0,0,6,3,0,0,0,0,0,0,9.75
+millspa02,Patty Mills,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,814,1,3,1,3,0,0,3,1,2,1,0,1,0,0,9.25
+belinma01,Marco Belinelli,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,1026,1,2,0,0,4,4,6,2,0,0,0,1,0,0,8.0
+perkike01,Kendrick Perkins,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,797,1,2,0,0,2,2,4,3,0,0,0,3,0,0,6.25
+josepco01,Cory Joseph,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,368,1,2,0,0,3,3,5,0,1,0,0,1,0,0,6.0
+baynear01,Aron Baynes,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,744,1,2,0,0,3,4,5,1,0,0,0,1,0,0,5.75
+pendeje02,Jeff Ayres,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,337,1,2,0,0,0,0,2,2,0,0,0,0,0,0,4.5
+bonnema01,Matt Bonner,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2014-05-25,Outcome.LOSS,390,0,1,0,1,0,0,0,1,1,0,0,0,0,0,2.75
+thabeha01,Hasheem Thabeet,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+jonespe01,Perry Jones,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2014-05-25,Outcome.WIN,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

@@ -1,0 +1,26 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+embiijo01,Joel Embiid,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,1689,9,18,3,4,12,13,33,10,3,0,5,3,1,0,61.5
+butleji01,Jimmy Butler,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,2141,9,15,1,5,3,3,22,9,9,3,1,2,0,0,54.25
+leonaka01,Kawhi Leonard,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,2201,13,22,2,4,5,5,33,4,3,0,1,5,0,0,43.0
+harrito02,Tobias Harris,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,2222,5,11,2,5,1,2,13,8,5,0,2,2,0,0,34.5
+siakapa01,Pascal Siakam,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,2031,7,15,0,3,6,8,20,3,1,1,1,0,0,0,29.25
+simmobe01,Ben Simmons,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,2175,5,13,0,0,0,0,10,7,7,0,0,1,0,0,28.75
+gasolma01,Marc Gasol,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,1744,2,6,0,1,3,4,7,6,2,2,2,1,0,0,25.0
+greenda02,Danny Green,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,2037,5,9,3,6,0,0,13,6,1,0,0,0,0,0,23.5
+lowryky01,Kyle Lowry,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,2259,2,10,0,4,3,5,7,5,5,1,0,2,0,0,21.75
+redicjj01,J.J. Redick,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,1641,5,9,3,6,2,3,15,1,1,0,0,1,0,0,18.75
+ennisja01,James Ennis,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,1462,4,6,0,2,2,2,10,5,1,0,0,0,0,0,17.75
+ibakase01,Serge Ibaka,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,965,2,6,0,0,0,0,4,5,0,1,0,1,0,0,11.75
+monrogr01,Greg Monroe,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,890,2,4,0,0,0,0,4,3,1,1,0,0,0,0,11.25
+powelno01,Norman Powell,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,984,2,5,2,3,0,0,6,0,2,0,0,0,0,0,10.0
+vanvlfr01,Fred VanVleet,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,1259,0,7,0,5,1,1,1,3,1,1,0,0,0,0,8.25
+meeksjo01,Jodie Meeks,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,288,2,3,0,1,0,0,4,1,0,1,0,0,0,0,7.25
+scottmi01,Mike Scott,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,838,2,3,1,1,0,0,5,0,0,0,0,2,0,0,4.5
+johnsam01,Amir Johnson,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,268,2,2,0,0,0,0,4,0,0,0,0,1,0,0,3.5
+marjabo01,Boban Marjanović,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,171,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2.75
+millema01,Malcolm Miller,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,87,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+moreler01,Eric Moreland,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,171,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+mccontj01,T.J. McConnell,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,301,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+boldejo01,Jonah Bolden,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,301,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1.0
+mccawpa01,Patrick McCaw,Team.TORONTO_RAPTORS,Location.AWAY,Team.PHILADELPHIA_76ERS,2019-05-02,Outcome.LOSS,374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+simmojo02,Jonathon Simmons,Team.PHILADELPHIA_76ERS,Location.HOME,Team.TORONTO_RAPTORS,2019-05-02,Outcome.WIN,301,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0

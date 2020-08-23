@@ -1,0 +1,23 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+embiijo01,Joel Embiid,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,2101,12,21,2,5,5,6,31,13,5,1,0,3,1,0,57.75
+roziete01,Terry Rozier,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,2093,11,18,7,9,0,0,29,8,6,2,1,2,0,0,56.5
+horfoal01,Al Horford,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,1979,10,12,2,3,4,4,26,7,4,0,0,2,0,0,40.75
+simmobe01,Ben Simmons,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,2512,6,11,0,0,6,11,18,7,6,2,1,7,0,0,38.25
+tatumja01,Jayson Tatum,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,2379,8,16,1,5,11,12,28,3,2,0,1,4,0,0,35.25
+redicjj01,J.J. Redick,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,2044,7,13,2,7,4,5,20,3,3,0,0,1,0,0,28.75
+saricda01,Dario Šarić,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,1981,5,11,0,4,2,2,12,7,4,1,0,0,0,0,28.75
+smartma01,Marcus Smart,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,1929,3,12,2,8,1,1,9,3,9,1,0,1,0,0,28.75
+ilyaser01,Ersan İlyasova,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,1275,2,9,0,3,2,4,6,9,2,1,0,1,0,0,21.75
+morrima03,Marcus Morris,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,1672,5,12,1,4,0,0,11,5,1,0,1,0,0,0,21.25
+baynear01,Aron Baynes,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,1756,2,4,2,3,0,0,6,6,1,0,1,1,0,0,17.5
+larkish01,Shane Larkin,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,1087,1,6,1,1,2,2,5,3,4,0,0,0,0,0,15.25
+belinma01,Marco Belinelli,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,1682,3,9,1,2,4,4,11,1,1,0,0,0,0,0,14.25
+covinro01,Robert Covington,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,1614,0,6,0,4,3,3,3,2,1,2,1,0,0,0,13.0
+ojelese01,Semi Ojeleye,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,1297,1,4,1,2,0,0,3,1,0,1,0,0,0,0,6.75
+anderju01,Justin Anderson,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,316,0,1,0,1,0,0,0,2,0,0,0,0,0,0,2.5
+mccontj01,T.J. McConnell,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,368,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+bayleje01,Jerryd Bayless,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+naderab01,Abdel Nader,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+johnsam01,Amir Johnson,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,299,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+holmeri01,Richaun Holmes,Team.PHILADELPHIA_76ERS,Location.AWAY,Team.BOSTON_CELTICS,2018-04-30,Outcome.LOSS,104,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+yabusgu01,Guerschon Yabusele,Team.BOSTON_CELTICS,Location.HOME,Team.PHILADELPHIA_76ERS,2018-04-30,Outcome.WIN,104,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0

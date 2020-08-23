@@ -1,0 +1,25 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,2518,14,24,1,6,9,11,38,9,7,2,0,2,0,0,63.25
+loveke01,Kevin Love,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,2030,9,16,6,9,8,9,32,12,0,1,1,2,1,0,54.5
+crowdja01,Jae Crowder,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,2078,8,13,4,6,1,2,21,8,5,0,0,0,0,0,40.5
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,2046,7,7,0,0,6,10,20,9,2,2,0,1,0,0,37.75
+thomais02,Isaiah Thomas,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,2295,7,19,2,7,1,3,17,1,10,1,0,4,1,0,35.75
+horfoal01,Al Horford,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,2251,4,11,1,3,2,2,11,8,6,1,0,3,0,0,31.0
+irvinky01,Kyrie Irving,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,2057,4,11,0,3,3,3,11,2,6,2,1,2,0,0,27.5
+bradlav01,Avery Bradley,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,2365,8,16,2,8,3,4,21,4,1,0,0,3,0,0,27.0
+brownja02,Jaylen Brown,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,1185,5,7,0,1,0,2,10,9,1,0,0,1,0,0,22.25
+smartma01,Marcus Smart,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,1284,2,5,0,3,2,3,6,3,3,2,1,2,0,0,19.25
+greenge01,Gerald Green,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,824,4,6,3,5,0,0,11,2,1,0,0,0,0,0,16.5
+shumpim01,Iman Shumpert,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,1499,1,6,1,2,0,0,3,5,1,1,0,0,0,0,13.25
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,1418,1,2,0,1,0,0,2,3,2,1,0,0,0,0,10.75
+olynyke01,Kelly Olynyk,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,988,1,6,0,2,0,0,2,3,3,0,0,1,0,0,9.75
+roziete01,Terry Rozier,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,347,1,2,0,1,0,0,2,0,2,0,0,0,0,0,5.0
+korveky01,Kyle Korver,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,845,1,6,1,6,0,0,3,1,0,0,0,0,0,0,4.75
+willide02,Derrick Williams,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,186,1,1,1,1,0,0,3,1,0,0,0,0,0,0,4.75
+zellety01,Tyler Zeller,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,307,1,1,0,0,1,2,3,0,1,0,0,0,0,0,4.5
+willide01,Deron Williams,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,730,0,5,0,1,2,2,2,0,2,0,0,1,0,0,4.5
+jefferi01,Richard Jefferson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,734,0,0,0,0,0,0,0,2,1,0,0,0,0,0,4.0
+fryech01,Channing Frye,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,186,1,3,1,2,0,0,3,0,0,0,0,0,0,0,3.5
+johnsam01,Amir Johnson,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,273,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+youngja01,James Young,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-05-17,Outcome.LOSS,203,0,2,0,2,0,0,0,1,0,0,0,0,0,0,1.25
+jonesda02,Dahntay Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2017-05-17,Outcome.WIN,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

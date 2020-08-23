@@ -1,0 +1,19 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+westbru01,Russell Westbrook,Team.OKLAHOMA_CITY_THUNDER,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-05-16,Outcome.WIN,2411,7,21,2,4,11,14,27,6,12,7,0,3,1,0,67.5
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,2380,9,22,6,14,2,2,26,10,7,3,0,7,1,0,56.0
+duranke01,Kevin Durant,Team.OKLAHOMA_CITY_THUNDER,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-05-16,Outcome.WIN,2735,10,30,1,4,5,7,26,10,3,3,1,5,1,0,50.5
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,2375,11,25,3,8,0,0,25,9,4,0,0,2,0,0,42.75
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,2405,9,20,0,4,5,9,23,5,4,1,2,2,0,0,40.25
+adamsst01,Steven Adams,Team.OKLAHOMA_CITY_THUNDER,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-05-16,Outcome.WIN,2195,5,8,0,0,6,9,16,12,0,0,2,1,1,0,36.0
+ibakase01,Serge Ibaka,Team.OKLAHOMA_CITY_THUNDER,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-05-16,Outcome.WIN,2132,5,11,1,3,0,0,11,11,1,0,1,1,1,0,29.75
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,1952,2,4,0,0,2,2,6,5,4,3,0,1,0,0,23.75
+barneha02,Harrison Barnes,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,1964,5,8,2,4,0,0,12,5,2,0,0,1,0,0,21.75
+roberan03,Andre Roberson,Team.OKLAHOMA_CITY_THUNDER,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-05-16,Outcome.WIN,1234,3,3,1,1,0,0,7,5,1,1,1,0,0,0,19.25
+kanteen01,Enes Kanter,Team.OKLAHOMA_CITY_THUNDER,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-05-16,Outcome.WIN,1083,4,8,0,1,0,0,8,6,0,1,1,1,0,0,19.0
+waitedi01,Dion Waiters,Team.OKLAHOMA_CITY_THUNDER,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-05-16,Outcome.WIN,1779,4,6,2,2,0,2,10,1,4,0,0,0,0,0,18.25
+bogutan01,Andrew Bogut,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,1047,0,0,0,0,0,0,0,3,3,1,2,0,0,0,14.25
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,1232,2,7,0,0,0,0,4,3,1,0,0,1,0,0,8.75
+ezelife01,Festus Ezeli,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,472,1,2,0,0,1,2,3,3,0,0,0,0,0,0,6.75
+foyera01,Randy Foye,Team.OKLAHOMA_CITY_THUNDER,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-05-16,Outcome.WIN,831,1,2,1,2,0,0,3,1,1,0,0,0,0,0,6.25
+barbole01,Leandro Barbosa,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,240,1,2,0,0,0,0,2,1,1,0,0,0,0,0,4.75
+speigma01,Marreese Speights,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.OKLAHOMA_CITY_THUNDER,2016-05-16,Outcome.LOSS,333,0,1,0,0,1,2,1,0,0,0,0,0,0,0,1.0

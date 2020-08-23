@@ -1,0 +1,26 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+sefolth01,Thabo Sefolosha,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,2202,7,16,4,10,1,1,19,6,1,6,1,0,0,0,44.0
+westbru01,Russell Westbrook,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,2017,5,15,0,2,0,0,10,7,9,4,2,2,0,0,43.25
+duranke01,Kevin Durant,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,2288,8,17,0,4,6,6,22,6,5,1,0,3,0,0,37.5
+ibakase01,Serge Ibaka,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,1821,5,9,0,0,4,4,14,3,1,2,3,0,0,0,29.25
+hardeja01,James Harden,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,1563,5,10,1,2,4,4,15,4,3,0,0,1,0,0,24.5
+parketo01,Tony Parker,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,1654,6,12,2,4,2,2,16,3,4,0,0,5,0,0,24.25
+duncati01,Tim Duncan,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,1561,5,15,0,0,1,2,11,2,1,0,5,2,0,0,24.0
+jacksst02,Stephen Jackson,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,1338,6,7,4,5,0,0,16,2,0,1,0,4,0,0,20.5
+perkike01,Kendrick Perkins,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,1404,2,4,0,0,0,0,4,8,0,0,3,1,0,0,19.5
+blairde01,DeJuan Blair,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,587,5,7,0,0,0,0,10,6,0,0,0,0,0,0,17.5
+ginobma01,Manu Ginóbili,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,1253,1,5,1,2,5,5,8,6,1,0,0,4,0,0,15.5
+fishede01,Derek Fisher,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,1244,2,7,1,3,0,0,5,3,4,0,0,0,0,0,15.25
+nealga01,Gary Neal,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,1311,3,11,1,3,0,0,7,0,5,0,0,1,0,0,14.5
+greenda02,Danny Green,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,1271,1,3,1,3,0,0,3,4,1,1,1,0,0,0,14.0
+collini01,Nick Collison,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,587,3,3,0,0,0,0,6,4,0,1,0,0,0,0,13.0
+leonaka01,Kawhi Leonard,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,876,1,3,0,1,0,1,2,6,0,0,1,0,0,0,11.5
+anderja01,James Anderson,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,941,1,2,1,2,1,2,4,3,1,0,0,0,0,0,9.75
+diawbo01,Boris Diaw,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,848,0,2,0,0,1,1,1,3,2,0,0,1,0,0,7.25
+bonnema01,Matt Bonner,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,1388,0,4,0,3,0,0,0,4,1,0,0,1,0,0,6.0
+millspa02,Patty Mills,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,640,1,5,1,3,0,0,3,0,1,0,0,1,0,0,4.5
+splitti01,Tiago Splitter,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-05-31,Outcome.LOSS,732,0,0,0,0,1,2,1,2,1,0,0,2,0,0,4.0
+aldrico01,Cole Aldrich,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,297,0,1,0,0,1,2,1,2,0,0,0,0,0,0,3.5
+haywala01,Lazar Hayward,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,297,1,1,0,0,0,0,2,1,0,0,0,0,0,0,3.25
+cookda02,Daequan Cook,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,383,1,2,0,0,0,0,2,0,0,0,0,0,0,0,2.0
+iveyro01,Royal Ivey,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-05-31,Outcome.WIN,297,1,3,0,1,0,0,2,0,0,0,0,0,0,0,2.0

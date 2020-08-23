@@ -1,0 +1,24 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+rosede01,Derrick Rose,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,2527,11,24,1,5,10,13,33,2,10,0,0,2,1,0,51.5
+teaguje01,Jeff Teague,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,2440,8,11,0,1,5,7,21,4,7,0,0,0,0,0,36.5
+denglu01,Luol Deng,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,2750,8,18,0,4,7,7,23,4,3,0,1,1,0,0,34.0
+smithjo03,Josh Smith,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,2318,6,14,0,2,4,4,16,7,1,1,3,1,0,0,33.75
+horfoal01,Al Horford,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,2536,6,13,0,0,0,0,12,10,3,0,2,4,1,0,32.5
+boozeca01,Carlos Boozer,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,1766,4,11,0,0,3,3,11,12,0,0,0,1,1,0,27.0
+johnsjo02,Joe Johnson,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,2437,6,15,1,5,2,2,15,2,3,1,0,2,0,0,23.5
+pachuza01,Zaza Pachulia,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,1373,5,6,0,0,3,4,13,4,1,0,0,0,0,0,19.5
+gibsota01,Taj Gibson,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,1203,5,5,0,0,1,3,11,2,2,0,1,1,0,0,18.0
+boganke01,Keith Bogans,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,1451,4,7,3,5,0,0,11,2,0,1,0,1,0,0,16.5
+brewero02,Ronnie Brewer,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,1236,2,3,0,0,0,0,4,5,1,2,0,0,0,0,15.75
+noahjo01,Joakim Noah,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,1599,0,2,0,0,0,0,0,6,3,1,0,1,0,0,13.5
+crawfja01,Jamal Crawford,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,1605,1,9,0,4,0,0,2,1,4,0,0,2,0,0,8.25
+asikom01,Ömer Aşık,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,1192,0,0,0,0,0,2,0,4,0,0,1,1,0,0,6.5
+watsocj01,C.J. Watson,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,353,1,2,0,0,0,0,2,0,2,0,0,1,0,0,4.5
+willima02,Marvin Williams,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,511,1,2,0,0,0,0,2,1,0,0,0,0,0,0,3.25
+poweljo01,Josh Powell,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,77,1,1,0,0,0,0,2,1,0,0,0,0,0,0,3.25
+collija04,Jason Collins,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,884,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2.5
+korveky01,Kyle Korver,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,258,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2.0
+wilkida02,Damien Wilkins,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,77,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1.5
+armsthi01,Hilton Armstrong,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,77,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0.75
+butlera01,Rasual Butler,Team.CHICAGO_BULLS,Location.HOME,Team.ATLANTA_HAWKS,2011-05-10,Outcome.WIN,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+sypa01,Pape Sy,Team.ATLANTA_HAWKS,Location.AWAY,Team.CHICAGO_BULLS,2011-05-10,Outcome.LOSS,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

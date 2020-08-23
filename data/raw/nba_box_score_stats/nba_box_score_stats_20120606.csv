@@ -1,0 +1,19 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+duranke01,Kevin Durant,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-06-06,Outcome.WIN,2880,9,17,4,8,12,15,34,14,5,1,2,2,1,0,67.5
+parketo01,Tony Parker,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,2493,12,27,1,4,4,5,29,3,12,2,0,1,1,0,56.25
+duncati01,Tim Duncan,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,2436,11,23,0,0,3,4,25,14,2,1,2,2,1,0,52.0
+westbru01,Russell Westbrook,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-06-06,Outcome.WIN,2485,9,17,1,1,6,7,25,8,5,0,1,5,0,0,42.5
+jacksst02,Stephen Jackson,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,1924,6,7,6,7,5,6,23,4,1,2,0,2,0,0,35.5
+hardeja01,James Harden,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-06-06,Outcome.WIN,2105,4,9,3,4,5,6,16,5,4,0,0,3,0,0,28.25
+sefolth01,Thabo Sefolosha,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-06-06,Outcome.WIN,1554,4,5,1,2,0,0,9,4,1,2,0,1,0,0,19.5
+ibakase01,Serge Ibaka,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-06-06,Outcome.WIN,1924,4,8,0,0,2,3,10,4,0,0,2,2,0,0,18.0
+ginobma01,Manu Ginóbili,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,2149,4,12,2,8,0,0,10,5,1,0,0,3,0,0,17.25
+perkike01,Kendrick Perkins,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-06-06,Outcome.WIN,1651,2,8,0,0,0,0,4,3,2,2,1,1,0,0,16.25
+fishede01,Derek Fisher,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-06-06,Outcome.WIN,1377,4,7,1,3,0,0,9,0,1,1,0,0,0,0,13.0
+nealga01,Gary Neal,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,1154,2,6,1,3,2,3,7,1,1,1,0,0,0,0,12.25
+diawbo01,Boris Diaw,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,1504,0,1,0,0,0,0,0,5,2,2,0,3,0,0,11.75
+leonaka01,Kawhi Leonard,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,2443,2,7,1,3,0,0,5,2,1,1,0,1,0,0,11.0
+collini01,Nick Collison,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.SAN_ANTONIO_SPURS,2012-06-06,Outcome.WIN,424,0,1,0,0,0,0,0,4,0,0,0,1,0,0,4.5
+blairde01,DeJuan Blair,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+splitti01,Tiago Splitter,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+greenda02,Danny Green,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2012-06-06,Outcome.LOSS,224,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0

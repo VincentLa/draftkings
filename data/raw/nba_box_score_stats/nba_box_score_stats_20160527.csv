@@ -1,0 +1,25 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,2475,13,22,3,6,4,7,33,11,6,1,3,3,1,0,65.25
+irvinky01,Kyrie Irving,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,2393,12,24,2,4,4,5,30,4,9,3,1,4,0,0,55.5
+lowryky01,Kyle Lowry,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,2539,11,22,6,12,7,7,35,3,3,0,1,2,0,0,47.25
+loveke01,Kevin Love,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,2356,5,11,4,8,6,6,20,12,4,0,0,0,1,0,44.5
+derozde01,DeMar DeRozan,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,2534,9,18,0,1,2,2,20,3,4,0,0,4,0,0,27.75
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,2187,5,9,5,8,0,0,15,0,1,1,1,0,0,0,23.0
+biyombi01,Bismack Biyombo,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,1570,1,4,0,0,2,4,4,9,0,1,1,1,0,0,18.75
+valanjo01,Jonas Valančiūnas,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,1041,3,5,0,0,0,0,6,8,1,0,0,0,0,0,17.5
+pattepa01,Patrick Patterson,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,2077,3,9,1,5,2,4,9,1,2,1,0,1,0,0,15.25
+carrode01,DeMarre Carroll,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,1693,3,9,1,2,0,0,7,6,0,0,0,1,0,0,14.5
+fryech01,Channing Frye,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,892,2,3,2,3,0,0,6,1,0,0,1,0,0,0,10.25
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,1441,1,1,0,0,0,0,2,5,0,0,0,1,0,0,7.75
+dellama01,Matthew Dellavedova,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,524,1,2,0,1,2,3,4,1,2,0,0,2,0,0,7.25
+josepco01,Cory Joseph,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,797,1,3,0,1,0,0,2,0,0,2,0,0,0,0,6.0
+shumpim01,Iman Shumpert,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,1092,0,0,0,0,0,0,0,3,0,1,0,0,0,0,5.75
+powelno01,Norman Powell,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,158,1,2,0,1,0,0,2,1,0,1,0,0,0,0,5.25
+jefferi01,Richard Jefferson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,724,1,1,1,1,0,0,3,1,0,0,0,0,0,0,4.75
+johnsja01,James Johnson,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,895,1,4,0,1,0,0,2,1,0,0,0,2,0,0,2.25
+rosste01,Terrence Ross,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,447,0,1,0,1,0,0,0,0,0,1,0,0,0,0,2.0
+thompja02,Jason Thompson,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,158,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+jonesja02,James Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+jonesda02,Dahntay Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.TORONTO_RAPTORS,2016-05-27,Outcome.WIN,158,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+wrighde01,Delon Wright,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,158,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+scolalu01,Luis Scola,Team.TORONTO_RAPTORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-05-27,Outcome.LOSS,333,0,1,0,1,0,0,0,0,0,0,0,1,0,0,-0.5

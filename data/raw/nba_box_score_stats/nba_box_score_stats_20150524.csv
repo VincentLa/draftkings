@@ -1,0 +1,19 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.ATLANTA_HAWKS,2015-05-24,Outcome.WIN,2807,14,37,1,6,8,10,37,18,13,3,0,6,0,1,85.5
+teaguje01,Jeff Teague,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,2554,9,23,3,8,9,9,30,6,7,1,1,0,0,0,53.5
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.ATLANTA_HAWKS,2015-05-24,Outcome.WIN,2283,6,14,3,9,2,3,17,10,1,0,2,1,1,0,37.5
+bazemke01,Kent Bazemore,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,2590,3,9,2,3,6,8,14,7,3,3,1,2,0,0,35.25
+millspa01,Paul Millsap,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,2745,5,11,1,2,11,11,22,9,0,1,0,3,0,0,34.25
+shumpim01,Iman Shumpert,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.ATLANTA_HAWKS,2015-05-24,Outcome.WIN,2574,5,11,4,8,1,2,15,7,1,0,0,0,0,0,27.25
+macksh01,Shelvin Mack,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,1683,5,10,3,7,0,2,13,4,3,1,0,1,0,0,25.5
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.ATLANTA_HAWKS,2015-05-24,Outcome.WIN,2555,5,7,0,0,0,3,10,7,2,0,2,1,0,0,25.25
+scottmi01,Mike Scott,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,1946,3,9,0,5,2,2,8,9,2,1,0,1,0,0,23.75
+carrode01,DeMarre Carroll,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,2457,4,12,2,4,0,0,10,3,2,2,1,0,0,0,23.75
+dellama01,Matthew Dellavedova,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.ATLANTA_HAWKS,2015-05-24,Outcome.WIN,2700,5,15,4,9,3,4,17,3,2,0,0,4,0,0,23.75
+jonesja02,James Jones,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.ATLANTA_HAWKS,2015-05-24,Outcome.WIN,1401,2,5,2,4,3,3,9,3,5,0,0,0,0,0,21.25
+horfoal01,Al Horford,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,1147,7,10,0,0,0,0,14,4,1,0,0,0,0,0,20.5
+mozgoti01,Timofey Mozgov,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.ATLANTA_HAWKS,2015-05-24,Outcome.WIN,1349,3,6,0,0,3,4,9,5,0,0,2,1,0,0,18.75
+mariosh01,Shawn Marion,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.ATLANTA_HAWKS,2015-05-24,Outcome.WIN,231,0,2,0,0,0,0,0,3,0,0,0,0,0,0,3.75
+schrode01,Dennis Schröder,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,208,0,2,0,1,0,0,0,0,1,0,0,0,0,0,1.5
+muscami01,Mike Muscala,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,558,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1.5
+anticpe01,Pero Antić,Team.ATLANTA_HAWKS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2015-05-24,Outcome.LOSS,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

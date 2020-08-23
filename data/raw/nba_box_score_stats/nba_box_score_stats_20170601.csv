@@ -1,0 +1,26 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+duranke01,Kevin Durant,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,2253,14,26,3,6,7,8,38,9,8,0,0,0,0,0,62.75
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,2402,9,20,2,6,8,12,28,15,8,0,2,8,1,0,61.25
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,2069,11,22,6,11,0,0,28,6,10,3,0,2,1,0,60.0
+loveke01,Kevin Love,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,2053,4,13,3,6,4,4,15,21,1,0,3,1,1,0,51.25
+irvinky01,Kyrie Irving,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,2093,10,22,3,4,1,1,24,3,2,0,1,4,0,0,32.25
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,2169,3,12,1,5,2,3,9,11,2,2,1,2,0,0,31.25
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,2182,3,16,0,5,0,0,6,4,4,1,0,0,0,0,19.0
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,1439,3,4,1,1,0,2,7,3,1,2,1,0,0,0,18.75
+pachuza01,Zaza Pachulia,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,866,4,5,0,0,0,1,8,5,0,2,0,0,0,0,18.25
+jefferi01,Richard Jefferson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,888,3,6,0,2,3,4,9,4,0,0,0,2,0,0,13.0
+mcgeeja01,JaVale McGee,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,332,2,3,0,0,0,0,4,4,1,0,1,0,0,0,12.5
+shumpim01,Iman Shumpert,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,1006,2,6,1,3,0,0,5,5,0,0,0,0,0,0,11.75
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,916,1,5,0,0,0,0,2,2,2,1,0,0,0,0,9.5
+jonesda02,Dahntay Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,246,1,2,1,2,4,4,7,0,0,0,0,0,0,0,7.5
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,1345,0,3,0,0,0,0,0,4,2,0,0,1,0,0,7.5
+clarkia01,Ian Clark,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,1085,1,4,0,3,2,2,4,1,0,1,0,0,0,0,7.25
+korveky01,Kyle Korver,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,1183,0,3,0,3,0,0,0,4,1,0,0,0,0,0,6.5
+mccawpa01,Patrick McCaw,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,208,0,2,0,1,0,0,0,3,1,0,0,0,0,0,5.25
+barnema02,Matt Barnes,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,136,1,2,1,1,0,0,3,0,1,0,0,0,0,0,5.0
+westda01,David West,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,483,1,4,0,0,0,0,2,1,1,0,0,0,0,0,4.75
+willide01,Deron Williams,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,1110,0,4,0,2,0,0,0,3,1,0,0,2,0,0,4.25
+mcadoja01,James Michael McAdoo,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2017-06-01,Outcome.WIN,262,1,1,0,0,0,0,2,1,0,0,0,0,0,0,3.25
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,1692,1,4,1,2,0,0,3,0,0,0,0,2,0,0,2.5
+jonesja02,James Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,136,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0
+willide02,Derrick Williams,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2017-06-01,Outcome.LOSS,246,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0

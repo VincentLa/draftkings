@@ -1,0 +1,24 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+thomais02,Isaiah Thomas,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,2590,9,24,1,7,6,7,25,3,10,1,1,3,1,0,48.25
+millspa01,Paul Millsap,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,2203,4,10,0,3,9,11,17,8,2,1,4,3,0,0,38.5
+korveky01,Kyle Korver,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,2134,4,4,2,2,4,4,14,9,3,0,2,1,0,0,34.25
+horfoal01,Al Horford,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,1817,7,10,1,2,0,0,15,4,2,2,3,3,0,0,32.0
+bazemke01,Kent Bazemore,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,1895,6,13,2,6,1,4,15,4,3,1,2,1,0,0,31.0
+smartma01,Marcus Smart,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,2076,4,11,0,3,5,5,13,7,1,4,0,3,0,0,29.75
+schrode01,Dennis Schröder,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,1376,5,10,1,2,1,2,12,3,8,0,0,2,0,0,27.25
+crowdja01,Jae Crowder,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,1680,5,15,3,8,2,2,15,6,0,0,0,0,0,0,24.0
+turneev01,Evan Turner,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,2213,4,17,0,4,0,0,8,7,4,0,0,1,0,0,22.25
+jerebjo01,Jonas Jerebko,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,1972,5,9,2,5,1,1,13,1,0,0,2,1,0,0,18.75
+teaguje01,Jeff Teague,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,1485,4,11,0,2,3,4,11,1,5,0,0,4,0,0,17.75
+zellety01,Tyler Zeller,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,694,4,6,0,0,0,0,8,5,0,0,0,0,0,0,14.25
+hardati02,Tim Hardaway,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,996,3,6,1,3,0,0,7,3,2,0,0,0,0,0,14.25
+scottmi01,Mike Scott,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,1197,2,4,1,2,2,2,7,3,0,1,1,3,0,0,13.75
+roziete01,Terry Rozier,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,1053,1,2,1,2,2,2,5,4,0,0,1,0,0,0,12.5
+sefolth01,Thabo Sefolosha,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,735,1,4,0,2,0,0,2,5,0,1,0,1,0,0,9.75
+muscami01,Mike Muscala,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,543,2,2,0,0,0,0,4,2,1,0,0,0,0,0,8.0
+johnsam01,Amir Johnson,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,1082,1,1,0,0,1,1,3,4,0,0,0,2,0,0,7.0
+sullija01,Jared Sullinger,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,407,1,5,0,1,0,0,2,4,0,0,0,1,0,0,6.5
+hunterj01,R.J. Hunter,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,290,0,2,0,1,0,0,0,1,1,0,0,0,0,0,2.75
+olynyke01,Kelly Olynyk,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,329,0,2,0,1,0,0,0,1,0,0,0,1,0,0,0.75
+hinriki01,Kirk Hinrich,Team.ATLANTA_HAWKS,Location.AWAY,Team.BOSTON_CELTICS,2016-04-28,Outcome.WIN,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+youngja01,James Young,Team.BOSTON_CELTICS,Location.HOME,Team.ATLANTA_HAWKS,2016-04-28,Outcome.LOSS,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

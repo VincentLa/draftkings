@@ -1,0 +1,20 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+hibbero01,Roy Hibbert,Team.INDIANA_PACERS,Location.HOME,Team.NEW_YORK_KNICKS,2013-05-18,Outcome.WIN,2538,6,13,0,0,9,12,21,12,2,1,5,2,1,0,51.5
+anthoca01,Carmelo Anthony,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,2516,15,29,1,4,8,8,39,7,2,0,0,3,0,0,49.75
+stephla01,Lance Stephenson,Team.INDIANA_PACERS,Location.HOME,Team.NEW_YORK_KNICKS,2013-05-18,Outcome.WIN,2062,9,13,0,3,7,8,25,10,3,1,0,0,1,0,45.5
+georgpa01,Paul George,Team.INDIANA_PACERS,Location.HOME,Team.NEW_YORK_KNICKS,2013-05-18,Outcome.WIN,2728,9,15,2,3,3,9,23,5,4,1,0,2,0,0,37.25
+smithjr01,J.R. Smith,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,2116,4,15,2,9,5,5,15,10,3,0,0,1,1,0,34.0
+westda01,David West,Team.INDIANA_PACERS,Location.HOME,Team.NEW_YORK_KNICKS,2013-05-18,Outcome.WIN,2288,6,12,0,0,5,6,17,5,4,0,0,1,0,0,28.75
+hillge01,George Hill,Team.INDIANA_PACERS,Location.HOME,Team.NEW_YORK_KNICKS,2013-05-18,Outcome.WIN,2527,2,10,1,6,7,7,12,5,4,0,1,1,0,0,26.25
+shumpim01,Iman Shumpert,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,1517,6,10,5,6,2,2,19,3,0,0,0,1,0,0,24.75
+prigipa01,Pablo Prigioni,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,1764,2,6,2,5,0,0,6,0,6,0,0,0,0,0,16.0
+feltora01,Raymond Felton,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,1952,0,7,0,0,2,2,2,3,6,1,0,2,0,0,15.75
+copelch01,Chris Copeland,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,1141,3,8,3,6,0,0,9,3,0,0,0,1,0,0,13.75
+martike01,Kenyon Martin,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,1291,2,3,0,0,1,1,5,4,1,1,0,0,0,0,13.5
+youngsa01,Sam Young,Team.INDIANA_PACERS,Location.HOME,Team.NEW_YORK_KNICKS,2013-05-18,Outcome.WIN,561,1,2,0,1,3,4,5,5,0,0,1,0,0,0,13.25
+chandty01,Tyson Chandler,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,1373,1,4,0,0,0,0,2,6,0,0,0,0,0,0,9.5
+augusdj01,D.J. Augustin,Team.INDIANA_PACERS,Location.HOME,Team.NEW_YORK_KNICKS,2013-05-18,Outcome.WIN,807,1,2,1,2,0,0,3,0,0,1,0,1,0,0,5.0
+kiddja01,Jason Kidd,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,383,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3.5
+stoudam01,Amar'e Stoudemire,Team.NEW_YORK_KNICKS,Location.AWAY,Team.INDIANA_PACERS,2013-05-18,Outcome.LOSS,347,1,3,0,0,0,0,2,0,0,0,0,1,0,0,1.5
+mahinia01,Ian Mahinmi,Team.INDIANA_PACERS,Location.HOME,Team.NEW_YORK_KNICKS,2013-05-18,Outcome.WIN,259,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+hansbty01,Tyler Hansbrough,Team.INDIANA_PACERS,Location.HOME,Team.NEW_YORK_KNICKS,2013-05-18,Outcome.WIN,630,0,0,0,0,0,0,0,0,0,0,0,2,0,0,-1.0

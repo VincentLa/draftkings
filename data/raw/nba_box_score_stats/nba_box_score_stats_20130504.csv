@@ -1,0 +1,19 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+noahjo01,Joakim Noah,Team.CHICAGO_BULLS,Location.AWAY,Team.BROOKLYN_NETS,2013-05-04,Outcome.WIN,2455,12,17,0,0,0,0,24,14,2,1,6,1,1,0,59.5
+willide01,Deron Williams,Team.BROOKLYN_NETS,Location.HOME,Team.CHICAGO_BULLS,2013-05-04,Outcome.LOSS,2457,8,17,4,8,4,6,24,6,7,0,0,0,0,0,44.0
+lopezbr01,Brook Lopez,Team.BROOKLYN_NETS,Location.HOME,Team.CHICAGO_BULLS,2013-05-04,Outcome.LOSS,2197,9,20,0,0,3,3,21,9,1,1,2,1,0,0,39.25
+belinma01,Marco Belinelli,Team.CHICAGO_BULLS,Location.AWAY,Team.BROOKLYN_NETS,2013-05-04,Outcome.WIN,2448,8,14,3,6,5,5,24,6,2,1,0,0,0,0,38.0
+wallage01,Gerald Wallace,Team.BROOKLYN_NETS,Location.HOME,Team.CHICAGO_BULLS,2013-05-04,Outcome.LOSS,2370,8,16,3,8,0,0,19,2,5,0,0,1,0,0,30.0
+boozeca01,Carlos Boozer,Team.CHICAGO_BULLS,Location.AWAY,Team.BROOKLYN_NETS,2013-05-04,Outcome.WIN,1738,6,13,0,0,5,6,17,7,1,1,0,2,0,0,28.25
+robinna01,Nate Robinson,Team.CHICAGO_BULLS,Location.AWAY,Team.BROOKLYN_NETS,2013-05-04,Outcome.WIN,1982,5,14,2,7,0,0,12,4,4,2,0,2,0,0,27.0
+blatcan01,Andray Blatche,Team.BROOKLYN_NETS,Location.HOME,Team.CHICAGO_BULLS,2013-05-04,Outcome.LOSS,1246,3,6,0,0,3,3,9,4,4,1,1,1,0,0,23.5
+butleji01,Jimmy Butler,Team.CHICAGO_BULLS,Location.AWAY,Team.BROOKLYN_NETS,2013-05-04,Outcome.WIN,2880,3,10,1,4,2,2,9,5,4,0,0,1,0,0,21.25
+evansre01,Reggie Evans,Team.BROOKLYN_NETS,Location.HOME,Team.CHICAGO_BULLS,2013-05-04,Outcome.LOSS,1588,0,0,0,0,2,2,2,13,2,0,0,2,0,0,20.25
+johnsjo02,Joe Johnson,Team.BROOKLYN_NETS,Location.HOME,Team.CHICAGO_BULLS,2013-05-04,Outcome.LOSS,2293,2,14,1,9,1,1,6,3,2,3,0,3,0,0,17.75
+teaguma01,Marquis Teague,Team.CHICAGO_BULLS,Location.AWAY,Team.BROOKLYN_NETS,2013-05-04,Outcome.WIN,869,2,5,0,2,0,0,4,0,3,1,1,0,0,0,12.5
+humphkr01,Kris Humphries,Team.BROOKLYN_NETS,Location.HOME,Team.CHICAGO_BULLS,2013-05-04,Outcome.LOSS,726,1,5,0,0,1,4,3,5,0,0,1,0,0,0,11.25
+cookda02,Daequan Cook,Team.CHICAGO_BULLS,Location.AWAY,Team.BROOKLYN_NETS,2013-05-04,Outcome.WIN,461,1,2,1,2,0,0,3,1,3,0,0,0,0,0,9.25
+watsocj01,C.J. Watson,Team.BROOKLYN_NETS,Location.HOME,Team.CHICAGO_BULLS,2013-05-04,Outcome.LOSS,1034,2,6,0,0,1,1,5,1,0,1,0,0,0,0,8.25
+gibsota01,Taj Gibson,Team.CHICAGO_BULLS,Location.AWAY,Team.BROOKLYN_NETS,2013-05-04,Outcome.WIN,1214,2,5,0,0,0,0,4,1,1,0,0,2,0,0,5.75
+mohamna01,Nazr Mohammed,Team.CHICAGO_BULLS,Location.AWAY,Team.BROOKLYN_NETS,2013-05-04,Outcome.WIN,353,1,2,0,0,0,0,2,2,0,0,0,0,0,0,4.5
+brookma01,MarShon Brooks,Team.BROOKLYN_NETS,Location.HOME,Team.CHICAGO_BULLS,2013-05-04,Outcome.LOSS,489,2,2,0,0,0,0,4,0,0,0,0,1,0,0,3.5

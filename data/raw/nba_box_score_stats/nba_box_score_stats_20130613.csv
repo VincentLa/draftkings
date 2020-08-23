@@ -1,0 +1,22 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+jamesle01,LeBron James,Team.MIAMI_HEAT,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-06-13,Outcome.WIN,2483,15,25,1,2,2,4,33,11,4,2,2,1,1,0,62.25
+wadedw01,Dwyane Wade,Team.MIAMI_HEAT,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-06-13,Outcome.WIN,2395,14,25,0,0,4,4,32,6,4,6,1,0,0,0,59.5
+boshch01,Chris Bosh,Team.MIAMI_HEAT,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-06-13,Outcome.WIN,2272,8,14,0,0,4,4,20,13,1,2,2,1,1,0,46.75
+parketo01,Tony Parker,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,1890,7,16,0,1,1,3,15,4,9,1,0,3,0,0,34.0
+duncati01,Tim Duncan,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,1979,6,10,0,0,8,10,20,5,1,0,1,3,0,0,28.25
+leonaka01,Kawhi Leonard,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,1999,5,10,1,2,1,2,12,7,0,1,2,1,0,0,26.75
+greenda02,Danny Green,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,2154,3,8,3,5,1,2,10,4,4,1,1,2,0,0,25.5
+chalmma01,Mario Chalmers,Team.MIAMI_HEAT,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-06-13,Outcome.WIN,1735,2,4,2,3,0,0,6,4,5,1,0,4,0,0,19.5
+allenra02,Ray Allen,Team.MIAMI_HEAT,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-06-13,Outcome.WIN,2007,5,10,1,4,3,3,14,1,2,0,0,1,0,0,18.25
+nealga01,Gary Neal,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,1842,4,7,3,4,2,2,13,3,0,0,0,2,0,0,17.25
+diawbo01,Boris Diaw,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,678,3,6,1,1,2,2,9,3,1,0,0,2,0,0,13.75
+ginobma01,Manu Ginóbili,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,1552,1,5,0,3,3,4,5,2,2,0,0,1,0,0,10.0
+splitti01,Tiago Splitter,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,821,0,3,0,0,4,4,4,3,1,1,0,3,0,0,9.75
+coleno01,Norris Cole,Team.MIAMI_HEAT,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-06-13,Outcome.WIN,1110,0,4,0,1,0,0,0,0,4,2,0,1,0,0,9.5
+hasleud01,Udonis Haslem,Team.MIAMI_HEAT,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-06-13,Outcome.WIN,608,1,1,0,0,0,0,2,5,0,0,0,1,0,0,7.75
+millemi01,Mike Miller,Team.MIAMI_HEAT,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-06-13,Outcome.WIN,1262,0,1,0,1,0,0,0,1,2,0,1,0,0,0,6.25
+blairde01,DeJuan Blair,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,235,0,2,0,0,0,0,0,2,1,1,0,0,0,0,6.0
+battish01,Shane Battier,Team.MIAMI_HEAT,Location.AWAY,Team.SAN_ANTONIO_SPURS,2013-06-13,Outcome.WIN,528,0,1,0,1,2,2,2,0,1,0,1,0,0,0,5.5
+bonnema01,Matt Bonner,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,446,2,2,0,0,0,0,4,1,0,0,0,0,0,0,5.25
+josepco01,Cory Joseph,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,569,0,1,0,0,1,2,1,1,1,0,0,1,0,0,3.25
+decolna01,Nando De Colo,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.MIAMI_HEAT,2013-06-13,Outcome.LOSS,235,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2.75

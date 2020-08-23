@@ -1,0 +1,26 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+westbru01,Russell Westbrook,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,2430,12,27,4,8,8,8,36,11,11,4,0,6,0,1,76.25
+duranke01,Kevin Durant,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,2438,8,24,1,5,9,10,26,11,4,4,3,3,1,0,60.25
+roberan03,Andre Roberson,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,2426,7,12,1,3,2,8,17,12,3,5,2,0,1,0,52.5
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,1751,9,17,4,11,4,4,26,5,1,3,1,1,0,0,43.25
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,2340,6,20,2,10,5,7,19,5,5,2,0,6,0,0,34.75
+ibakase01,Serge Ibaka,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,1966,7,11,1,4,2,2,17,7,0,0,2,3,0,0,28.75
+adamsst01,Steven Adams,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,1481,2,4,0,0,7,8,11,7,2,2,1,1,0,0,28.25
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,2260,1,7,0,2,4,4,6,11,2,3,1,6,0,0,27.75
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,2021,3,8,2,4,0,0,8,2,3,2,0,1,0,0,19.5
+waitedi01,Dion Waiters,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,1932,3,7,2,4,2,2,10,3,3,0,0,2,0,0,18.25
+barneha02,Harrison Barnes,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,2052,4,6,1,2,2,2,11,4,0,1,0,2,0,0,17.5
+bogutan01,Andrew Bogut,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,670,3,3,0,0,0,0,6,3,1,0,1,1,0,0,12.75
+ezelife01,Festus Ezeli,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,625,3,4,0,0,2,8,8,2,1,0,0,0,0,0,12.0
+speigma01,Marreese Speights,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,692,2,7,0,1,1,2,5,4,0,0,1,2,0,0,11.0
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,1130,2,6,0,0,0,0,4,2,2,0,0,1,0,0,9.0
+kanteen01,Enes Kanter,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,513,0,2,0,1,1,2,1,2,0,0,0,1,0,0,3.0
+payneca01,Cameron Payne,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,118,0,1,0,0,0,0,0,1,0,1,0,1,0,0,2.75
+rushbr01,Brandon Rush,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,199,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+foyera01,Randy Foye,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,812,0,2,0,1,0,0,0,1,0,0,0,0,0,0,1.25
+mohamna01,Nazr Mohammed,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,83,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+barbole01,Leandro Barbosa,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,195,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1.0
+clarkia01,Ian Clark,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,209,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0.75
+singlky01,Kyle Singler,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+varejan01,Anderson Varejão,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2016-05-24,Outcome.LOSS,258,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+morroan01,Anthony Morrow,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2016-05-24,Outcome.WIN,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

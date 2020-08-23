@@ -1,0 +1,19 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+townska01,Karl-Anthony Towns,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,2313,15,25,0,0,4,4,34,12,0,0,0,1,1,0,50.0
+rubiori01,Ricky Rubio,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,2363,2,7,0,0,7,9,11,7,16,0,1,5,1,0,44.75
+lillada01,Damian Lillard,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.MINNESOTA_TIMBERWOLVES,2017-04-03,Outcome.LOSS,2347,7,21,3,11,8,9,25,4,6,2,0,0,0,0,44.5
+aminual01,Al-Farouq Aminu,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.MINNESOTA_TIMBERWOLVES,2017-04-03,Outcome.LOSS,2092,7,14,4,7,2,2,20,7,5,0,3,0,0,0,44.25
+wiggian01,Andrew Wiggins,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,2295,11,25,3,5,4,4,29,4,0,0,0,0,0,0,35.5
+harklma01,Maurice Harkless,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.MINNESOTA_TIMBERWOLVES,2017-04-03,Outcome.LOSS,2170,7,10,3,5,0,0,17,7,1,1,1,0,0,0,32.75
+mccolcj01,CJ McCollum,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.MINNESOTA_TIMBERWOLVES,2017-04-03,Outcome.LOSS,2112,5,14,0,3,7,8,17,5,4,1,1,2,0,0,32.25
+rushbr01,Brandon Rush,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,2201,4,8,1,3,3,4,12,7,3,1,2,2,0,0,30.75
+dienggo01,Gorgui Dieng,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,2356,3,8,0,0,2,2,8,8,3,0,2,0,0,0,26.5
+vonleno01,Noah Vonleh,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.MINNESOTA_TIMBERWOLVES,2017-04-03,Outcome.LOSS,1569,4,5,0,0,4,4,12,4,0,2,2,1,0,0,24.5
+turneev01,Evan Turner,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.MINNESOTA_TIMBERWOLVES,2017-04-03,Outcome.LOSS,1640,3,7,0,1,0,0,6,4,4,0,2,1,0,0,20.5
+crabbal01,Allen Crabbe,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.MINNESOTA_TIMBERWOLVES,2017-04-03,Outcome.LOSS,1766,5,11,1,3,1,2,12,2,2,1,0,1,0,0,19.5
+muhamsh01,Shabazz Muhammad,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,796,4,7,0,0,3,3,11,1,0,0,0,0,0,0,12.25
+jonesty01,Tyus Jones,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,615,2,2,0,0,0,0,4,1,1,1,0,2,0,0,7.75
+leoname01,Meyers Leonard,Team.PORTLAND_TRAIL_BLAZERS,Location.AWAY,Team.MINNESOTA_TIMBERWOLVES,2017-04-03,Outcome.LOSS,704,0,4,0,2,0,0,0,2,2,0,0,0,0,0,5.5
+casspom01,Omri Casspi,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,714,0,1,0,1,1,2,1,1,2,0,0,0,0,0,5.25
+paynead01,Adreian Payne,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,377,0,0,0,0,0,0,0,3,0,1,0,1,0,0,5.25
+dunnkr01,Kris Dunn,Team.MINNESOTA_TIMBERWOLVES,Location.HOME,Team.PORTLAND_TRAIL_BLAZERS,2017-04-03,Outcome.WIN,370,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.5

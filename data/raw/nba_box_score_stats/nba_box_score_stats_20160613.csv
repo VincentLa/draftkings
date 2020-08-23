@@ -1,0 +1,25 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,2558,16,30,4,8,5,8,41,16,7,3,3,2,1,0,86.0
+irvinky01,Kyrie Irving,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,2387,17,24,5,7,2,2,41,3,6,2,1,4,0,0,60.25
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,2407,8,21,5,15,4,4,25,7,4,0,3,4,0,0,46.25
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,2431,11,20,6,11,9,9,37,3,1,0,0,1,0,0,44.75
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,2462,6,13,1,4,2,2,15,11,6,2,0,3,1,0,42.25
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,2492,1,3,0,0,4,10,6,15,0,1,2,0,0,0,30.75
+barneha02,Harrison Barnes,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,2274,2,14,1,6,0,2,5,5,1,1,1,0,0,0,17.25
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,1273,3,7,0,1,1,1,7,4,3,1,0,3,0,0,17.0
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,1843,3,9,1,2,3,3,10,2,1,1,0,1,0,0,16.0
+jefferi01,Richard Jefferson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,858,4,6,0,1,0,0,8,1,0,3,0,3,0,0,13.75
+shumpim01,Iman Shumpert,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,1541,2,4,0,1,0,0,4,1,0,1,2,1,0,0,10.75
+bogutan01,Andrew Bogut,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,455,0,0,0,0,0,0,0,3,0,0,3,2,0,0,8.75
+loveke01,Kevin Love,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,1973,1,5,0,3,0,0,2,3,1,0,1,2,0,0,8.25
+ezelife01,Festus Ezeli,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,571,1,3,0,0,0,0,2,3,0,0,1,0,0,0,7.75
+speigma01,Marreese Speights,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,680,0,6,0,3,0,0,0,3,2,1,0,2,0,0,7.75
+varejan01,Anderson Varejão,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,516,0,0,0,0,3,8,3,1,1,0,0,0,0,0,5.75
+rushbr01,Brandon Rush,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,281,0,1,0,1,0,0,0,1,0,1,1,0,0,0,5.25
+mcadoja01,James Michael McAdoo,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,457,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2.5
+barbole01,Leandro Barbosa,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-13,Outcome.LOSS,593,1,3,1,2,0,0,3,0,0,0,0,2,0,0,2.5
+mozgoti01,Timofey Mozgov,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+jonesda02,Dahntay Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+jonesja02,James Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+willima01,Mo Williams,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,203,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-0.5
+dellama01,Matthew Dellavedova,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-13,Outcome.WIN,208,0,2,0,2,0,0,0,0,0,0,0,2,0,0,-1.0

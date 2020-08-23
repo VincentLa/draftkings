@@ -1,0 +1,19 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+duranke01,Kevin Durant,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.DALLAS_MAVERICKS,2011-05-23,Outcome.LOSS,2938,9,22,2,7,9,10,29,15,4,0,1,9,1,0,53.75
+nowitdi01,Dirk Nowitzki,Team.DALLAS_MAVERICKS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2011-05-23,Outcome.WIN,2700,12,20,2,3,14,15,40,5,3,0,0,4,0,0,49.75
+westbru01,Russell Westbrook,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.DALLAS_MAVERICKS,2011-05-23,Outcome.LOSS,2518,7,22,0,3,5,8,19,8,8,3,0,6,0,0,44.0
+kiddja01,Jason Kidd,Team.DALLAS_MAVERICKS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2011-05-23,Outcome.WIN,2457,5,9,3,6,4,4,17,5,7,4,0,3,0,0,41.75
+ibakase01,Serge Ibaka,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.DALLAS_MAVERICKS,2011-05-23,Outcome.LOSS,2849,8,15,0,0,2,2,18,10,0,0,5,4,1,0,40.0
+terryja01,Jason Terry,Team.DALLAS_MAVERICKS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2011-05-23,Outcome.WIN,2499,7,19,2,6,4,4,20,5,1,4,0,3,0,0,35.25
+collini01,Nick Collison,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.DALLAS_MAVERICKS,2011-05-23,Outcome.LOSS,1870,5,7,0,0,2,2,12,7,3,1,1,1,0,0,28.75
+sefolth01,Thabo Sefolosha,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.DALLAS_MAVERICKS,2011-05-23,Outcome.LOSS,1819,6,10,0,2,0,0,12,4,1,3,1,0,0,0,26.5
+mariosh01,Shawn Marion,Team.DALLAS_MAVERICKS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2011-05-23,Outcome.WIN,2306,1,5,0,0,5,6,7,4,1,4,1,0,0,0,23.5
+chandty01,Tyson Chandler,Team.DALLAS_MAVERICKS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2011-05-23,Outcome.WIN,2122,2,4,0,0,1,1,5,8,0,2,0,0,0,0,19.0
+hardeja01,James Harden,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.DALLAS_MAVERICKS,2011-05-23,Outcome.LOSS,1373,3,5,0,0,1,2,7,7,2,1,0,4,0,0,18.75
+haywobr01,Brendan Haywood,Team.DALLAS_MAVERICKS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2011-05-23,Outcome.WIN,1057,2,2,0,0,5,8,9,3,1,0,1,0,0,0,16.25
+perkike01,Kendrick Perkins,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.DALLAS_MAVERICKS,2011-05-23,Outcome.LOSS,1526,3,5,0,0,0,1,6,3,2,0,1,1,0,0,14.25
+bareajo01,J.J. Barea,Team.DALLAS_MAVERICKS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2011-05-23,Outcome.WIN,988,3,10,0,3,1,1,7,2,1,1,0,0,0,0,13.0
+maynoer01,Eric Maynor,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.DALLAS_MAVERICKS,2011-05-23,Outcome.LOSS,669,1,4,0,1,0,0,2,1,3,1,0,0,0,0,9.75
+stojape01,Peja Stojaković,Team.DALLAS_MAVERICKS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2011-05-23,Outcome.WIN,1009,2,7,0,3,0,0,4,1,2,0,0,2,0,0,7.25
+stevede01,DeShawn Stevenson,Team.DALLAS_MAVERICKS,Location.AWAY,Team.OKLAHOMA_CITY_THUNDER,2011-05-23,Outcome.WIN,761,1,5,1,4,0,0,3,0,0,0,0,1,0,0,3.0
+cookda02,Daequan Cook,Team.OKLAHOMA_CITY_THUNDER,Location.HOME,Team.DALLAS_MAVERICKS,2011-05-23,Outcome.LOSS,338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

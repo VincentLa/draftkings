@@ -1,0 +1,37 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+paulch01,Chris Paul,Team.HOUSTON_ROCKETS,Location.HOME,Team.UTAH_JAZZ,2018-05-08,Outcome.WIN,2261,13,22,8,10,7,8,41,7,10,1,0,0,1,0,72.25
+davisan02,Anthony Davis,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2018-05-08,Outcome.LOSS,2742,13,26,1,2,7,9,34,19,1,1,3,3,1,0,67.75
+holidjr01,Jrue Holiday,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2018-05-08,Outcome.LOSS,2768,11,21,2,6,3,3,27,10,11,1,0,4,0,1,60.0
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,2445,9,18,1,5,0,0,19,14,9,3,2,4,1,0,60.0
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,2222,10,16,3,6,5,5,28,7,8,1,0,4,0,0,50.25
+duranke01,Kevin Durant,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,2234,10,18,1,4,3,5,24,6,7,2,0,1,0,0,46.0
+mitchdo01,Donovan Mitchell,Team.UTAH_JAZZ,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-08,Outcome.LOSS,2059,9,17,2,7,4,5,24,4,9,1,0,3,0,0,44.0
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,2261,10,22,2,8,1,1,23,6,3,1,0,0,0,0,38.0
+tuckepj01,P.J. Tucker,Team.HOUSTON_ROCKETS,Location.HOME,Team.UTAH_JAZZ,2018-05-08,Outcome.WIN,2144,7,9,5,7,0,0,19,6,2,0,3,1,0,0,37.5
+burksal01,Alec Burks,Team.UTAH_JAZZ,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-08,Outcome.LOSS,1916,7,15,3,5,5,5,22,3,5,1,0,2,0,0,35.75
+goberru01,Rudy Gobert,Team.UTAH_JAZZ,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-08,Outcome.LOSS,2035,5,9,0,0,2,4,12,9,0,1,5,0,0,0,35.25
+hardeja01,James Harden,Team.HOUSTON_ROCKETS,Location.HOME,Team.UTAH_JAZZ,2018-05-08,Outcome.WIN,2078,7,22,1,7,3,4,18,4,4,2,0,3,0,0,32.0
+inglejo01,Joe Ingles,Team.UTAH_JAZZ,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-08,Outcome.LOSS,1913,5,10,2,6,0,0,12,5,6,0,0,2,0,0,27.25
+capelca01,Clint Capela,Team.HOUSTON_ROCKETS,Location.HOME,Team.UTAH_JAZZ,2018-05-08,Outcome.WIN,1873,1,2,0,0,3,4,5,5,0,3,5,0,0,0,27.25
+rondora01,Rajon Rondo,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2018-05-08,Outcome.LOSS,1256,3,7,1,2,0,0,7,2,7,3,0,2,0,0,25.5
+onealro01,Royce O'Neale,Team.UTAH_JAZZ,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-08,Outcome.LOSS,2242,6,10,1,2,4,4,17,3,1,1,0,1,0,0,24.25
+mirotni01,Nikola Mirotić,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2018-05-08,Outcome.LOSS,2245,4,9,3,6,1,2,12,7,1,0,0,1,0,0,23.25
+clarkia01,Ian Clark,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2018-05-08,Outcome.LOSS,1780,4,9,1,3,0,0,9,4,1,2,0,0,0,0,20.0
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,1525,1,4,0,1,0,0,2,4,5,2,0,1,0,0,18.0
+greenge01,Gerald Green,Team.HOUSTON_ROCKETS,Location.HOME,Team.UTAH_JAZZ,2018-05-08,Outcome.WIN,799,3,7,2,6,0,0,8,5,0,1,0,0,0,0,17.25
+crowdja01,Jae Crowder,Team.UTAH_JAZZ,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-08,Outcome.LOSS,1991,2,11,1,5,1,2,6,8,0,1,0,3,0,0,17.0
+mooreet01,E'Twaun Moore,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2018-05-08,Outcome.LOSS,2424,4,12,1,3,1,2,10,2,4,0,0,4,0,0,17.0
+mbahalu01,Luc Mbah a Moute,Team.HOUSTON_ROCKETS,Location.HOME,Team.UTAH_JAZZ,2018-05-08,Outcome.WIN,1226,3,5,1,2,1,1,8,2,2,1,0,2,0,0,15.0
+looneke01,Kevon Looney,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,1407,2,5,0,0,0,0,4,7,0,1,0,0,0,0,14.75
+favorde01,Derrick Favors,Team.UTAH_JAZZ,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-08,Outcome.LOSS,845,3,3,0,0,0,1,6,6,0,0,0,0,0,0,13.5
+arizatr01,Trevor Ariza,Team.HOUSTON_ROCKETS,Location.HOME,Team.UTAH_JAZZ,2018-05-08,Outcome.WIN,1491,1,4,0,2,0,0,2,6,1,1,0,1,0,0,12.5
+gordoer01,Eric Gordon,Team.HOUSTON_ROCKETS,Location.HOME,Team.UTAH_JAZZ,2018-05-08,Outcome.WIN,1846,2,8,1,5,0,0,5,3,2,0,0,2,0,0,11.25
+hilarne01,Nenê Hilário,Team.HOUSTON_ROCKETS,Location.HOME,Team.UTAH_JAZZ,2018-05-08,Outcome.WIN,682,3,4,0,0,0,0,6,2,0,1,0,0,0,0,10.5
+cookqu01,Quinn Cook,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,824,2,5,0,3,1,1,5,2,1,0,0,0,0,0,9.0
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,874,3,6,0,0,0,0,6,2,1,0,0,2,0,0,9.0
+jerebjo01,Jonas Jerebko,Team.UTAH_JAZZ,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-08,Outcome.LOSS,379,1,1,1,1,0,0,3,2,0,0,0,0,0,0,6.0
+milleda01,Darius Miller,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2018-05-08,Outcome.LOSS,1016,2,4,1,2,0,0,5,0,0,0,0,0,0,0,5.5
+netora01,Raul Neto,Team.UTAH_JAZZ,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-08,Outcome.LOSS,1020,0,5,0,2,0,0,0,1,3,0,0,1,0,0,5.25
+belljo01,Jordan Bell,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,337,1,2,0,0,0,0,2,2,0,0,0,0,0,0,4.5
+westda01,David West,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.NEW_ORLEANS_PELICANS,2018-05-08,Outcome.WIN,271,0,3,0,0,0,0,0,2,1,0,0,0,0,0,4.0
+hillso01,Solomon Hill,Team.NEW_ORLEANS_PELICANS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2018-05-08,Outcome.LOSS,169,0,0,0,0,0,0,0,0,1,0,1,0,0,0,3.5

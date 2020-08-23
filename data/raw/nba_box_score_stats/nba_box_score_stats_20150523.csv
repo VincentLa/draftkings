@@ -1,0 +1,25 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,2098,12,19,7,9,9,10,40,5,7,2,1,4,0,0,64.25
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,2150,8,16,1,4,0,0,17,13,5,1,1,2,1,0,45.75
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,1930,6,16,2,8,3,4,17,3,5,1,2,1,0,0,34.75
+howardw01,Dwight Howard,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,1976,6,10,0,0,2,8,14,14,0,0,1,2,1,0,34.0
+bogutan01,Andrew Bogut,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,1227,5,8,0,0,2,2,12,12,1,0,1,0,1,0,32.0
+smithjo03,Josh Smith,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,1688,6,14,3,5,1,2,16,8,4,0,0,4,0,0,31.5
+hardeja01,James Harden,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,1931,3,16,1,5,10,11,17,3,4,0,0,1,0,0,26.75
+arizatr01,Trevor Ariza,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,2459,3,8,1,4,0,0,7,8,2,2,0,1,0,0,24.0
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,1509,3,7,0,1,0,2,6,6,3,3,0,1,0,0,23.5
+breweco01,Corey Brewer,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,1609,5,15,0,4,3,6,13,0,1,3,0,1,0,0,20.0
+ezelife01,Festus Ezeli,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,1068,5,6,0,0,0,0,10,6,0,0,1,1,0,0,19.0
+joneste01,Terrence Jones,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,1192,2,6,0,0,2,2,6,5,0,0,1,2,0,0,13.25
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,1134,2,5,0,0,2,2,6,1,2,1,0,1,0,0,11.75
+terryja01,Jason Terry,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,1436,2,7,0,4,0,0,4,0,3,1,0,1,0,0,10.0
+barneha02,Harrison Barnes,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,1769,0,9,0,3,0,0,0,6,1,0,0,1,0,0,8.5
+barbole01,Leandro Barbosa,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,604,1,4,0,1,0,0,2,1,1,1,0,0,0,0,6.75
+capelca01,Clint Capela,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,454,0,0,0,0,1,2,1,1,0,1,1,0,0,0,6.25
+rushbr01,Brandon Rush,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,211,1,5,1,2,0,0,3,2,0,0,0,0,0,0,6.0
+leeda02,David Lee,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,278,1,2,0,0,0,0,2,3,0,0,0,0,0,0,5.75
+johnsni01,Nick Johnson,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,945,1,5,0,2,0,0,2,0,0,0,1,2,0,0,3.0
+holidju01,Justin Holiday,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,211,0,0,0,0,0,0,0,1,1,0,0,2,0,0,1.75
+prigipa01,Pablo Prigioni,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,499,0,2,0,1,0,0,0,0,1,0,0,0,0,0,1.5
+mcadoja01,James Michael McAdoo,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-23,Outcome.WIN,211,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+papanko01,Kostas Papanikolaou,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2015-05-23,Outcome.LOSS,211,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-0.5

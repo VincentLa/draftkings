@@ -1,0 +1,23 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+hardeja01,James Harden,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,2588,7,20,2,7,15,18,31,7,8,3,1,7,0,0,57.25
+paulch01,Chris Paul,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,2698,9,20,2,6,6,6,26,5,10,4,0,4,1,0,55.75
+jordade01,DeAndre Jordan,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,2343,7,10,0,0,2,7,16,17,0,4,3,1,1,0,52.25
+griffbl01,Blake Griffin,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,2651,13,23,0,0,1,2,27,11,6,0,1,5,1,0,50.75
+howardw01,Dwight Howard,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,1938,6,8,0,0,4,8,16,15,2,2,0,2,1,0,42.25
+arizatr01,Trevor Ariza,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,2606,6,14,6,12,4,4,22,7,3,2,0,2,0,0,41.25
+redicjj01,J.J. Redick,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,2464,4,12,2,9,0,0,10,6,3,0,4,6,0,0,28.0
+crawfja01,Jamal Crawford,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,1584,6,18,3,9,2,2,17,0,1,1,0,0,0,0,22.0
+breweco01,Corey Brewer,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,1374,4,8,1,1,2,2,11,3,3,0,0,1,0,0,19.25
+smithjo03,Josh Smith,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,1342,6,10,2,4,1,2,15,1,0,0,1,1,0,0,18.75
+prigipa01,Pablo Prigioni,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,1207,1,2,1,1,1,2,4,1,4,3,0,0,0,0,17.75
+joneste01,Terrence Jones,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,1322,4,10,0,1,0,1,8,3,1,0,1,0,0,0,15.25
+terryja01,Jason Terry,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,1645,1,6,0,4,2,2,4,2,1,1,0,2,0,0,9.0
+barnema02,Matt Barnes,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,1296,0,2,0,1,0,0,0,2,1,1,1,1,0,0,7.5
+davisgl01,Glen Davis,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,317,1,2,0,0,0,0,2,2,1,0,0,0,0,0,6.0
+riverau01,Austin Rivers,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,883,1,4,0,2,0,0,2,2,1,0,0,1,0,0,5.5
+capelca01,Clint Capela,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,341,0,0,0,0,2,2,2,1,0,0,1,1,0,0,4.75
+hawessp01,Spencer Hawes,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,109,0,1,0,1,0,0,0,2,0,0,0,0,0,0,2.5
+jonesda02,Dahntay Jones,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,39,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+johnsni01,Nick Johnson,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+papanko01,Kostas Papanikolaou,Team.HOUSTON_ROCKETS,Location.HOME,Team.LOS_ANGELES_CLIPPERS,2015-05-17,Outcome.WIN,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+hudsole01,Lester Hudson,Team.LOS_ANGELES_CLIPPERS,Location.AWAY,Team.HOUSTON_ROCKETS,2015-05-17,Outcome.LOSS,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

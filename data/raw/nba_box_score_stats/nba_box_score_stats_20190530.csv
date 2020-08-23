@@ -1,0 +1,22 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+siakapa01,Pascal Siakam,Team.TORONTO_RAPTORS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-30,Outcome.WIN,2385,14,17,2,3,2,2,32,8,5,1,2,2,0,0,55.5
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,2416,8,18,4,9,14,14,34,5,5,1,0,3,0,0,50.25
+leonaka01,Kawhi Leonard,Team.TORONTO_RAPTORS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-30,Outcome.WIN,2583,5,14,3,6,10,12,23,8,5,1,0,2,0,0,43.0
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,2422,2,9,0,2,6,6,10,10,10,1,0,6,0,1,39.5
+gasolma01,Marc Gasol,Team.TORONTO_RAPTORS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-30,Outcome.WIN,1783,6,10,2,4,6,6,20,7,1,2,1,0,0,0,37.25
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,2359,8,17,3,6,2,2,21,5,1,0,0,2,0,0,29.25
+lowryky01,Kyle Lowry,Team.TORONTO_RAPTORS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-30,Outcome.WIN,2174,2,9,1,5,2,2,7,6,9,1,0,3,0,0,29.0
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,1751,3,7,0,4,0,0,6,6,7,0,1,2,0,0,25.0
+greenda02,Danny Green,Team.TORONTO_RAPTORS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-30,Outcome.WIN,1781,4,9,3,7,0,0,11,2,1,1,2,0,0,0,22.5
+vanvlfr01,Fred VanVleet,Team.TORONTO_RAPTORS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-30,Outcome.WIN,1986,5,8,1,4,4,6,15,1,2,0,0,1,0,0,19.25
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,1050,2,6,0,1,2,2,6,4,1,1,1,0,0,0,16.5
+looneke01,Kevon Looney,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,1700,4,5,0,0,1,2,9,3,1,1,0,1,0,0,15.75
+ibakase01,Serge Ibaka,Team.TORONTO_RAPTORS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-30,Outcome.WIN,1023,2,7,0,2,1,2,5,3,1,0,1,2,0,0,11.25
+couside01,DeMarcus Cousins,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,484,0,2,0,1,3,4,3,0,2,2,0,1,0,0,9.5
+jerebjo01,Jonas Jerebko,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,455,2,4,2,3,0,0,6,1,0,0,0,0,0,0,8.25
+cookqu01,Quinn Cook,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,557,2,4,1,2,1,1,6,0,1,0,0,0,0,0,8.0
+mckinal01,Alfonzo McKinnie,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,506,2,4,2,3,0,0,6,1,0,0,0,1,0,0,7.75
+belljo01,Jordan Bell,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,697,1,2,0,0,0,0,2,3,1,0,0,0,0,0,7.25
+mccawpa01,Patrick McCaw,Team.TORONTO_RAPTORS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-30,Outcome.WIN,410,1,2,1,1,0,0,3,0,1,0,0,0,0,0,5.0
+powelno01,Norman Powell,Team.TORONTO_RAPTORS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-30,Outcome.WIN,275,0,1,0,1,2,2,2,1,0,0,0,0,0,0,3.25
+evansja02,Jacob Evans,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-30,Outcome.LOSS,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

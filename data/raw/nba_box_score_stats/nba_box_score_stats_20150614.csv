@@ -1,0 +1,18 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2015-06-14,Outcome.LOSS,2686,15,34,3,8,7,9,40,14,11,1,0,2,0,1,79.5
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2015-06-14,Outcome.WIN,2527,13,23,7,13,4,4,37,7,4,2,0,5,0,0,56.75
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2015-06-14,Outcome.WIN,2548,5,11,2,5,2,11,14,8,7,3,0,0,0,0,41.5
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2015-06-14,Outcome.LOSS,2389,6,11,0,0,7,10,19,10,0,2,2,1,1,0,40.5
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2015-06-14,Outcome.WIN,2131,4,9,1,3,7,10,16,9,6,0,1,4,0,0,36.75
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2015-06-14,Outcome.LOSS,2142,5,15,4,14,0,0,14,7,2,1,2,1,0,0,33.25
+barneha02,Harrison Barnes,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2015-06-14,Outcome.WIN,1756,3,7,0,0,2,4,8,10,2,2,1,1,0,0,29.0
+shumpim01,Iman Shumpert,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2015-06-14,Outcome.LOSS,2238,3,9,3,6,1,2,10,5,2,1,0,1,0,0,22.25
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2015-06-14,Outcome.WIN,2405,5,14,1,4,1,1,12,3,2,0,0,1,0,0,18.75
+barbole01,Leandro Barbosa,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2015-06-14,Outcome.WIN,1022,4,5,1,1,4,4,13,2,0,0,0,2,0,0,15.0
+dellama01,Matthew Dellavedova,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2015-06-14,Outcome.LOSS,2501,2,9,1,5,0,0,5,0,2,3,0,2,0,0,13.5
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2015-06-14,Outcome.WIN,1277,1,3,0,0,0,0,2,2,3,0,0,2,0,0,8.0
+leeda02,David Lee,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2015-06-14,Outcome.WIN,541,1,3,0,0,0,0,2,1,1,0,0,1,0,0,4.25
+jonesja02,James Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2015-06-14,Outcome.LOSS,1067,0,1,0,1,0,0,0,1,0,1,0,0,0,0,3.25
+millemi01,Mike Miller,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2015-06-14,Outcome.LOSS,818,1,1,1,1,0,0,3,0,0,0,0,1,0,0,3.0
+ezelife01,Festus Ezeli,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2015-06-14,Outcome.WIN,192,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+mozgoti01,Timofey Mozgov,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2015-06-14,Outcome.LOSS,559,0,1,0,0,0,0,0,0,0,1,0,2,0,0,1.0

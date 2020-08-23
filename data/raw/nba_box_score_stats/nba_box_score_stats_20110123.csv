@@ -1,0 +1,24 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+anthoca01,Carmelo Anthony,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,1941,14,27,6,8,2,5,36,8,1,0,1,0,0,0,52.5
+hansbty01,Tyler Hansbrough,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,1822,10,17,0,0,7,9,27,10,1,0,0,1,1,0,42.0
+hilarne01,Nenê Hilário,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,1605,7,11,0,0,1,1,15,10,2,4,0,1,1,0,39.5
+harrial01,Al Harrington,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,1419,7,11,1,2,1,1,16,5,4,1,1,2,0,0,31.75
+billuch01,Chauncey Billups,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,1741,4,9,1,2,3,3,12,4,6,1,0,2,0,0,27.5
+fosteje01,Jeff Foster,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,1110,2,3,0,0,4,4,8,9,3,1,0,1,0,0,25.25
+georgpa01,Paul George,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,1591,7,10,2,3,1,2,17,0,0,2,1,0,0,0,24.0
+lawsoty01,Ty Lawson,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,1093,4,6,1,1,4,4,13,2,5,0,0,0,0,0,23.5
+afflaar01,Arron Afflalo,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,1985,3,7,1,3,2,2,9,2,5,1,0,0,0,0,21.5
+hibbero01,Roy Hibbert,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,1314,6,15,0,0,0,2,12,6,1,0,0,1,0,0,20.5
+rushbr01,Brandon Rush,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,1265,3,4,3,3,0,0,9,5,2,0,0,1,0,0,19.25
+dunlemi02,Mike Dunleavy,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,1611,3,6,2,3,2,2,10,3,4,0,0,3,0,0,19.25
+martike01,Kenyon Martin,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,1492,2,5,0,0,0,0,4,4,2,2,2,2,0,0,19.0
+priceaj01,A.J. Price,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,1626,1,6,1,3,3,3,6,0,8,0,0,4,0,0,16.5
+smithjr01,J.R. Smith,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,1497,4,9,0,2,0,1,8,2,2,2,0,3,0,0,16.0
+grangda01,Danny Granger,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,1515,2,10,0,2,4,4,8,2,3,0,0,0,0,0,15.0
+collida01,Darren Collison,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,1254,2,10,0,3,1,1,5,1,2,1,0,3,0,0,9.75
+poseyja01,James Posey,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,836,1,4,1,4,0,0,3,3,0,1,0,0,0,0,9.25
+cartean01,Anthony Carter,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,347,1,2,1,1,0,0,3,3,1,0,0,0,0,0,8.75
+jonesso01,Solomon Jones,Team.INDIANA_PACERS,Location.AWAY,Team.DENVER_NUGGETS,2011-01-23,Outcome.LOSS,456,0,2,0,0,2,2,2,3,1,0,0,0,0,0,7.25
+willish02,Shelden Williams,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,376,1,2,0,0,2,2,4,2,0,0,0,0,0,0,6.5
+elyme01,Melvin Ely,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,629,0,1,0,0,0,0,0,1,0,0,1,0,0,0,3.25
+forbega01,Gary Forbes,Team.DENVER_NUGGETS,Location.HOME,Team.INDIANA_PACERS,2011-01-23,Outcome.WIN,275,0,2,0,1,1,2,1,1,0,0,0,0,0,0,2.25

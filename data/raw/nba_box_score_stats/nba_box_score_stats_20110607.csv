@@ -1,0 +1,20 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+wadedw01,Dwyane Wade,Team.MIAMI_HEAT,Location.AWAY,Team.DALLAS_MAVERICKS,2011-06-07,Outcome.LOSS,2366,13,20,0,2,6,9,32,6,2,2,2,2,0,0,49.5
+chandty01,Tyson Chandler,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,2576,4,7,0,0,5,8,13,16,1,1,0,0,1,0,38.0
+nowitdi01,Dirk Nowitzki,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,2349,6,19,0,2,9,10,21,11,1,0,0,3,1,0,36.25
+boshch01,Chris Bosh,Team.MIAMI_HEAT,Location.AWAY,Team.DALLAS_MAVERICKS,2011-06-07,Outcome.LOSS,2528,9,19,0,0,6,8,24,6,1,0,1,4,0,0,33.0
+jamesle01,LeBron James,Team.MIAMI_HEAT,Location.AWAY,Team.DALLAS_MAVERICKS,2011-06-07,Outcome.LOSS,2743,3,11,0,3,2,4,8,9,7,2,0,4,0,0,31.75
+terryja01,Jason Terry,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,2124,6,15,1,4,4,6,17,0,3,3,0,0,0,0,28.0
+chalmma01,Mario Chalmers,Team.MIAMI_HEAT,Location.AWAY,Team.DALLAS_MAVERICKS,2011-06-07,Outcome.LOSS,1768,1,5,0,3,3,3,5,4,6,3,0,2,0,0,24.0
+mariosh01,Shawn Marion,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,1545,7,12,0,0,2,2,16,4,0,0,1,2,0,0,22.0
+stevede01,DeShawn Stevenson,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,1538,3,7,3,7,2,2,11,3,1,0,0,0,0,0,17.75
+anthojo01,Joel Anthony,Team.MIAMI_HEAT,Location.AWAY,Team.DALLAS_MAVERICKS,2011-06-07,Outcome.LOSS,1705,2,6,0,0,0,0,4,8,1,0,1,0,0,0,17.5
+bareajo01,J.J. Barea,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,1298,3,9,0,2,2,2,8,3,4,0,0,1,0,0,17.25
+kiddja01,Jason Kidd,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,2338,0,3,0,3,0,0,0,3,3,3,1,4,0,0,14.25
+millemi01,Mike Miller,Team.MIAMI_HEAT,Location.AWAY,Team.DALLAS_MAVERICKS,2011-06-07,Outcome.LOSS,874,2,8,2,5,0,0,6,3,1,1,0,1,0,0,13.75
+hasleud01,Udonis Haslem,Team.MIAMI_HEAT,Location.AWAY,Team.DALLAS_MAVERICKS,2011-06-07,Outcome.LOSS,1284,2,5,0,0,0,0,4,4,0,0,1,0,0,0,11.0
+bibbymi01,Mike Bibby,Team.MIAMI_HEAT,Location.AWAY,Team.DALLAS_MAVERICKS,2011-06-07,Outcome.LOSS,972,0,1,0,1,0,0,0,2,1,0,0,0,0,0,4.0
+howarju01,Juwan Howard,Team.MIAMI_HEAT,Location.AWAY,Team.DALLAS_MAVERICKS,2011-06-07,Outcome.LOSS,160,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2.5
+cardibr01,Brian Cardinal,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,445,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0.75
+stojape01,Peja Stojaković,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+haywobr01,Brendan Haywood,Team.DALLAS_MAVERICKS,Location.HOME,Team.MIAMI_HEAT,2011-06-07,Outcome.WIN,185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

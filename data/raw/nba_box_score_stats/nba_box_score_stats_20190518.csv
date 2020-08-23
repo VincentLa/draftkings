@@ -1,0 +1,23 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,2304,6,12,0,1,8,9,20,13,12,4,1,2,0,1,66.25
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,2237,11,26,6,16,8,9,36,6,3,0,0,5,0,0,48.5
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,2394,8,20,1,5,2,3,19,5,5,2,2,4,0,0,39.25
+mccolcj01,CJ McCollum,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,2302,7,20,2,10,7,12,23,3,5,2,0,1,0,0,38.75
+lillada01,Damian Lillard,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,2378,5,18,3,9,6,8,19,6,6,2,0,5,0,0,38.5
+leoname01,Meyers Leonard,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,1868,6,12,3,7,1,1,16,3,4,0,0,0,0,0,27.25
+colliza01,Zach Collins,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,1217,2,6,1,1,1,2,6,8,2,0,1,1,0,0,21.0
+harklma01,Maurice Harkless,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,1546,2,5,0,1,2,4,6,3,2,2,2,0,0,0,20.75
+turneev01,Evan Turner,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,1045,5,6,1,1,1,2,12,3,1,1,0,2,0,0,18.75
+mckinal01,Alfonzo McKinnie,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,1273,2,2,1,1,0,0,5,9,0,1,0,1,0,0,18.25
+looneke01,Kevon Looney,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,1638,4,5,0,0,0,0,8,3,1,0,1,1,0,0,14.75
+belljo01,Jordan Bell,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,927,3,5,0,0,0,0,6,2,2,0,1,0,0,0,13.5
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,1053,1,5,0,3,0,0,2,5,2,1,0,0,0,0,13.25
+kanteen01,Enes Kanter,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,436,3,7,0,0,1,2,7,5,0,0,0,0,0,0,13.25
+aminual01,Al-Farouq Aminu,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,752,1,2,0,1,0,0,2,7,2,0,0,1,0,0,13.25
+curryse01,Seth Curry,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,1823,2,6,1,4,0,0,5,3,0,1,0,1,0,0,10.75
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,1040,2,3,0,0,2,2,6,0,1,1,0,0,0,0,9.5
+jerebjo01,Jonas Jerebko,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,537,1,2,0,0,0,0,2,3,1,0,0,0,0,0,7.25
+cookqu01,Quinn Cook,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,643,3,4,0,0,0,0,6,1,0,0,0,0,0,0,7.25
+hoodro01,Rodney Hood,Team.PORTLAND_TRAIL_BLAZERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2019-05-18,Outcome.LOSS,1033,1,3,0,1,1,2,3,0,0,1,0,0,0,0,5.0
+bogutan01,Andrew Bogut,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,157,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2.5
+jonesda03,Damian Jones,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.PORTLAND_TRAIL_BLAZERS,2019-05-18,Outcome.WIN,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

@@ -1,0 +1,27 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+jamesle01,LeBron James,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,2289,12,19,2,4,4,4,30,10,8,1,1,4,1,0,59.0
+wadedw01,Dwyane Wade,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,1998,10,17,1,2,7,13,28,3,2,2,1,4,0,0,39.25
+hibbero01,Roy Hibbert,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,1657,3,10,1,1,1,2,8,12,1,0,1,1,0,0,26.5
+georgpa01,Paul George,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,1696,3,9,1,4,4,5,11,4,3,2,1,2,0,0,26.0
+chalmma01,Mario Chalmers,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,1929,3,6,0,1,2,2,8,11,3,0,0,3,0,0,24.75
+battish01,Shane Battier,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,1552,4,7,4,5,1,2,13,3,1,1,1,1,0,0,23.75
+anthojo01,Joel Anthony,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,1847,3,4,0,0,1,2,7,5,0,0,4,0,0,0,21.25
+collida01,Darren Collison,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,1260,2,6,0,0,4,4,8,0,2,4,0,1,0,0,18.5
+hasleud01,Udonis Haslem,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,1017,5,6,0,0,0,0,10,6,0,0,0,0,0,0,17.5
+westda01,David West,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,1903,5,13,0,0,0,0,10,4,1,0,0,1,0,0,16.0
+grangda01,Danny Granger,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,1229,3,6,3,4,1,2,10,1,1,1,0,1,0,0,15.75
+coleno01,Norris Cole,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,1069,1,4,0,0,4,4,6,2,3,0,0,0,0,0,13.0
+barbole01,Leandro Barbosa,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,1055,3,10,0,3,0,0,6,3,2,0,0,0,0,0,12.75
+hansbty01,Tyler Hansbrough,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,1007,2,6,0,0,4,4,8,3,1,0,0,1,0,0,12.75
+amundlo01,Lou Amundson,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,787,3,6,0,0,0,2,6,3,0,0,1,0,0,0,11.75
+jonesja02,James Jones,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,563,2,3,2,3,0,0,6,1,1,0,1,0,0,0,11.75
+hillge01,George Hill,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,1680,3,9,0,5,0,0,6,1,1,1,0,0,0,0,10.75
+jonesda02,Dahntay Jones,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,1425,1,8,1,4,2,2,5,3,1,0,0,1,0,0,10.25
+turiaro01,Ronny Turiaf,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,703,1,1,0,0,0,0,2,2,1,0,1,0,0,0,8.0
+millemi01,Mike Miller,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,857,0,1,0,1,0,0,0,4,0,1,0,1,0,0,6.5
+priceaj01,A.J. Price,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,154,1,1,0,0,0,0,2,1,1,0,0,0,0,0,4.75
+harrite01,Terrel Harris,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,192,1,1,0,0,0,0,2,2,0,0,0,0,0,0,4.5
+pittmde01,Dexter Pittman,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,192,0,0,0,0,0,0,0,0,1,0,1,0,0,0,3.5
+howarju01,Juwan Howard,Team.MIAMI_HEAT,Location.HOME,Team.INDIANA_PACERS,2012-05-22,Outcome.WIN,192,1,1,0,0,1,2,3,0,0,0,0,0,0,0,3.0
+pendeje02,Jeff Ayres,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,192,1,1,0,0,0,0,2,0,0,0,0,0,0,0,2.0
+stephla01,Lance Stephenson,Team.INDIANA_PACERS,Location.AWAY,Team.MIAMI_HEAT,2012-05-22,Outcome.LOSS,355,0,4,0,0,1,2,1,0,1,0,0,1,0,0,2.0

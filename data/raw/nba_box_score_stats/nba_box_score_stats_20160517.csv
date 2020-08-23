@@ -1,0 +1,27 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+irvinky01,Kyrie Irving,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,1807,11,17,1,3,4,4,27,2,5,2,2,2,0,0,44.5
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,1698,11,13,0,1,2,4,24,6,4,2,1,4,0,0,41.5
+loveke01,Kevin Love,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,1653,4,8,2,4,4,4,14,4,3,1,0,2,0,0,25.5
+derozde01,DeMar DeRozan,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,2076,9,17,0,1,0,0,18,0,5,0,0,3,0,0,24.0
+jefferi01,Richard Jefferson,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,1290,2,6,0,2,5,6,9,11,1,0,0,1,0,0,23.75
+biyombi01,Bismack Biyombo,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,1849,5,5,0,0,2,2,12,4,0,2,0,2,0,0,20.0
+lowryky01,Kyle Lowry,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,1895,4,14,0,7,0,0,8,4,5,0,0,4,0,0,18.5
+johnsja01,James Johnson,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,1178,4,6,2,2,0,0,10,4,1,1,0,2,0,0,18.5
+shumpim01,Iman Shumpert,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,1305,3,4,1,1,1,2,8,3,2,1,0,1,0,0,16.75
+pattepa01,Patrick Patterson,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,1667,3,8,1,4,1,2,8,2,4,0,0,1,0,0,16.5
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,1643,1,5,0,3,3,4,5,2,3,2,0,0,0,0,16.0
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,1689,1,4,0,0,4,4,6,7,0,1,0,2,0,0,15.75
+fryech01,Channing Frye,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,771,3,5,2,3,0,0,8,3,1,0,0,0,0,0,14.25
+dellama01,Matthew Dellavedova,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,855,3,4,1,1,2,3,9,1,3,0,0,3,0,0,13.75
+josepco01,Cory Joseph,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,906,1,6,0,2,2,4,4,1,3,1,0,0,0,0,11.75
+wrighde01,Delon Wright,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,582,1,2,0,0,5,6,7,1,0,1,0,0,0,0,10.25
+carrode01,DeMarre Carroll,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,1178,1,5,0,3,0,0,2,1,1,2,1,1,0,0,10.25
+scolalu01,Luis Scola,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,859,1,2,1,1,4,4,7,2,0,0,0,0,0,0,10.0
+mozgoti01,Timofey Mozgov,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,384,1,3,0,0,0,0,2,4,0,0,1,0,0,0,9.0
+rosste01,Terrence Ross,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,1134,1,5,1,3,1,2,4,1,0,1,0,1,0,0,7.25
+powelno01,Norman Powell,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,384,2,4,0,1,0,0,4,2,0,0,0,0,0,0,6.5
+willima01,Mo Williams,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,537,1,3,0,0,1,2,3,2,0,0,0,1,0,0,5.0
+noguelu01,Lucas Nogueira,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,339,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+jonesja02,James Jones,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,384,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0
+thompja02,Jason Thompson,Team.TORONTO_RAPTORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2016-05-17,Outcome.LOSS,353,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+jonesda02,Dahntay Jones,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.TORONTO_RAPTORS,2016-05-17,Outcome.WIN,384,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0.0

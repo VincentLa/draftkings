@@ -1,0 +1,23 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+tatumja01,Jayson Tatum,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2018-05-23,Outcome.WIN,2445,7,15,3,7,7,8,24,7,4,4,2,2,0,0,51.25
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,2356,11,22,1,6,3,4,26,10,5,1,0,6,1,0,47.0
+horfoal01,Al Horford,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2018-05-23,Outcome.WIN,2099,4,9,1,2,6,6,15,12,1,1,0,2,1,0,34.5
+loveke01,Kevin Love,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,1839,6,13,2,7,0,0,14,7,2,2,1,2,0,0,31.75
+roziete01,Terry Rozier,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2018-05-23,Outcome.WIN,2056,3,15,1,7,1,1,8,6,6,3,0,1,0,0,30.5
+smartma01,Marcus Smart,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2018-05-23,Outcome.WIN,1406,5,9,3,6,0,0,13,4,4,1,0,0,0,0,27.5
+brownja02,Jaylen Brown,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2018-05-23,Outcome.WIN,2074,4,15,2,8,7,8,17,3,2,0,1,2,0,0,25.75
+morrima03,Marcus Morris,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2018-05-23,Outcome.WIN,2248,5,13,3,6,0,0,13,6,0,1,0,1,0,0,23.5
+baynear01,Aron Baynes,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2018-05-23,Outcome.WIN,1760,3,7,0,1,0,0,6,7,0,0,3,0,0,0,20.75
+nancela02,Larry Nance,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,1009,1,1,0,0,0,2,2,6,2,0,4,2,0,0,19.5
+greenje02,Jeff Green,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,1544,3,4,1,2,1,2,8,5,0,0,0,2,0,0,13.75
+hillge01,George Hill,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,1810,1,5,0,0,5,6,7,1,2,0,1,2,0,0,12.25
+clarkjo01,Jordan Clarkson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,914,3,10,2,7,0,0,8,2,0,0,0,0,0,0,11.5
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,1570,0,3,0,1,1,2,1,6,1,0,0,0,0,0,10.0
+korveky01,Kyle Korver,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,1117,2,6,2,5,1,1,7,0,1,0,0,0,0,0,9.5
+hoodro01,Rodney Hood,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,173,2,3,1,2,0,0,5,0,1,0,0,0,0,0,7.0
+caldejo01,José Calderón,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,156,0,0,0,0,0,0,0,2,2,0,0,0,0,0,5.5
+zizican01,Ante Žižić,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,156,1,1,0,0,1,2,3,0,0,0,1,0,0,0,5.0
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,1565,1,6,0,4,0,0,2,0,1,0,0,1,0,0,3.0
+yabusgu01,Guerschon Yabusele,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2018-05-23,Outcome.WIN,156,0,2,0,2,0,0,0,0,1,0,0,0,0,0,1.5
+naderab01,Abdel Nader,Team.BOSTON_CELTICS,Location.HOME,Team.CLEVELAND_CAVALIERS,2018-05-23,Outcome.WIN,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+osmande01,Cedi Osman,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.BOSTON_CELTICS,2018-05-23,Outcome.LOSS,191,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

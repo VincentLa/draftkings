@@ -1,0 +1,25 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+duranke01,Kevin Durant,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,2257,10,13,2,4,7,7,29,12,4,0,1,5,1,0,52.0
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,2034,14,24,5,13,3,3,36,5,6,0,0,6,0,0,50.75
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,2045,5,10,2,5,4,6,16,8,8,2,0,2,0,0,42.0
+anderky01,Kyle Anderson,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,1619,8,15,1,2,3,4,20,7,2,4,0,0,0,0,40.25
+ginobma01,Manu Ginóbili,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,1930,6,12,1,4,2,2,15,1,7,3,0,1,0,0,32.75
+murrade01,Dejounte Murray,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,1743,2,7,0,0,5,7,9,2,7,5,0,3,0,0,30.5
+gasolpa01,Pau Gasol,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,1384,6,8,0,0,2,3,14,9,3,0,0,0,0,0,29.75
+simmojo02,Jonathon Simmons,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,1471,5,15,1,3,2,4,13,5,4,1,1,0,0,0,29.75
+millspa02,Patty Mills,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,1803,4,13,3,9,3,3,14,4,3,0,1,3,0,0,25.5
+greenda02,Danny Green,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,1349,3,8,2,6,1,1,9,4,3,1,1,0,0,0,23.5
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,1346,3,6,0,2,1,3,7,6,3,2,0,2,0,0,22.0
+clarkia01,Ian Clark,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,1072,5,10,2,6,0,0,12,2,2,2,0,1,0,0,22.0
+aldrila01,LaMarcus Aldridge,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,1322,4,11,0,0,0,0,8,7,3,0,0,0,0,0,21.25
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,2035,3,13,1,5,3,4,10,6,1,0,0,0,0,0,19.5
+mccawpa01,Patrick McCaw,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,1019,2,4,2,4,0,0,6,4,2,0,1,0,0,0,17.0
+forbebr01,Bryn Forbes,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,1431,2,8,0,1,4,4,8,1,0,0,1,1,0,0,10.75
+westda01,David West,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,823,2,2,0,0,0,0,4,3,1,0,0,0,0,0,9.25
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,894,2,2,0,0,1,2,5,1,2,0,0,0,0,0,9.25
+mcgeeja01,JaVale McGee,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,416,1,1,0,0,0,0,2,3,0,0,1,1,0,0,7.25
+jonesda03,Damian Jones,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,114,1,1,0,0,0,0,2,2,0,1,0,0,0,0,6.5
+dedmode01,Dewayne Dedmon,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,174,0,0,0,0,3,4,3,1,1,0,0,0,0,0,5.75
+bertada01,Dāvis Bertāns,Team.SAN_ANTONIO_SPURS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-22,Outcome.LOSS,174,1,1,0,0,0,0,2,1,0,0,0,0,0,0,3.25
+barnema02,Matt Barnes,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,200,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2.75
+mcadoja01,James Michael McAdoo,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.SAN_ANTONIO_SPURS,2017-05-22,Outcome.WIN,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

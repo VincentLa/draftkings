@@ -1,0 +1,26 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,2324,12,27,7,15,6,6,37,6,4,3,3,2,0,0,65.0
+duranke01,Kevin Durant,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,2258,7,17,0,3,6,6,20,12,10,1,3,2,0,1,60.0
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,2434,7,13,0,1,9,11,23,7,8,0,1,6,0,0,42.75
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,2317,4,8,1,5,0,0,9,3,9,1,3,1,0,0,34.25
+loveke01,Kevin Love,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,1664,4,13,2,5,3,4,13,9,2,1,0,1,0,0,29.75
+hoodro01,Rodney Hood,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,1591,4,14,1,3,1,1,10,8,2,2,1,2,0,0,28.5
+nancela02,Larry Nance,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,1391,3,7,0,0,1,2,7,8,4,1,1,0,0,0,27.0
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,1361,4,8,3,6,0,0,11,2,0,2,2,0,0,0,23.0
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,1709,4,10,2,5,0,0,10,6,0,0,0,2,0,0,17.5
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,1595,3,8,3,5,1,2,10,2,1,0,0,0,0,0,15.5
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,972,3,5,0,0,0,0,6,4,0,0,1,0,0,0,13.0
+belljo01,Jordan Bell,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,1104,2,3,0,0,0,0,4,4,1,0,1,0,0,0,12.5
+mcgeeja01,JaVale McGee,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,988,3,4,0,0,0,0,6,3,0,0,1,0,0,0,11.75
+greenje02,Jeff Green,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,1420,2,8,1,3,0,0,5,0,1,0,1,0,0,0,9.0
+hillge01,George Hill,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,1505,1,7,1,4,0,2,3,3,1,0,0,1,0,0,8.25
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,844,0,1,0,0,2,2,2,4,0,0,0,0,0,0,7.0
+zizican01,Ante Žižić,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,100,2,2,0,0,0,0,4,1,0,0,0,0,0,0,5.25
+caldejo01,José Calderón,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,243,0,1,0,1,0,0,0,1,1,1,0,0,0,0,4.75
+youngni01,Nick Young,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,538,1,4,1,4,0,0,3,1,0,0,0,0,0,0,4.75
+korveky01,Kyle Korver,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,1242,0,6,0,5,2,3,2,1,1,0,0,1,0,0,4.25
+westda01,David West,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,456,1,1,0,0,0,0,2,0,1,0,0,0,0,0,3.5
+looneke01,Kevon Looney,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,167,1,2,0,0,0,0,2,1,0,0,0,0,0,0,3.25
+pachuza01,Zaza Pachulia,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,167,0,1,0,0,2,2,2,1,0,0,0,1,0,0,2.75
+osmande01,Cedi Osman,Team.CLEVELAND_CAVALIERS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-06-08,Outcome.LOSS,243,1,3,0,0,0,0,2,0,0,0,0,0,0,0,2.0
+mccawpa01,Patrick McCaw,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.CLEVELAND_CAVALIERS,2018-06-08,Outcome.WIN,167,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25

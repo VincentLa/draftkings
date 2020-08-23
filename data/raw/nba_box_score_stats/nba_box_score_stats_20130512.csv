@@ -1,0 +1,22 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+duncati01,Tim Duncan,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,2561,7,22,0,0,5,9,19,15,1,2,2,1,1,0,48.25
+ginobma01,Manu Ginóbili,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,2207,8,18,5,10,0,2,21,4,3,3,2,2,0,0,42.0
+barneha02,Harrison Barnes,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,3081,9,26,1,3,7,7,26,10,1,1,0,4,1,0,42.0
+jackja01,Jarrett Jack,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,2236,9,16,1,1,5,6,24,7,4,1,0,2,0,0,40.25
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,2316,7,15,5,10,3,3,22,6,4,0,0,2,0,0,37.0
+bogutan01,Andrew Bogut,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,1668,2,5,0,0,1,2,5,18,2,0,1,4,0,0,30.5
+parketo01,Tony Parker,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,2432,6,17,0,3,5,6,17,4,3,1,1,1,0,0,30.0
+greenda02,Danny Green,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,2365,4,13,2,9,0,2,10,7,0,2,1,0,0,0,25.75
+leonaka01,Kawhi Leonard,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,2724,4,11,0,3,3,4,11,8,2,1,0,3,0,0,24.5
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,3074,5,13,0,2,0,0,10,4,2,3,0,1,0,0,23.5
+landrca01,Carl Landry,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,1415,2,9,0,0,2,3,6,5,4,0,0,3,0,0,16.75
+splitti01,Tiago Splitter,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,1126,2,4,0,0,1,2,5,2,3,1,1,1,0,0,15.5
+nealga01,Gary Neal,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,1052,1,3,0,1,0,0,2,4,1,1,0,1,0,0,10.0
+ezelife01,Festus Ezeli,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,555,0,2,0,0,1,2,1,6,0,0,0,0,0,0,8.5
+leeda02,David Lee,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,469,0,2,0,0,0,0,0,5,0,1,0,0,0,0,8.25
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,612,1,3,0,2,1,2,3,2,2,0,0,1,0,0,8.0
+josepco01,Cory Joseph,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,516,1,2,0,0,0,0,2,3,1,0,0,0,0,0,7.25
+diawbo01,Boris Diaw,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,728,0,3,0,1,0,0,0,3,3,0,0,2,0,0,7.25
+biedran01,Andris Biedriņš,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,174,0,0,0,0,0,0,0,2,0,0,0,1,0,0,2.0
+bonnema01,Matt Bonner,Team.SAN_ANTONIO_SPURS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2013-05-12,Outcome.LOSS,189,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+jefferi01,Richard Jefferson,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.SAN_ANTONIO_SPURS,2013-05-12,Outcome.WIN,300,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0

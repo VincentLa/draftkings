@@ -1,0 +1,21 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+duranke01,Kevin Durant,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,2339,15,26,4,8,4,4,38,13,1,1,1,2,1,0,62.25
+goberru01,Rudy Gobert,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,2334,7,8,0,0,7,15,21,15,4,0,2,0,1,0,51.25
+haywago01,Gordon Hayward,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,2513,7,18,2,6,13,14,29,2,6,0,0,3,0,0,40.0
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,2190,6,20,3,11,8,9,23,5,4,0,0,0,0,0,36.75
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,2263,4,8,0,3,1,3,9,10,5,1,1,0,0,0,33.0
+macksh01,Shelvin Mack,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,2227,3,11,1,2,4,5,11,4,5,1,0,3,0,0,24.5
+inglejo01,Joe Ingles,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,1717,4,6,2,3,0,0,10,5,0,2,1,1,0,0,22.75
+diawbo01,Boris Diaw,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,1577,5,12,0,1,0,0,10,5,1,1,0,0,0,0,19.75
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,1641,4,7,2,3,1,2,11,4,2,0,0,2,0,0,19.0
+pachuza01,Zaza Pachulia,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,747,3,5,0,0,1,1,7,4,1,0,1,0,0,0,15.5
+johnsjo02,Joe Johnson,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,1453,3,12,1,5,0,0,7,6,0,0,0,1,0,0,14.5
+mcgeeja01,JaVale McGee,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,728,1,3,0,0,0,0,2,7,0,0,1,0,0,0,12.75
+westda01,David West,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,1013,2,2,0,0,0,0,4,3,3,0,0,1,0,0,11.75
+hoodro01,Rodney Hood,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,1926,1,8,1,4,0,0,3,3,3,0,0,0,0,0,11.75
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,2340,1,9,0,4,4,4,6,1,0,1,0,0,0,0,9.25
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,714,0,2,0,0,0,0,0,3,1,0,0,1,0,0,4.75
+favorde01,Derrick Favors,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,369,0,1,0,0,0,0,0,2,0,1,0,0,0,0,4.5
+clarkia01,Ian Clark,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.UTAH_JAZZ,2017-05-06,Outcome.WIN,425,1,2,0,1,0,0,2,1,0,0,0,1,0,0,2.75
+exumda01,Dante Exum,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,159,0,1,0,1,0,0,0,0,0,1,0,0,0,0,2.0
+netora01,Raul Neto,Team.UTAH_JAZZ,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2017-05-06,Outcome.LOSS,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

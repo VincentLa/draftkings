@@ -1,0 +1,20 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+hardeja01,James Harden,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,2108,14,24,5,9,8,10,41,4,7,1,0,4,0,0,59.0
+paulch01,Chris Paul,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,2291,8,17,2,7,5,7,23,11,3,1,0,1,1,0,45.25
+duranke01,Kevin Durant,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-14,Outcome.WIN,2416,14,27,3,6,6,6,37,3,1,0,1,1,0,0,45.25
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-14,Outcome.WIN,2110,8,15,1,5,1,2,18,6,8,2,1,1,0,0,43.5
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-14,Outcome.WIN,2536,9,18,6,15,4,4,28,4,2,2,0,1,0,0,42.5
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-14,Outcome.WIN,2210,1,5,0,1,3,4,5,9,9,2,2,3,0,0,36.25
+capelca01,Clint Capela,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,1797,6,7,0,0,0,0,12,6,3,1,2,0,0,0,30.0
+gordoer01,Eric Gordon,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,2034,6,13,3,7,0,0,15,5,3,0,0,4,0,0,25.25
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-14,Outcome.WIN,1679,2,3,0,1,7,8,11,4,1,2,0,2,0,0,20.5
+tuckepj01,P.J. Tucker,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,2070,0,3,0,2,1,3,1,5,2,1,1,1,0,0,13.75
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-14,Outcome.WIN,820,3,5,0,0,1,1,7,5,0,0,0,0,0,0,13.25
+arizatr01,Trevor Ariza,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,1401,3,8,1,5,1,1,8,2,0,1,0,1,0,0,12.5
+youngni01,Nick Young,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-14,Outcome.WIN,913,3,5,3,5,0,0,9,1,0,0,0,0,0,0,11.75
+greenge01,Gerald Green,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,1002,2,5,2,4,0,0,6,3,0,0,0,1,0,0,10.25
+looneke01,Kevon Looney,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-14,Outcome.WIN,1486,1,1,0,0,0,0,2,4,1,1,0,1,0,0,10.0
+westda01,David West,Team.GOLDEN_STATE_WARRIORS,Location.AWAY,Team.HOUSTON_ROCKETS,2018-05-14,Outcome.WIN,230,1,1,0,0,0,0,2,1,2,0,0,0,0,0,6.25
+mbahalu01,Luc Mbah a Moute,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,1048,0,6,0,2,0,0,0,4,0,0,0,1,0,0,4.5
+anderry01,Ryan Anderson,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,304,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1.25
+hilarne01,Nenê Hilário,Team.HOUSTON_ROCKETS,Location.HOME,Team.GOLDEN_STATE_WARRIORS,2018-05-14,Outcome.LOSS,345,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1.25

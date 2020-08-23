@@ -1,0 +1,19 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+jamesle01,LeBron James,Team.MIAMI_HEAT,Location.HOME,Team.CHICAGO_BULLS,2011-05-24,Outcome.WIN,2963,11,26,0,1,13,13,35,6,6,2,2,5,0,0,57.0
+denglu01,Luol Deng,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,2619,8,16,2,5,2,2,20,8,2,3,2,3,0,0,42.5
+boozeca01,Carlos Boozer,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,2950,7,14,0,0,6,9,20,11,3,1,0,1,1,0,41.25
+noahjo01,Joakim Noah,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,2692,3,10,0,0,0,0,6,14,6,2,1,2,0,0,37.5
+rosede01,Derrick Rose,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,2910,8,27,1,9,6,7,23,3,6,2,0,7,0,0,36.75
+wadedw01,Dwyane Wade,Team.MIAMI_HEAT,Location.HOME,Team.CHICAGO_BULLS,2011-05-24,Outcome.WIN,2458,5,16,0,1,4,4,14,5,1,2,4,2,0,0,32.75
+boshch01,Chris Bosh,Team.MIAMI_HEAT,Location.HOME,Team.CHICAGO_BULLS,2011-05-24,Outcome.WIN,2597,6,12,0,1,10,11,22,6,1,0,0,2,0,0,30.0
+millemi01,Mike Miller,Team.MIAMI_HEAT,Location.HOME,Team.CHICAGO_BULLS,2011-05-24,Outcome.WIN,1566,5,8,2,5,0,0,12,9,1,1,0,0,0,0,27.75
+anthojo01,Joel Anthony,Team.MIAMI_HEAT,Location.HOME,Team.CHICAGO_BULLS,2011-05-24,Outcome.WIN,1748,0,0,0,0,2,4,2,5,1,2,4,1,0,0,21.25
+chalmma01,Mario Chalmers,Team.MIAMI_HEAT,Location.HOME,Team.CHICAGO_BULLS,2011-05-24,Outcome.WIN,1253,3,3,2,2,1,2,9,0,0,4,0,0,0,0,18.0
+hasleud01,Udonis Haslem,Team.MIAMI_HEAT,Location.HOME,Team.CHICAGO_BULLS,2011-05-24,Outcome.WIN,2015,0,5,0,0,2,2,2,9,2,1,0,3,0,0,16.75
+boganke01,Keith Bogans,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,1385,2,6,2,6,0,0,6,1,2,0,1,2,0,0,12.25
+brewero02,Ronnie Brewer,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,1257,2,3,1,1,2,3,7,2,0,0,1,0,0,0,12.0
+watsocj01,C.J. Watson,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,393,3,4,0,0,0,0,6,1,0,0,0,1,0,0,6.75
+korveky01,Kyle Korver,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,976,2,6,0,3,1,1,5,1,1,0,0,3,0,0,6.25
+bibbymi01,Mike Bibby,Team.MIAMI_HEAT,Location.HOME,Team.CHICAGO_BULLS,2011-05-24,Outcome.WIN,1300,2,5,1,3,0,2,5,1,0,0,0,2,0,0,5.75
+gibsota01,Taj Gibson,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,605,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+asikom01,Ömer Aşık,Team.CHICAGO_BULLS,Location.AWAY,Team.MIAMI_HEAT,2011-05-24,Outcome.LOSS,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

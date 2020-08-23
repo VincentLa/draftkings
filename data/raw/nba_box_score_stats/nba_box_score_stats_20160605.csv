@@ -1,0 +1,26 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+jamesle01,LeBron James,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,2018,7,17,1,5,4,4,19,8,9,4,1,7,0,0,49.5
+greendr01,Draymond Green,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,2032,11,20,5,8,1,1,28,7,5,1,0,1,0,0,48.25
+curryst01,Stephen Curry,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,1483,7,11,4,8,0,0,18,9,4,0,1,4,0,0,37.25
+thompkl01,Klay Thompson,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,1889,6,13,4,8,1,1,17,2,5,2,0,4,0,0,31.0
+bogutan01,Andrew Bogut,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,897,1,4,0,0,0,0,2,6,0,2,5,2,0,0,22.5
+jefferi01,Richard Jefferson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,1561,4,6,0,0,4,6,12,5,0,1,1,1,0,0,21.75
+irvinky01,Kyrie Irving,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,1986,5,14,0,3,0,0,10,3,1,3,0,3,0,0,19.75
+iguodan01,Andre Iguodala,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,1702,3,6,0,2,1,3,7,5,3,0,1,2,0,0,18.75
+livinsh01,Shaun Livingston,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,1448,3,4,0,0,1,1,7,2,5,0,1,1,0,0,18.5
+barbole01,Leandro Barbosa,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,1059,5,7,0,2,0,0,10,3,1,1,0,0,0,0,17.25
+thomptr01,Tristan Thompson,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,1153,3,8,0,0,2,2,8,5,0,1,0,0,0,0,16.25
+barneha02,Harrison Barnes,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,2070,2,7,0,2,1,2,5,5,1,1,1,3,0,0,15.25
+smithjr01,J.R. Smith,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,2004,2,6,1,4,0,2,5,2,2,2,0,1,0,0,14.5
+clarkia01,Ian Clark,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,457,3,4,1,2,0,0,7,3,1,0,0,1,0,0,12.25
+dellama01,Matthew Dellavedova,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,1002,2,9,1,2,2,2,7,1,2,0,0,0,0,0,11.75
+loveke01,Kevin Love,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,1246,2,7,1,4,0,0,5,3,0,1,0,1,0,0,10.75
+mozgoti01,Timofey Mozgov,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,720,1,3,0,0,3,4,5,3,0,1,0,2,0,0,9.75
+ezelife01,Festus Ezeli,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,658,2,3,0,0,2,2,6,2,1,0,0,1,0,0,9.5
+willima01,Mo Williams,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,491,0,3,0,2,0,0,0,0,1,2,0,1,0,0,5.0
+shumpim01,Iman Shumpert,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,1193,1,3,1,3,0,0,3,1,0,0,0,1,0,0,4.25
+speigma01,Marreese Speights,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,277,1,2,1,1,0,0,3,0,0,0,0,0,0,0,3.5
+fryech01,Channing Frye,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,232,0,1,0,0,0,0,0,1,0,0,1,0,0,0,3.25
+jonesda02,Dahntay Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,277,1,2,0,0,1,2,3,0,0,0,0,0,0,0,3.0
+jonesja02,James Jones,Team.CLEVELAND_CAVALIERS,Location.AWAY,Team.GOLDEN_STATE_WARRIORS,2016-06-05,Outcome.LOSS,517,0,0,0,0,0,2,0,2,0,0,0,0,0,0,2.5
+rushbr01,Brandon Rush,Team.GOLDEN_STATE_WARRIORS,Location.HOME,Team.CLEVELAND_CAVALIERS,2016-06-05,Outcome.WIN,428,0,0,0,0,0,0,0,2,0,0,0,1,0,0,2.0

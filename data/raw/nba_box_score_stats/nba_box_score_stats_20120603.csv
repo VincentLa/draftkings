@@ -1,0 +1,19 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+garneke01,Kevin Garnett,Team.BOSTON_CELTICS,Location.HOME,Team.MIAMI_HEAT,2012-06-03,Outcome.WIN,2589,8,20,0,1,1,1,17,14,3,2,5,5,1,0,52.0
+wadedw01,Dwyane Wade,Team.MIAMI_HEAT,Location.AWAY,Team.BOSTON_CELTICS,2012-06-03,Outcome.LOSS,3048,7,22,2,6,4,5,20,7,6,3,3,4,0,0,48.75
+rondora01,Rajon Rondo,Team.BOSTON_CELTICS,Location.HOME,Team.MIAMI_HEAT,2012-06-03,Outcome.WIN,2825,7,14,0,2,1,2,15,5,15,0,0,3,1,0,43.75
+jamesle01,LeBron James,Team.MIAMI_HEAT,Location.AWAY,Team.BOSTON_CELTICS,2012-06-03,Outcome.LOSS,2886,12,25,1,3,4,8,29,6,3,1,1,7,0,0,42.0
+hasleud01,Udonis Haslem,Team.MIAMI_HEAT,Location.AWAY,Team.BOSTON_CELTICS,2012-06-03,Outcome.LOSS,2150,4,6,0,0,4,4,12,17,2,1,0,2,1,0,38.75
+piercpa01,Paul Pierce,Team.BOSTON_CELTICS,Location.HOME,Team.MIAMI_HEAT,2012-06-03,Outcome.WIN,2389,8,18,2,6,5,6,23,6,0,2,0,3,0,0,34.0
+bassbr01,Brandon Bass,Team.BOSTON_CELTICS,Location.HOME,Team.MIAMI_HEAT,2012-06-03,Outcome.WIN,1978,3,8,0,0,5,5,11,7,3,2,0,2,0,0,27.25
+chalmma01,Mario Chalmers,Team.MIAMI_HEAT,Location.AWAY,Team.BOSTON_CELTICS,2012-06-03,Outcome.LOSS,2104,5,13,0,3,2,2,12,3,4,1,0,2,0,0,22.75
+allenra02,Ray Allen,Team.BOSTON_CELTICS,Location.HOME,Team.MIAMI_HEAT,2012-06-03,Outcome.WIN,2784,6,16,4,11,0,0,16,2,1,0,0,2,0,0,21.0
+doolike01,Keyon Dooling,Team.BOSTON_CELTICS,Location.HOME,Team.MIAMI_HEAT,2012-06-03,Outcome.WIN,984,3,5,3,4,1,2,10,0,0,0,0,0,0,0,11.5
+pietrmi01,Mickaël Piétrus,Team.BOSTON_CELTICS,Location.HOME,Team.MIAMI_HEAT,2012-06-03,Outcome.WIN,1444,0,3,0,3,0,2,0,5,0,0,2,0,0,0,10.25
+battish01,Shane Battier,Team.MIAMI_HEAT,Location.AWAY,Team.BOSTON_CELTICS,2012-06-03,Outcome.LOSS,2533,2,4,2,3,0,0,6,0,1,0,1,2,0,0,9.5
+coleno01,Norris Cole,Team.MIAMI_HEAT,Location.AWAY,Team.BOSTON_CELTICS,2012-06-03,Outcome.LOSS,937,1,2,0,0,3,5,5,1,2,0,0,0,0,0,9.25
+anthojo01,Joel Anthony,Team.MIAMI_HEAT,Location.AWAY,Team.BOSTON_CELTICS,2012-06-03,Outcome.LOSS,920,1,1,0,0,0,0,2,3,0,0,1,0,0,0,7.75
+jonesja02,James Jones,Team.MIAMI_HEAT,Location.AWAY,Team.BOSTON_CELTICS,2012-06-03,Outcome.LOSS,679,1,3,1,2,0,0,3,2,1,0,0,0,0,0,7.5
+millemi01,Mike Miller,Team.MIAMI_HEAT,Location.AWAY,Team.BOSTON_CELTICS,2012-06-03,Outcome.LOSS,643,1,4,0,2,0,0,2,1,1,0,0,0,0,0,4.75
+daniema01,Marquis Daniels,Team.BOSTON_CELTICS,Location.HOME,Team.MIAMI_HEAT,2012-06-03,Outcome.WIN,875,0,1,0,0,1,2,1,0,0,0,0,0,0,0,1.0
+stiemgr01,Greg Stiemsma,Team.BOSTON_CELTICS,Location.HOME,Team.MIAMI_HEAT,2012-06-03,Outcome.WIN,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

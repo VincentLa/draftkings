@@ -1,0 +1,27 @@
+slug,name,team,location,opponent,date_played,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,total_points_scored,total_rebounds,assists,steals,blocks,turnovers,double_double_flag,triple_double_flag,draftkings_points
+antetgi01,Giannis Antetokounmpo,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,2052,9,17,1,3,6,10,25,10,5,1,3,4,1,0,53.0
+middlkh01,Khris Middleton,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,2175,11,15,4,7,4,5,30,6,7,0,0,0,0,0,50.0
+lowryky01,Kyle Lowry,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,2044,6,11,3,7,10,10,25,5,6,0,0,1,0,0,41.25
+gasolma01,Marc Gasol,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,1832,6,11,3,6,2,2,17,5,7,1,2,0,0,0,41.25
+leonaka01,Kawhi Leonard,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,2046,6,13,1,3,6,8,19,7,1,4,2,2,0,0,40.75
+ibakase01,Serge Ibaka,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,1445,7,12,0,3,3,3,17,13,2,1,0,1,1,0,39.25
+powelno01,Norman Powell,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,1946,6,18,4,13,2,3,18,5,3,1,0,3,0,0,31.25
+vanvlfr01,Fred VanVleet,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,1508,5,6,3,3,0,0,13,1,6,1,0,1,0,0,26.25
+hillge01,George Hill,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,1610,1,2,1,2,2,2,5,5,3,2,0,0,0,0,20.25
+siakapa01,Pascal Siakam,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,1390,3,6,0,2,1,1,7,4,6,0,0,2,0,0,20.0
+lopezbr01,Brook Lopez,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,1506,3,5,2,3,0,0,8,2,3,1,1,1,0,0,19.5
+ilyaser01,Ersan İlyasova,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,1072,3,5,0,2,1,2,7,2,1,3,0,1,0,0,16.5
+mirotni01,Nikola Mirotić,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,1487,4,10,2,8,1,2,11,1,2,1,0,4,0,0,16.25
+brogdma01,Malcolm Brogdon,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,1653,2,11,0,3,0,1,4,5,3,0,0,0,0,0,14.75
+bledser01,Eric Bledsoe,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,1227,2,7,0,2,1,2,5,3,2,0,0,0,0,0,11.75
+connapa01,Pat Connaughton,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,810,1,4,1,3,0,0,3,2,2,0,1,1,0,0,10.5
+greenda02,Danny Green,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,1492,2,5,0,2,0,0,4,1,1,1,1,1,0,0,10.25
+fraziti01,Tim Frazier,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,185,0,1,0,1,2,2,2,2,1,0,0,0,0,0,6.0
+brownst02,Sterling Brown,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,219,1,2,0,1,0,0,2,0,1,0,0,0,0,0,3.5
+snellto01,Tony Snell,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,185,0,1,0,0,0,0,0,1,0,0,1,0,0,0,3.25
+wilsodj01,D.J. Wilson,Team.MILWAUKEE_BUCKS,Location.AWAY,Team.TORONTO_RAPTORS,2019-05-21,Outcome.LOSS,219,0,0,0,0,0,0,0,1,0,0,1,1,0,0,2.75
+moreler01,Eric Moreland,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,128,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.25
+bouchch01,Chris Boucher,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,128,0,2,0,1,0,0,0,1,0,0,0,0,0,0,1.25
+meeksjo01,Jodie Meeks,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,185,0,2,0,1,0,0,0,1,0,0,0,0,0,0,1.25
+millema01,Malcolm Miller,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+linje01,Jeremy Lin,Team.TORONTO_RAPTORS,Location.HOME,Team.MILWAUKEE_BUCKS,2019-05-21,Outcome.WIN,128,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0
